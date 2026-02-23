@@ -1,0 +1,26 @@
+{
+  "scraped_at": "2026-02-12T09:15:30",
+  "influencers": [
+    "MrBeast",
+    "Logan Paul",
+    "Emma Chamberlain"
+  ],
+  "total_profiles": 3,
+  "comparison": {
+    "youtube_subscribers": {
+      "MrBeast": 466000000,
+      "Logan Paul": 23600000,
+      "Emma Chamberlain": 12000000
+    },
+    "youtube_views": {
+      "MrBeast": 110000000000,
+      "Logan Paul": 6000000000,
+      "Emma Chamberlain": 1700000000
+    },
+    "political_leaning": {
+      "MrBeast": "无政治倾向",
+      "Logan Paul": "中间偏右",
+      "Emma Chamberlain": "中间偏左"
+    }
+  }
+}

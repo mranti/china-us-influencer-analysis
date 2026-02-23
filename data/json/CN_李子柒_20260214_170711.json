@@ -1,0 +1,62 @@
+{
+  "key": "liziqi",
+  "name": "李子柒",
+  "real_name": "李佳佳",
+  "category": "传统文化/生活方式",
+  "overall_direction": "中国传统文化传播，田园生活方式展示",
+  "political_stance": "文化输出/中性",
+  "platforms": {
+    "bilibili": {
+      "platform": "bilibili",
+      "status": "success",
+      "followers": 10339650,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [],
+      "error": ""
+    },
+    "weibo": {
+      "platform": "weibo",
+      "status": "success",
+      "followers": 27500000,
+      "views": 5610000,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "微博数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            3366000,
+            7853999
+          ]
+        }
+      ],
+      "error": ""
+    },
+    "douyin": {
+      "platform": "douyin",
+      "status": "success",
+      "followers": 49000000,
+      "views": 32666666,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "抖音数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            19599999,
+            45733332
+          ]
+        }
+      ],
+      "error": ""
+    }
+  },
+  "collected_at": "2026-02-14T17:07:05.910103"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "麻薯波比",
+  "category": "知识/历史/军事",
+  "political_stance": "民族主义/温和建制派",
+  "platforms": {
+    "bilibili": {
+      "status": "✅ 真实数据",
+      "followers": 3163834,
+      "source": "Bilibili开放API",
+      "reliability": "100%",
+      "note": "实时准确数据"
+    },
+    "weibo": {
+      "status": "⚠️ 估算值",
+      "estimated_followers": 790000,
+      "range": "50万-110万",
+      "source": "跨平台互动率反推",
+      "reliability": "60-70%",
+      "note": "微博反爬严格，无法获取真实数据"
+    },
+    "douyin": {
+      "status": "⚠️ 估算值",
+      "estimated_followers": 3800000,
+      "range": "250万-570万",
+      "source": "同类UP主比例估算",
+      "reliability": "60-70%",
+      "note": "抖音反爬极强，需要签名算法"
+    },
+    "wechat_official": {
+      "status": "⚠️ 估算值",
+      "estimated_followers": 500000,
+      "range": "30万-80万",
+      "source": "行业平均值推算",
+      "reliability": "40-50%",
+      "note": "微信无公开API，数据完全封闭"
+    },
+    "wechat_channels": {
+      "status": "⚠️ 估算值",
+      "estimated_followers": 790000,
+      "range": "50万-100万",
+      "source": "行业平均值推算",
+      "reliability": "40-50%",
+      "note": "视频号完全封闭，无任何公开数据"
+    }
+  }
+}

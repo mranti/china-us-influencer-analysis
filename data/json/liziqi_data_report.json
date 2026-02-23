@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-02-06T18:14:14.980962",
+  "influencer": "李子柒",
+  "accounts": {
+    "youtube": {
+      "name": "李子柒 Liziqi",
+      "channel_id": "UCoC47do520os_4DBMEFGg4A",
+      "handle": "@李子柒Liziqi",
+      "url": "https://youtube.com/@李子柒Liziqi",
+      "followers": 17800000,
+      "total_views": 3000000000
+    },
+    "douyin": {
+      "name": "李子柒",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAA5Z9UOw4rBqETtVY0zn7wJHxwrJjukjmFEYYPTarJoRA",
+      "followers": 49000000,
+      "likes": 600000000
+    },
+    "bilibili": {
+      "name": "李子柒",
+      "uid": "19577966",
+      "url": "https://space.bilibili.com/19577966",
+      "followers": 10342183
+    },
+    "weibo": {
+      "name": "@李子柒",
+      "uid": "2970459952",
+      "url": "https://weibo.com/u/2970459952",
+      "followers": 27500000
+    },
+    "xiaohongshu": {
+      "name": "李子柒",
+      "followers": 5000000
+    }
+  },
+  "note": "部分数据为估算值"
+}

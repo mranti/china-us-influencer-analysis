@@ -1,0 +1,32 @@
+{
+  "name": "麻薯波比",
+  "search_time": "2026-02-15T15:10:44.551150",
+  "platforms": {
+    "bilibili": {
+      "status": "success",
+      "followers": 3163834,
+      "source": "api"
+    },
+    "weibo": {
+      "status": "failed",
+      "followers": 0,
+      "error": "All methods failed"
+    },
+    "douyin": {
+      "status": "failed",
+      "followers": 0,
+      "error": "All methods failed"
+    },
+    "wechat_official": {
+      "status": "limited",
+      "method": "sogou",
+      "followers": 0,
+      "note": "找到公众号但无法获取粉丝数，微信无公开API"
+    },
+    "wechat_channels": {
+      "status": "failed",
+      "followers": 0,
+      "error": "WeChat Channels has no public data"
+    }
+  }
+}

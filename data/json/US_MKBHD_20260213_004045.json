@@ -1,0 +1,251 @@
+{
+  "name": "Marques Brownlee",
+  "handle": "MKBHD",
+  "category": "科技评测",
+  "political_leaning": "neutral",
+  "timestamp": "2026-02-13T00:40:44.106376",
+  "platforms": {
+    "youtube": {
+      "platform": "YouTube",
+      "status": "success",
+      "followers": 0,
+      "views": 1259547,
+      "engagement_rate": 3.29,
+      "recent_posts": [
+        {
+          "video_id": "zPAY2VxfFBk",
+          "title": "The Problem with these Smartphone Batteries",
+          "url": "https://youtube.com/watch?v=zPAY2VxfFBk",
+          "published_at": "2026-02-06T21:03:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+          "views": 1895971,
+          "likes": 78518,
+          "comments": 6012
+        },
+        {
+          "video_id": "Qr4anBkL2_A",
+          "title": "This is NOT an iPhone",
+          "url": "https://youtube.com/watch?v=Qr4anBkL2_A",
+          "published_at": "2026-01-30T19:34:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qr4anBkL2_A/hqdefault.jpg",
+          "views": 4104572,
+          "likes": 130389,
+          "comments": 3211
+        },
+        {
+          "video_id": "LXmNeVLM4e4",
+          "title": "PSA: You look like this",
+          "url": "https://youtube.com/watch?v=LXmNeVLM4e4",
+          "published_at": "2026-01-27T17:36:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/LXmNeVLM4e4/hqdefault.jpg",
+          "views": 2891849,
+          "likes": 82373,
+          "comments": 1153
+        },
+        {
+          "video_id": "vZdbbN3FCzE",
+          "title": "The Downfall of OnePlus will be Studied",
+          "url": "https://youtube.com/watch?v=vZdbbN3FCzE",
+          "published_at": "2026-01-26T19:13:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+          "views": 4270459,
+          "likes": 122480,
+          "comments": 12462
+        },
+        {
+          "video_id": "DqAKQwagCDg",
+          "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+          "url": "https://youtube.com/watch?v=DqAKQwagCDg",
+          "published_at": "2026-01-22T19:45:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+          "views": 3381069,
+          "likes": 90649,
+          "comments": 3568
+        },
+        {
+          "video_id": "PTd98UnJnnU",
+          "title": "This TECH Knife is Insane!",
+          "url": "https://youtube.com/watch?v=PTd98UnJnnU",
+          "published_at": "2026-01-16T21:56:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/PTd98UnJnnU/hqdefault.jpg",
+          "views": 23109733,
+          "likes": 672378,
+          "comments": 21425
+        },
+        {
+          "video_id": "TVsounscj4U",
+          "title": "The New Siri is... Google (Explained)",
+          "url": "https://youtube.com/watch?v=TVsounscj4U",
+          "published_at": "2026-01-13T00:26:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/TVsounscj4U/hqdefault.jpg",
+          "views": 3871672,
+          "likes": 112491,
+          "comments": 10208
+        },
+        {
+          "video_id": "HLUamwXQ218",
+          "title": "The Problem with this “Ultra Luxury” Smartphone",
+          "url": "https://youtube.com/watch?v=HLUamwXQ218",
+          "published_at": "2026-01-09T23:21:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/HLUamwXQ218/hqdefault.jpg",
+          "views": 2532610,
+          "likes": 78051,
+          "comments": 5677
+        },
+        {
+          "video_id": "Jh9pFp1oM7E",
+          "title": "I shrunk down into an M5 chip",
+          "url": "https://youtube.com/watch?v=Jh9pFp1oM7E",
+          "published_at": "2025-12-26T15:00:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jh9pFp1oM7E/hqdefault.jpg",
+          "views": 3226822,
+          "likes": 238967,
+          "comments": 9589
+        },
+        {
+          "video_id": "v-sCZN3FbR0",
+          "title": "Every Mistake I Made in 2025",
+          "url": "https://youtube.com/watch?v=v-sCZN3FbR0",
+          "published_at": "2025-12-23T00:51:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/v-sCZN3FbR0/hqdefault.jpg",
+          "views": 1259547,
+          "likes": 55525,
+          "comments": 2486
+        }
+      ],
+      "top_post": {
+        "video_id": "PTd98UnJnnU",
+        "title": "This TECH Knife is Insane!",
+        "url": "https://youtube.com/watch?v=PTd98UnJnnU",
+        "published_at": "2026-01-16T21:56:34Z",
+        "thumbnail": "https://i.ytimg.com/vi/PTd98UnJnnU/hqdefault.jpg",
+        "views": 23109733,
+        "likes": 672378,
+        "comments": 21425
+      },
+      "error_message": "",
+      "method_used": "YouTube Data API v3"
+    },
+    "podcast": {
+      "platform": "Podcast",
+      "status": "success",
+      "followers": 3360000,
+      "views": 16800000,
+      "engagement_rate": 0.0,
+      "recent_posts": [
+        {
+          "title": "How We Filmed Our Work Lives for 1 Year!",
+          "published": "Tue, 10 Feb 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "4235",
+          "summary": "In this bonus episode, we get a behind the scenes look at what it took to make the \"Year in the Life\" video on The Studio channel! It's a behind-the-scenes of the behind-the-scenes episode as Eric and"
+        },
+        {
+          "title": "Tesla Gives Up on Model S & X!",
+          "published": "Fri, 06 Feb 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "6745",
+          "summary": "This week, the crew sits down and immediately jump into the new Studio video that just dropped which documented all of 2025! After that, they discuss the news that Tesla is discontinuing the Model S a"
+        },
+        {
+          "title": "How Much Will the iPhone Fold Cost?",
+          "published": "Fri, 30 Jan 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "6949",
+          "summary": "This week, the crew sits down to talk about everything from new Apple AirTags to TikTok now being partially owned by the U.S government. Along the way they throw in some talk about the weather and Kha"
+        },
+        {
+          "title": "EXCLUSIVE: Lots of Drama Around OnePlus",
+          "published": "Fri, 23 Jan 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "5166",
+          "summary": "This week, the crew sits down to chat about everything from ads in ChatGPT and Threads to some OnePlus drama that just leads to reminiscing about old OnePlus phones. There is also a whole lot of new f"
+        },
+        {
+          "title": "Phones Will Cost More, but This Camera Is Free?",
+          "published": "Fri, 16 Jan 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "5106",
+          "summary": "In this week's episode the cast is joined by Mariah Zenk and we discuss a phone that feels more like a camera than a phone, why a certain Fuji camera is being given away, everything is a subscription,"
+        },
+        {
+          "title": "CES 2026 Actually Has Some Bangers?",
+          "published": "Fri, 09 Jan 2026 09:00:00 -0000",
+          "link": "",
+          "duration": "9257",
+          "summary": "We're back! After a nice long holiday break we're back with 2.5 hours of complete chaos. We start off with a few quick updates before getting into everything from the new Pickle AR glasses that were a"
+        },
+        {
+          "title": "Waveform’s Favorite Cameras!",
+          "published": "Tue, 23 Dec 2025 09:00:00 -0000",
+          "link": "",
+          "duration": "4722",
+          "summary": "We recorded one more bonus episode before going on holiday break all about one of our favorite topics...cameras! In this one, Marques, Andrew, Adam, and Ellis all try to be David's favorite. The crew "
+        },
+        {
+          "title": "WTF Happened in 2025 - Waveform Rewind",
+          "published": "Fri, 19 Dec 2025 09:00:00 -0000",
+          "link": "",
+          "duration": "5844",
+          "summary": "It's the last regularly scheduled episode of the year and the gadgets just keep coming! Marques, Andrew, and David get right into the Samsung Galaxy Z TriFold before talking about a new Instagram app "
+        },
+        {
+          "title": "The Phone of the Year is...",
+          "published": "Fri, 12 Dec 2025 09:00:00 -0000",
+          "link": "",
+          "duration": "6913",
+          "summary": "This week, the crew sits down to talk smartphones. They go over each of the phones that Marques picked and offer a few hot takes along the way. On top of that they also talk about the Android XR show,"
+        },
+        {
+          "title": "Samsung Galaxy Z TriFold is here fr fr on God",
+          "published": "Fri, 05 Dec 2025 09:00:00 -0000",
+          "link": "",
+          "duration": "7097",
+          "summary": "We're back with a super long episode this week! First, Marques unboxes a special birthday present before we get into the Samsung Galaxy Z TriFold videos that dropped this week. Then it's all about all"
+        }
+      ],
+      "top_post": {
+        "title": "How We Filmed Our Work Lives for 1 Year!",
+        "published": "Tue, 10 Feb 2026 09:00:00 -0000",
+        "link": "",
+        "duration": "4235",
+        "summary": "In this bonus episode, we get a behind the scenes look at what it took to make the \"Year in the Life\" video on The Studio channel! It's a behind-the-scenes of the behind-the-scenes episode as Eric and"
+      },
+      "error_message": "",
+      "method_used": "RSS Feed"
+    },
+    "twitter": {
+      "platform": "Twitter/X",
+      "status": "failed",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "All scraping methods blocked by anti-bot protection",
+      "method_used": ""
+    },
+    "tiktok": {
+      "platform": "TikTok",
+      "status": "failed",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "TikTok anti-bot protection active",
+      "method_used": ""
+    },
+    "facebook": {
+      "platform": "Facebook",
+      "status": "not_available",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "Facebook requires authenticated API or browser automation",
+      "method_used": ""
+    }
+  }
+}

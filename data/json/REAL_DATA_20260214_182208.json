@@ -1,0 +1,341 @@
+[
+  {
+    "name": "MKBHD",
+    "handle": "mkbhd",
+    "category": "Technology",
+    "political_leaning": "科技自由主义",
+    "platforms": {
+      "x": {
+        "platform": "x",
+        "status": "error",
+        "method": "snscrape",
+        "error": "4 requests to https://twitter.com/i/api/graphql/pVrmNaXcxPjisIvKtLDMEA/UserByScreenName?variables=%7B%22screen_name%22%3A%22MKBHD%22%2C%22withSafetyModeUserFields%22%3Atrue%7D&features=%7B%22blue_business_profile_image_shape_enabled%22%3Atrue%2C%22responsive_web_graphql_exclude_directive_enabled%22%3Atrue%2C%22verified_phone_label_enabled%22%3Afalse%2C%22highlights_tweets_tab_ui_enabled%22%3Afalse%2C%22creator_subscriptions_tweet_preview_api_enabled%22%3Afalse%2C%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22%3Afalse%2C%22responsive_web_graphql_timeline_navigation_enabled%22%3Atrue%7D failed, giving up.",
+        "followers": 0
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "error",
+        "method": "TikTokApi",
+        "error": "'User' object has no attribute 'info_full'",
+        "followers": 0
+      },
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 5186780,
+        "following": 553,
+        "posts_count": 2088,
+        "url": "https://instagram.com/mkbhd",
+        "recent_posts": [
+          {
+            "shortcode": "DUJYqZ7D6sQ",
+            "caption": "This is NOT an iPhone",
+            "likes": 50542,
+            "comments": 529,
+            "date": "2026-01-30 19:32:45",
+            "url": "https://instagram.com/p/DUJYqZ7D6sQ"
+          },
+          {
+            "shortcode": "DUBc_h-Djvg",
+            "caption": "Incredibly niche PSA",
+            "likes": 32888,
+            "comments": 294,
+            "date": "2026-01-27 17:35:50",
+            "url": "https://instagram.com/p/DUBc_h-Djvg"
+          },
+          {
+            "shortcode": "DTlmPtED0GD",
+            "caption": "Sorry dinner is late, I had to charge my knife",
+            "likes": 132905,
+            "comments": 2352,
+            "date": "2026-01-16 21:57:49",
+            "url": "https://instagram.com/p/DTlmPtED0GD"
+          },
+          {
+            "shortcode": "DTjUUtZDFe-",
+            "caption": "2016. This was now a decade ago 👴🏾",
+            "likes": 365217,
+            "comments": 840,
+            "date": "2026-01-16 00:47:02",
+            "url": "https://instagram.com/p/DTjUUtZDFe-"
+          },
+          {
+            "shortcode": "DS0oE12DwwC",
+            "caption": "W R A P P E D",
+            "likes": 42660,
+            "comments": 170,
+            "date": "2025-12-28 21:30:29",
+            "url": "https://instagram.com/p/DS0oE12DwwC"
+          },
+          {
+            "shortcode": "DSuyHzADsM6",
+            "caption": "GO WATCH THE WHOLE THING",
+            "likes": 28474,
+            "comments": 250,
+            "date": "2025-12-26 15:04:24",
+            "url": "https://instagram.com/p/DSuyHzADsM6"
+          },
+          {
+            "shortcode": "DSnAQkkDo9r",
+            "caption": "Full circle @dbrand",
+            "likes": 21187,
+            "comments": 106,
+            "date": "2025-12-23 14:33:02",
+            "url": "https://instagram.com/p/DSnAQkkDo9r"
+          },
+          {
+            "shortcode": "DSa_t1gjxmn",
+            "caption": "Proof the Trifold is awesome. I feel like I’m living in the future with a tablet everywhere I go",
+            "likes": 79078,
+            "comments": 646,
+            "date": "2025-12-18 22:37:37",
+            "url": "https://instagram.com/p/DSa_t1gjxmn"
+          },
+          {
+            "shortcode": "DSDJ9d4jjLN",
+            "caption": "My Smartphone Awards 2025 (video spoiler)",
+            "likes": 144071,
+            "comments": 1205,
+            "date": "2025-12-09 16:24:33",
+            "url": "https://instagram.com/p/DSDJ9d4jjLN"
+          },
+          {
+            "shortcode": "DRzhZa2jR2J",
+            "caption": "How I feel about turning 32 today 👴🏾",
+            "likes": 39003,
+            "comments": 975,
+            "date": "2025-12-03 14:41:29",
+            "url": "https://instagram.com/p/DRzhZa2jR2J"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "MrBeast",
+    "handle": "mrbeast",
+    "category": "Entertainment",
+    "political_leaning": "商业中立",
+    "platforms": {
+      "x": {
+        "platform": "x",
+        "status": "error",
+        "method": "snscrape",
+        "error": "4 requests to https://twitter.com/i/api/graphql/pVrmNaXcxPjisIvKtLDMEA/UserByScreenName?variables=%7B%22screen_name%22%3A%22MrBeast%22%2C%22withSafetyModeUserFields%22%3Atrue%7D&features=%7B%22blue_business_profile_image_shape_enabled%22%3Atrue%2C%22responsive_web_graphql_exclude_directive_enabled%22%3Atrue%2C%22verified_phone_label_enabled%22%3Afalse%2C%22highlights_tweets_tab_ui_enabled%22%3Afalse%2C%22creator_subscriptions_tweet_preview_api_enabled%22%3Afalse%2C%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22%3Afalse%2C%22responsive_web_graphql_timeline_navigation_enabled%22%3Atrue%7D failed, giving up.",
+        "followers": 0
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "error",
+        "method": "TikTokApi",
+        "error": "'User' object has no attribute 'info_full'",
+        "followers": 0
+      },
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 84824262,
+        "following": 893,
+        "posts_count": 453,
+        "url": "https://instagram.com/mrbeast",
+        "recent_posts": [
+          {
+            "shortcode": "DC7Y9vyyg_b",
+            "caption": "We are both dropping big videos together November 30th 👀",
+            "likes": 19655144,
+            "comments": 181818,
+            "date": "2024-11-28 20:10:49",
+            "url": "https://instagram.com/p/DC7Y9vyyg_b"
+          },
+          {
+            "shortcode": "DUvd6BykR38",
+            "caption": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+            "likes": 1290492,
+            "comments": 6468,
+            "date": "2026-02-14 14:28:13",
+            "url": "https://instagram.com/p/DUvd6BykR38"
+          },
+          {
+            "shortcode": "DUqnn90EVn2",
+            "caption": "Only the best chocolate for my Valentine @thea_booysen 💝",
+            "likes": 963978,
+            "comments": 7229,
+            "date": "2026-02-12 17:17:42",
+            "url": "https://instagram.com/p/DUqnn90EVn2"
+          },
+          {
+            "shortcode": "DUmDjceEXcO",
+            "caption": "I can’t tell the difference",
+            "likes": 455384,
+            "comments": 5625,
+            "date": "2026-02-10 22:45:08",
+            "url": "https://instagram.com/p/DUmDjceEXcO"
+          },
+          {
+            "shortcode": "DUhUPEUkWE2",
+            "caption": "I like Football",
+            "likes": 5345333,
+            "comments": 16612,
+            "date": "2026-02-09 02:34:20",
+            "url": "https://instagram.com/p/DUhUPEUkWE2"
+          },
+          {
+            "shortcode": "DUdv5mhCRzI",
+            "caption": "Which age 1-100 is superior? (Don’t say 67)\n\nGo find out the answer in my new video where we had one",
+            "likes": 247119,
+            "comments": 7398,
+            "date": "2026-02-07 17:19:07",
+            "url": "https://instagram.com/p/DUdv5mhCRzI"
+          },
+          {
+            "shortcode": "DUckQ7Vjtby",
+            "caption": "@mrbeast shocks the audience with $1,000 each and @drewbarrymore during Box of Lies! #FallonTonight",
+            "likes": 351796,
+            "comments": 4892,
+            "date": "2026-02-07 06:18:35",
+            "url": "https://instagram.com/p/DUckQ7Vjtby"
+          },
+          {
+            "shortcode": "DUbdY-0kkTw",
+            "caption": "In case you haven’t heard, I’m giving away over $1 MILLION in prizes livestreaming on @whatnot befor",
+            "likes": 303565,
+            "comments": 12647,
+            "date": "2026-02-06 19:59:39",
+            "url": "https://instagram.com/p/DUbdY-0kkTw"
+          },
+          {
+            "shortcode": "DUWAzTTkZN_",
+            "caption": "Time to find out whose heart and chances of reaching the top 10 in @beastgames will be shattered 👀\n\n",
+            "likes": 926079,
+            "comments": 7856,
+            "date": "2026-02-04 17:12:52",
+            "url": "https://instagram.com/p/DUWAzTTkZN_"
+          },
+          {
+            "shortcode": "DURNPK6Eear",
+            "caption": "Please help if you care about me",
+            "likes": 448309,
+            "comments": 18894,
+            "date": "2026-02-02 20:27:50",
+            "url": "https://instagram.com/p/DURNPK6Eear"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Joe Rogan",
+    "handle": "joerogan",
+    "category": "Podcast/Politics",
+    "political_leaning": "自由意志主义",
+    "platforms": {
+      "x": {
+        "platform": "x",
+        "status": "error",
+        "method": "snscrape",
+        "error": "4 requests to https://twitter.com/i/api/graphql/pVrmNaXcxPjisIvKtLDMEA/UserByScreenName?variables=%7B%22screen_name%22%3A%22joerogan%22%2C%22withSafetyModeUserFields%22%3Atrue%7D&features=%7B%22blue_business_profile_image_shape_enabled%22%3Atrue%2C%22responsive_web_graphql_exclude_directive_enabled%22%3Atrue%2C%22verified_phone_label_enabled%22%3Afalse%2C%22highlights_tweets_tab_ui_enabled%22%3Afalse%2C%22creator_subscriptions_tweet_preview_api_enabled%22%3Afalse%2C%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22%3Afalse%2C%22responsive_web_graphql_timeline_navigation_enabled%22%3Atrue%7D failed, giving up.",
+        "followers": 0
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "error",
+        "method": "TikTokApi",
+        "error": "'User' object has no attribute 'info_full'",
+        "followers": 0
+      },
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 19984966,
+        "following": 5865,
+        "posts_count": 7380,
+        "url": "https://instagram.com/joerogan",
+        "recent_posts": [
+          {
+            "shortcode": "C3GoHKuMSJH",
+            "caption": "The podcast is now officially back on @apple\nWe should be back on @youtube with full episodes in the",
+            "likes": 443691,
+            "comments": 27108,
+            "date": "2024-02-08 22:38:06",
+            "url": "https://instagram.com/p/C3GoHKuMSJH"
+          },
+          {
+            "shortcode": "C3VHXDTM0pb",
+            "caption": "My @Spotify playlist “Green Room” is available to everyone.  It’s currently over 18 hours long, and ",
+            "likes": 131071,
+            "comments": 5313,
+            "date": "2024-02-14 13:40:31",
+            "url": "https://instagram.com/p/C3VHXDTM0pb"
+          },
+          {
+            "shortcode": "DT6Q8DoEupr",
+            "caption": "Time for the best job in the world! @ufc #ufc324 @carnivore.snax live on @paramountplus",
+            "likes": 91438,
+            "comments": 2199,
+            "date": "2026-01-24 22:36:46",
+            "url": "https://instagram.com/p/DT6Q8DoEupr"
+          },
+          {
+            "shortcode": "DT5k6lxgRQG",
+            "caption": "LAS VEGAS — At long last, the UFC returns to action tonight! See you all 🔜! #UFC324 • @paramountufc ",
+            "likes": 13612,
+            "comments": 613,
+            "date": "2026-01-24 16:12:43",
+            "url": "https://instagram.com/p/DT5k6lxgRQG"
+          },
+          {
+            "shortcode": "DT30lS9jMTo",
+            "caption": "Backstage with an equipment box at the @ufc weigh ins that has the old school logo.  This box has se",
+            "likes": 133258,
+            "comments": 703,
+            "date": "2026-01-23 23:51:06",
+            "url": "https://instagram.com/p/DT30lS9jMTo"
+          },
+          {
+            "shortcode": "DTvC6cDD5pm",
+            "caption": "BIG thank you to to you @joerogan for being the GOAT — and for letting me play with Marshall ❤️ Frie",
+            "likes": 70633,
+            "comments": 1752,
+            "date": "2026-01-20 14:00:00",
+            "url": "https://instagram.com/p/DTvC6cDD5pm"
+          },
+          {
+            "shortcode": "DTd6FD8ERrg",
+            "caption": "Elk steaks for dinner. \nCovered them in olive oil and @traegergrills blackened Saskatchewan rub.  Co",
+            "likes": 290296,
+            "comments": 3713,
+            "date": "2026-01-13 22:16:40",
+            "url": "https://instagram.com/p/DTd6FD8ERrg"
+          },
+          {
+            "shortcode": "DS-zYVWkXF6",
+            "caption": "Start your year off with Joe Rogan and Friends next week!\n\nWe actually have 3 next week: \n\nTuesday 1",
+            "likes": 8092,
+            "comments": 7976,
+            "date": "2026-01-01 20:21:40",
+            "url": "https://instagram.com/p/DS-zYVWkXF6"
+          },
+          {
+            "shortcode": "DSwFgsNDF2s",
+            "caption": "The perfect woman doesn’t exist…",
+            "likes": 55569,
+            "comments": 2109,
+            "date": "2025-12-27 03:11:29",
+            "url": "https://instagram.com/p/DSwFgsNDF2s"
+          },
+          {
+            "shortcode": "DRxuhMliQoW",
+            "caption": "Back again for your regular dose of meathead chemistry!\n\nAlways a great time chopping it up with @jo",
+            "likes": 58043,
+            "comments": 1117,
+            "date": "2025-12-02 21:57:40",
+            "url": "https://instagram.com/p/DRxuhMliQoW"
+          }
+        ]
+      }
+    }
+  }
+]

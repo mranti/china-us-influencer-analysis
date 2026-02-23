@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-02-12T14:58:40.624891",
+  "influencers": {
+    "MKBHD": {
+      "name": "Marques Brownlee",
+      "category": "Technology",
+      "political_leaning": "科技自由主义",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "status": "failed",
+          "error": "'contentDetails'"
+        },
+        "x": {
+          "platform": "X",
+          "status": "success",
+          "followers": 0,
+          "recent_posts": []
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "status": "success",
+          "followers": 0,
+          "total_likes": 0
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "status": "failed",
+          "error": "No data found"
+        }
+      }
+    },
+    "MrBeast": {
+      "name": "MrBeast",
+      "category": "Entertainment",
+      "political_leaning": "商业中立",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "status": "failed",
+          "error": "'contentDetails'"
+        },
+        "x": {
+          "platform": "X",
+          "status": "success",
+          "followers": 0,
+          "recent_posts": []
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "status": "success",
+          "followers": 0,
+          "total_likes": 0
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "status": "failed",
+          "error": "No data found"
+        }
+      }
+    },
+    "JoeRogan": {
+      "name": "Joe Rogan Experience",
+      "category": "Podcast/Politics",
+      "political_leaning": "自由意志主义",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "status": "failed",
+          "error": "'contentDetails'"
+        },
+        "podcast": {
+          "platform": "Podcast",
+          "status": "failed",
+          "error": "No episodes"
+        },
+        "x": {
+          "platform": "X",
+          "status": "success",
+          "followers": 0,
+          "recent_posts": []
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "status": "success",
+          "followers": 0,
+          "total_likes": 0
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "status": "failed",
+          "error": "No data found"
+        }
+      }
+    }
+  }
+}

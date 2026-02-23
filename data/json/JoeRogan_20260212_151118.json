@@ -1,0 +1,110 @@
+{
+  "name": "Joe Rogan Experience",
+  "category": "Podcast/Politics",
+  "political_leaning": "自由意志主义",
+  "scraped_at": "2026-02-12T15:11:18.760069",
+  "youtube": {
+    "channel_name": "PowerfulJRE",
+    "subscriber_count": 20700000,
+    "total_views": 6416076433,
+    "video_count": 3539,
+    "recent_videos": [
+      {
+        "title": "Joe Rogan Experience #2453 - Evan Hafer",
+        "url": "https://youtube.com/watch?v=y2SD_z61FRo"
+      },
+      {
+        "title": "Joe Rogan Experience #2452 - Roger Avary",
+        "url": "https://youtube.com/watch?v=CH5JoJ_-hic"
+      },
+      {
+        "title": "Joe Rogan Experience #2451 - Cheryl Hines",
+        "url": "https://youtube.com/watch?v=0sMrvv53e9Y"
+      },
+      {
+        "title": "Joe Rogan Experience #2450 - Tommy Wood",
+        "url": "https://youtube.com/watch?v=UPfN2G0RyQM"
+      },
+      {
+        "title": "Joe Rogan Experience #2449 - Raul Bilecky",
+        "url": "https://youtube.com/watch?v=BvhFuEp55X0"
+      },
+      {
+        "title": "Joe Rogan Experience #2448 - Andrew Doyle",
+        "url": "https://youtube.com/watch?v=Dnon-AsWnOQ"
+      },
+      {
+        "title": "Joe Rogan Experience #2447 - Mike Benz",
+        "url": "https://youtube.com/watch?v=MkqDA9W4Vo0"
+      },
+      {
+        "title": "Joe Rogan Experience #2446 - Greg Fitzsimmons",
+        "url": "https://youtube.com/watch?v=IbhDeUcZ_iw"
+      },
+      {
+        "title": "Joe Rogan Experience #2445 - Bert Kreischer",
+        "url": "https://youtube.com/watch?v=gYcuTY7tnvk"
+      },
+      {
+        "title": "Joe Rogan Experience #2444 - Andrew Wilson",
+        "url": "https://youtube.com/watch?v=0-Jalhl4CEE"
+      }
+    ]
+  },
+  "podcast": {
+    "podcast_name": "The Joe Rogan Experience",
+    "total_episodes": 2637,
+    "recent_episodes": [
+      {
+        "title": "#2452 - Roger Avary",
+        "published": "Wed, 11 Feb 2026 18:00:00 -0000",
+        "description": "Roger Avary is a director, producer, and Academy Award-winning screenwriter known for “Pulp Fiction,” which he co-wrote with Quentin Tarantino, as well as “The Rules of Attraction” and “Killing Zoe.” "
+      },
+      {
+        "title": "#2451 - Cheryl Hines",
+        "published": "Tue, 10 Feb 2026 18:00:00 -0000",
+        "description": "Cheryl Hines is an Emmy Award-nominated actress, director, producer, and comedian. While she is best known for her role as Cheryl David on the HBO series “Curb Your Enthusiasm,” Hines has appeared in "
+      },
+      {
+        "title": "#2450 - Tommy Wood",
+        "published": "Fri, 06 Feb 2026 18:00:00 -0000",
+        "description": "Tommy Wood, PhD, is a neuroscientist and athletic performance coach. He is a host of the “Better Brain Fitness” podcast and author of “The Stimulated Mind: Future-Proof Your Brain from Dementia and St"
+      },
+      {
+        "title": "#2449 - Raul Bilecky",
+        "published": "Thu, 05 Feb 2026 18:00:00 -0000",
+        "description": "Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”www.youtube.com/@PillarsofthePast101https://www.patreon.com/PillarsofthePastwww.pillarsofthepast.com\n\n\n"
+      },
+      {
+        "title": "#2448 - Andrew Doyle",
+        "published": "Wed, 04 Feb 2026 18:00:00 -0000",
+        "description": "Andrew Doyle is a writer, broadcaster, and comedian. He is the author of several books, including his most recent, “The End of Woke: How the Culture War Went Too Far and What to Expect from the Counte"
+      },
+      {
+        "title": "#2447 - Mike Benz",
+        "published": "Tue, 03 Feb 2026 18:00:00 -0000",
+        "description": "Mike Benz is the Executive Director of the Foundation for Freedom Online and a former official with the U.S. Department of State.www.youtube.com/@MikeBenzCyberOfficialwww.foundationforfreedomonline.co"
+      },
+      {
+        "title": "#2446 - Greg Fitzsimmons",
+        "published": "Sat, 31 Jan 2026 19:00:00 -0000",
+        "description": "Greg Fitzsimmons is a comedian, actor, and writer, host of “Fitzdog Radio,” and co-host of “Sunday Papers” and “Childish.” He will be touring in 2026.www.youtube.com/@GregFitzsimmonsComedywww.sundaypa"
+      },
+      {
+        "title": "#2445 - Bert Kreischer",
+        "published": "Thu, 29 Jan 2026 18:00:00 -0000",
+        "description": "Bert Kreischer is a comedian, actor, host of “The Bertcast” and “Something’s Burning,” and co-host of “2 Bears, 1 Cave” with Tom Segura. His new show, “Free Bert,” is streaming on Netflix. He will be "
+      },
+      {
+        "title": "#2444 - Andrew Wilson",
+        "published": "Wed, 28 Jan 2026 18:00:00 -0000",
+        "description": "Andrew Wilson has participated in thousands of debates on political, cultural, and religious topics. He is the host of “The Crucible” and proprietor of its associated online school, Debate University."
+      },
+      {
+        "title": "#2443 - Filippo Biondi",
+        "published": "Fri, 23 Jan 2026 18:00:00 -0000",
+        "description": "Filippo Biondi, PhD is an engineer and signal processing researcher who was part of a team that discovered unusual signal patterns beneath Egypt’s Giza Pyramid complex using advanced radar imaging tec"
+      }
+    ]
+  }
+}

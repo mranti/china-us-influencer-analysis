@@ -1,0 +1,53 @@
+{
+  "name": "李子柒",
+  "handle": "李子柒",
+  "category": "传统文化/田园生活",
+  "political_leaning": "neutral",
+  "timestamp": "2026-02-13T00:42:15.972185",
+  "platforms": {
+    "weibo": {
+      "platform": "Weibo",
+      "status": "failed",
+      "followers": 0,
+      "likes": 0,
+      "views": 0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "Weibo requires authentication or browser automation",
+      "method_used": ""
+    },
+    "douyin": {
+      "platform": "Douyin",
+      "status": "failed",
+      "followers": 0,
+      "likes": 0,
+      "views": 0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "Douyin requires authentication",
+      "method_used": ""
+    },
+    "wechat": {
+      "platform": "WeChat",
+      "status": "failed",
+      "followers": 0,
+      "likes": 0,
+      "views": 0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "WeChat is closed platform, requires official API access",
+      "method_used": ""
+    },
+    "twitter": {
+      "platform": "Twitter",
+      "status": "not_available",
+      "followers": 0,
+      "likes": 0,
+      "views": 0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "",
+      "method_used": ""
+    }
+  }
+}

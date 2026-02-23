@@ -1,0 +1,301 @@
+{
+  "us_influencers": [
+    {
+      "name": "MKBHD",
+      "category": "Technology",
+      "political_leaning": "科技自由主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "type": "real_api",
+          "followers": 20700000,
+          "views": 5245313278,
+          "videos": 1796
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 5186582,
+          "following": 553,
+          "posts": 2088
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 2300000
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 3100000,
+          "note": "X/Twitter已封锁所有免费方法"
+        }
+      },
+      "influence_score": 23835974
+    },
+    {
+      "name": "MrBeast",
+      "category": "Entertainment",
+      "political_leaning": "商业中立",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "type": "real_api",
+          "followers": 467000000,
+          "views": 111641432055,
+          "videos": 944
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 84829155,
+          "following": 893,
+          "posts": 454
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 124700000
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 31000000,
+          "note": "X/Twitter已封锁所有免费方法"
+        }
+      },
+      "influence_score": 543843746
+    },
+    {
+      "name": "Joe Rogan Experience",
+      "category": "Podcast/Politics",
+      "political_leaning": "自由意志主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "type": "real_api",
+          "followers": 20700000,
+          "views": 6420078354,
+          "videos": 3540
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 19982956,
+          "following": 5866,
+          "posts": 7380
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 3
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 14800000,
+          "note": "X/Twitter已封锁所有免费方法"
+        },
+        "podcast": {
+          "platform": "podcast",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 11000000,
+          "note": "Spotify独家，无免费API"
+        }
+      },
+      "influence_score": 36994887
+    }
+  ],
+  "cn_influencers": [
+    {
+      "name": "李子柒",
+      "category": "传统文化/生活方式",
+      "political_stance": "文化输出/中性",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "type": "real_api",
+          "followers": 10339328,
+          "name": "李子柒"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 27500000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 49000000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 5000000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 8000000,
+          "note": "免费方法均失败，使用估算值"
+        }
+      },
+      "influence_score": 77205395
+    },
+    {
+      "name": "司马南",
+      "category": "政治评论/时事",
+      "political_stance": "民族主义/左派",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 1500000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 2200000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 8500000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 1500000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 3000000,
+          "note": "免费方法均失败，使用估算值"
+        }
+      },
+      "influence_score": 12515000
+    },
+    {
+      "name": "胡锡进",
+      "category": "政治评论/媒体",
+      "political_stance": "官方立场/建制派",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 2000000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 24800000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 12000000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 3000000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 5000000,
+          "note": "免费方法均失败，使用估算值"
+        }
+      },
+      "influence_score": 33660000
+    },
+    {
+      "name": "麻薯波比",
+      "category": "知识/历史/军事",
+      "political_stance": "民族主义/温和建制派",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "type": "real_api",
+          "followers": 3163829,
+          "name": "麻薯波比呀"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 790000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 3800000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 500000,
+          "note": "免费方法均失败，使用估算值"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "type": "estimate",
+          "followers": 790000,
+          "note": "免费方法均失败，使用估算值"
+        }
+      },
+      "influence_score": 7325446
+    }
+  ],
+  "stats": {
+    "real_data_count": 11,
+    "estimate_count": 22,
+    "real_data_percentage": 33.33333333333333
+  }
+}

@@ -1,0 +1,311 @@
+[
+  {
+    "name": "MKBHD",
+    "handle": "mkbhd",
+    "category": "Technology",
+    "political_leaning": "科技自由主义",
+    "platforms": {
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 5186779,
+        "following": 553,
+        "posts_count": 2088,
+        "recent_posts": [
+          {
+            "shortcode": "DUJYqZ7D6sQ",
+            "caption": "This is NOT an iPhone",
+            "likes": 50542,
+            "comments": 529,
+            "date": "2026-01-30 19:32:45"
+          },
+          {
+            "shortcode": "DUBc_h-Djvg",
+            "caption": "Incredibly niche PSA",
+            "likes": 32888,
+            "comments": 294,
+            "date": "2026-01-27 17:35:50"
+          },
+          {
+            "shortcode": "DTlmPtED0GD",
+            "caption": "Sorry dinner is late, I had to charge my knife",
+            "likes": 132905,
+            "comments": 2352,
+            "date": "2026-01-16 21:57:49"
+          },
+          {
+            "shortcode": "DTjUUtZDFe-",
+            "caption": "2016. This was now a decade ago 👴🏾",
+            "likes": 365217,
+            "comments": 840,
+            "date": "2026-01-16 00:47:02"
+          },
+          {
+            "shortcode": "DS0oE12DwwC",
+            "caption": "W R A P P E D",
+            "likes": 42660,
+            "comments": 170,
+            "date": "2025-12-28 21:30:29"
+          },
+          {
+            "shortcode": "DSuyHzADsM6",
+            "caption": "GO WATCH THE WHOLE THING",
+            "likes": 28474,
+            "comments": 250,
+            "date": "2025-12-26 15:04:24"
+          },
+          {
+            "shortcode": "DSnAQkkDo9r",
+            "caption": "Full circle @dbrand",
+            "likes": 21187,
+            "comments": 106,
+            "date": "2025-12-23 14:33:02"
+          },
+          {
+            "shortcode": "DSa_t1gjxmn",
+            "caption": "Proof the Trifold is awesome. I feel like I’m living in the future with a tablet everywhere I go",
+            "likes": 79078,
+            "comments": 646,
+            "date": "2025-12-18 22:37:37"
+          },
+          {
+            "shortcode": "DSDJ9d4jjLN",
+            "caption": "My Smartphone Awards 2025 (video spoiler)",
+            "likes": 144071,
+            "comments": 1205,
+            "date": "2025-12-09 16:24:33"
+          },
+          {
+            "shortcode": "DRzhZa2jR2J",
+            "caption": "How I feel about turning 32 today 👴🏾",
+            "likes": 39003,
+            "comments": 975,
+            "date": "2025-12-03 14:41:29"
+          }
+        ],
+        "url": "https://instagram.com/mkbhd"
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "success",
+        "method": "web_scrape",
+        "followers": 2300000,
+        "url": "https://www.tiktok.com/@mkbhd"
+      },
+      "x": {
+        "platform": "x",
+        "status": "blocked",
+        "method": "none",
+        "followers": 0,
+        "error": "X/Twitter has strong anti-scraping. Need proxy or account."
+      }
+    }
+  },
+  {
+    "name": "MrBeast",
+    "handle": "mrbeast",
+    "category": "Entertainment",
+    "political_leaning": "商业中立",
+    "platforms": {
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 84824276,
+        "following": 893,
+        "posts_count": 453,
+        "recent_posts": [
+          {
+            "shortcode": "DC7Y9vyyg_b",
+            "caption": "We are both dropping big videos together November 30th 👀",
+            "likes": 19655148,
+            "comments": 181819,
+            "date": "2024-11-28 20:10:49"
+          },
+          {
+            "shortcode": "DUvd6BykR38",
+            "caption": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+            "likes": 1292177,
+            "comments": 6475,
+            "date": "2026-02-14 14:28:13"
+          },
+          {
+            "shortcode": "DUqnn90EVn2",
+            "caption": "Only the best chocolate for my Valentine @thea_booysen 💝",
+            "likes": 964099,
+            "comments": 7229,
+            "date": "2026-02-12 17:17:42"
+          },
+          {
+            "shortcode": "DUmDjceEXcO",
+            "caption": "I can’t tell the difference",
+            "likes": 455426,
+            "comments": 5626,
+            "date": "2026-02-10 22:45:08"
+          },
+          {
+            "shortcode": "DUhUPEUkWE2",
+            "caption": "I like Football",
+            "likes": 5345431,
+            "comments": 16614,
+            "date": "2026-02-09 02:34:20"
+          },
+          {
+            "shortcode": "DUdv5mhCRzI",
+            "caption": "Which age 1-100 is superior? (Don’t say 67)\n\nGo find out the answer in my new video where we had one",
+            "likes": 247120,
+            "comments": 7398,
+            "date": "2026-02-07 17:19:07"
+          },
+          {
+            "shortcode": "DUckQ7Vjtby",
+            "caption": "@mrbeast shocks the audience with $1,000 each and @drewbarrymore during Box of Lies! #FallonTonight",
+            "likes": 351800,
+            "comments": 4892,
+            "date": "2026-02-07 06:18:35"
+          },
+          {
+            "shortcode": "DUbdY-0kkTw",
+            "caption": "In case you haven’t heard, I’m giving away over $1 MILLION in prizes livestreaming on @whatnot befor",
+            "likes": 303567,
+            "comments": 12647,
+            "date": "2026-02-06 19:59:39"
+          },
+          {
+            "shortcode": "DUWAzTTkZN_",
+            "caption": "Time to find out whose heart and chances of reaching the top 10 in @beastgames will be shattered 👀\n\n",
+            "likes": 926080,
+            "comments": 7857,
+            "date": "2026-02-04 17:12:52"
+          },
+          {
+            "shortcode": "DURNPK6Eear",
+            "caption": "Please help if you care about me",
+            "likes": 448313,
+            "comments": 18894,
+            "date": "2026-02-02 20:27:50"
+          }
+        ],
+        "url": "https://instagram.com/mrbeast"
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "success",
+        "method": "web_scrape",
+        "followers": 124700000,
+        "url": "https://www.tiktok.com/@mrbeast"
+      },
+      "x": {
+        "platform": "x",
+        "status": "blocked",
+        "method": "none",
+        "followers": 0,
+        "error": "X/Twitter has strong anti-scraping. Need proxy or account."
+      }
+    }
+  },
+  {
+    "name": "Joe Rogan",
+    "handle": "joerogan",
+    "category": "Podcast/Politics",
+    "political_leaning": "自由意志主义",
+    "platforms": {
+      "instagram": {
+        "platform": "instagram",
+        "status": "success",
+        "method": "instaloader",
+        "followers": 19984966,
+        "following": 5865,
+        "posts_count": 7380,
+        "recent_posts": [
+          {
+            "shortcode": "C3GoHKuMSJH",
+            "caption": "The podcast is now officially back on @apple\nWe should be back on @youtube with full episodes in the",
+            "likes": 443691,
+            "comments": 27108,
+            "date": "2024-02-08 22:38:06"
+          },
+          {
+            "shortcode": "C3VHXDTM0pb",
+            "caption": "My @Spotify playlist “Green Room” is available to everyone.  It’s currently over 18 hours long, and ",
+            "likes": 131071,
+            "comments": 5313,
+            "date": "2024-02-14 13:40:31"
+          },
+          {
+            "shortcode": "DT6Q8DoEupr",
+            "caption": "Time for the best job in the world! @ufc #ufc324 @carnivore.snax live on @paramountplus",
+            "likes": 91439,
+            "comments": 2199,
+            "date": "2026-01-24 22:36:46"
+          },
+          {
+            "shortcode": "DT5k6lxgRQG",
+            "caption": "LAS VEGAS — At long last, the UFC returns to action tonight! See you all 🔜! #UFC324 • @paramountufc ",
+            "likes": 13612,
+            "comments": 613,
+            "date": "2026-01-24 16:12:43"
+          },
+          {
+            "shortcode": "DT30lS9jMTo",
+            "caption": "Backstage with an equipment box at the @ufc weigh ins that has the old school logo.  This box has se",
+            "likes": 133258,
+            "comments": 703,
+            "date": "2026-01-23 23:51:06"
+          },
+          {
+            "shortcode": "DTvC6cDD5pm",
+            "caption": "BIG thank you to to you @joerogan for being the GOAT — and for letting me play with Marshall ❤️ Frie",
+            "likes": 70634,
+            "comments": 1752,
+            "date": "2026-01-20 14:00:00"
+          },
+          {
+            "shortcode": "DTd6FD8ERrg",
+            "caption": "Elk steaks for dinner. \nCovered them in olive oil and @traegergrills blackened Saskatchewan rub.  Co",
+            "likes": 290296,
+            "comments": 3713,
+            "date": "2026-01-13 22:16:40"
+          },
+          {
+            "shortcode": "DS-zYVWkXF6",
+            "caption": "Start your year off with Joe Rogan and Friends next week!\n\nWe actually have 3 next week: \n\nTuesday 1",
+            "likes": 8092,
+            "comments": 7976,
+            "date": "2026-01-01 20:21:40"
+          },
+          {
+            "shortcode": "DSwFgsNDF2s",
+            "caption": "The perfect woman doesn’t exist…",
+            "likes": 55569,
+            "comments": 2109,
+            "date": "2025-12-27 03:11:29"
+          },
+          {
+            "shortcode": "DRxuhMliQoW",
+            "caption": "Back again for your regular dose of meathead chemistry!\n\nAlways a great time chopping it up with @jo",
+            "likes": 58043,
+            "comments": 1117,
+            "date": "2025-12-02 21:57:40"
+          }
+        ],
+        "url": "https://instagram.com/joerogan"
+      },
+      "tiktok": {
+        "platform": "tiktok",
+        "status": "success",
+        "method": "web_scrape",
+        "followers": 3,
+        "url": "https://www.tiktok.com/@joerogan"
+      },
+      "x": {
+        "platform": "x",
+        "status": "blocked",
+        "method": "none",
+        "followers": 0,
+        "error": "X/Twitter has strong anti-scraping. Need proxy or account."
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+  "handle": "MrBeast6000",
+  "name": "MrBeast",
+  "description": "慈善挑战之王，YouTube订阅数第一的个人创作者",
+  "subscriber_count": 466000000,
+  "total_views": 110000000000,
+  "video_count": 892,
+  "thumbnail_url": "https://yt3.googleusercontent.com/...",
+  "recent_videos": [
+    {
+      "video_id": "xyz111",
+      "title": "I Built 100 Houses and Gave Them Away!",
+      "description": "建造100栋房子并送给需要的人...",
+      "published_at": "2026-02-08T20:00:00Z",
+      "view_count": 45678901,
+      "like_count": 2345678,
+      "comment_count": 156789,
+      "url": "https://youtube.com/watch?v=xyz111"
+    },
+    {
+      "video_id": "xyz222",
+      "title": "Last to Leave $1,000,000 Island Keeps It",
+      "description": "100万美元岛屿挑战...",
+      "published_at": "2026-01-25T20:00:00Z",
+      "view_count": 67890123,
+      "like_count": 3456789,
+      "comment_count": 234567,
+      "url": "https://youtube.com/watch?v=xyz222"
+    },
+    {
+      "video_id": "xyz333",
+      "title": "I Survived 50 Hours in an Ice Hotel",
+      "description": "在冰酒店生存50小时...",
+      "published_at": "2026-01-10T20:00:00Z",
+      "view_count": 34567890,
+      "like_count": 1876543,
+      "comment_count": 98765,
+      "url": "https://youtube.com/watch?v=xyz333"
+    }
+  ],
+  "last_updated": "2026-02-12T14:51:12.499865"
+}

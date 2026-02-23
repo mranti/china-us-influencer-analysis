@@ -1,0 +1,174 @@
+{
+  "name": "MrBeast",
+  "handle": "MrBeast",
+  "category": "娱乐慈善",
+  "political_leaning": "neutral",
+  "timestamp": "2026-02-13T00:40:45.122164",
+  "platforms": {
+    "youtube": {
+      "platform": "YouTube",
+      "status": "success",
+      "followers": 0,
+      "views": 102928257,
+      "engagement_rate": 1.38,
+      "recent_posts": [
+        {
+          "video_id": "XbaZ45LVzzM",
+          "title": "Surprising My Fiancée With A Chocolate Heart",
+          "url": "https://youtube.com/watch?v=XbaZ45LVzzM",
+          "published_at": "2026-02-12T17:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/XbaZ45LVzzM/hqdefault.jpg",
+          "views": 15571654,
+          "likes": 584734,
+          "comments": 6381
+        },
+        {
+          "video_id": "gar4U3n-ILY",
+          "title": "Guess What Age Punched You",
+          "url": "https://youtube.com/watch?v=gar4U3n-ILY",
+          "published_at": "2026-02-09T17:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/gar4U3n-ILY/hqdefault.jpg",
+          "views": 103873948,
+          "likes": 1949028,
+          "comments": 14793
+        },
+        {
+          "video_id": "9WEQts7b8Pw",
+          "title": "Ages 1 - 100 Race For $250,000!",
+          "url": "https://youtube.com/watch?v=9WEQts7b8Pw",
+          "published_at": "2026-02-07T17:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/9WEQts7b8Pw/hqdefault.jpg",
+          "views": 49776010,
+          "likes": 1193112,
+          "comments": 60770
+        },
+        {
+          "video_id": "_sBRk9ADpK8",
+          "title": "Flip a Coin, Win $30,000",
+          "url": "https://youtube.com/watch?v=_sBRk9ADpK8",
+          "published_at": "2026-01-27T17:00:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/_sBRk9ADpK8/hqdefault.jpg",
+          "views": 282267871,
+          "likes": 4164468,
+          "comments": 23207
+        },
+        {
+          "video_id": "kNLr-cduzuo",
+          "title": "Wait... Was He Famous?",
+          "url": "https://youtube.com/watch?v=kNLr-cduzuo",
+          "published_at": "2026-01-25T20:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/kNLr-cduzuo/hqdefault.jpg",
+          "views": 96940862,
+          "likes": 2502730,
+          "comments": 24459
+        },
+        {
+          "video_id": "pAnGwRiQ4-4",
+          "title": "$1 vs $1,000,000,000 Futuristic Tech!",
+          "url": "https://youtube.com/watch?v=pAnGwRiQ4-4",
+          "published_at": "2026-01-24T17:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/pAnGwRiQ4-4/hqdefault.jpg",
+          "views": 99155735,
+          "likes": 2591114,
+          "comments": 82140
+        },
+        {
+          "video_id": "wSh8fAFWEWs",
+          "title": "Survivor vs Beast Games",
+          "url": "https://youtube.com/watch?v=wSh8fAFWEWs",
+          "published_at": "2026-01-16T19:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/wSh8fAFWEWs/hqdefault.jpg",
+          "views": 25627891,
+          "likes": 704524,
+          "comments": 12982
+        },
+        {
+          "video_id": "3GNyw4uaAqU",
+          "title": "Subscribe for an iPhone",
+          "url": "https://youtube.com/watch?v=3GNyw4uaAqU",
+          "published_at": "2026-01-13T19:00:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/3GNyw4uaAqU/hqdefault.jpg",
+          "views": 813711428,
+          "likes": 5084329,
+          "comments": 144391
+        },
+        {
+          "video_id": "ywIcdSNJolo",
+          "title": "Pass the Phone",
+          "url": "https://youtube.com/watch?v=ywIcdSNJolo",
+          "published_at": "2026-01-09T19:00:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/ywIcdSNJolo/hqdefault.jpg",
+          "views": 65265835,
+          "likes": 1592976,
+          "comments": 12036
+        },
+        {
+          "video_id": "QJI0an6irrA",
+          "title": "30 Celebrities Fight For $1,000,000!",
+          "url": "https://youtube.com/watch?v=QJI0an6irrA",
+          "published_at": "2026-01-07T20:00:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/QJI0an6irrA/hqdefault.jpg",
+          "views": 102928257,
+          "likes": 2407793,
+          "comments": 114450
+        }
+      ],
+      "top_post": {
+        "video_id": "3GNyw4uaAqU",
+        "title": "Subscribe for an iPhone",
+        "url": "https://youtube.com/watch?v=3GNyw4uaAqU",
+        "published_at": "2026-01-13T19:00:04Z",
+        "thumbnail": "https://i.ytimg.com/vi/3GNyw4uaAqU/hqdefault.jpg",
+        "views": 813711428,
+        "likes": 5084329,
+        "comments": 144391
+      },
+      "error_message": "",
+      "method_used": "YouTube Data API v3"
+    },
+    "podcast": {
+      "platform": "Podcast",
+      "status": "not_available",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "No podcast RSS configured",
+      "method_used": ""
+    },
+    "twitter": {
+      "platform": "Twitter/X",
+      "status": "failed",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "All scraping methods blocked by anti-bot protection",
+      "method_used": ""
+    },
+    "tiktok": {
+      "platform": "TikTok",
+      "status": "failed",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "TikTok anti-bot protection active",
+      "method_used": ""
+    },
+    "facebook": {
+      "platform": "Facebook",
+      "status": "not_available",
+      "followers": 0,
+      "views": 0,
+      "engagement_rate": 0.0,
+      "recent_posts": [],
+      "top_post": {},
+      "error_message": "Facebook requires authenticated API or browser automation",
+      "method_used": ""
+    }
+  }
+}

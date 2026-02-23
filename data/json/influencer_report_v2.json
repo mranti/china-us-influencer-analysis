@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-02-12T10:00:59.585768",
+  "influencer": {
+    "name": "Joe Rogan Experience",
+    "handle": {
+      "youtube": "powerfuljre",
+      "podcast_rss": "https://feeds.megaphone.fm/HS3309841648",
+      "x": "joerogan"
+    },
+    "category": "Podcast/Politics",
+    "description": "全球最受欢迎的播客",
+    "platforms": {
+      "youtube": {
+        "platform": "YouTube (Web)",
+        "handle": "powerfuljre",
+        "followers": 0,
+        "total_views": 0,
+        "posts_count": 0,
+        "avg_engagement": 0.0,
+        "recent_posts": [],
+        "sentiment_score": 0,
+        "political_indicators": {},
+        "last_updated": "2026-02-12T10:00:57.253041"
+      },
+      "podcast": {
+        "platform": "Podcast",
+        "handle": "https://feeds.megaphone.fm/HS3309841648",
+        "followers": 0,
+        "total_views": 0,
+        "posts_count": 0,
+        "avg_engagement": 0.0,
+        "recent_posts": [],
+        "sentiment_score": 0.0,
+        "political_indicators": {},
+        "last_updated": "2026-02-12T10:00:59.328104"
+      },
+      "x": {
+        "platform": "X",
+        "handle": "joerogan",
+        "followers": 0,
+        "total_views": 0,
+        "posts_count": 0,
+        "avg_engagement": 0.0,
+        "recent_posts": [],
+        "sentiment_score": 0.0,
+        "political_indicators": {},
+        "last_updated": "2026-02-12T10:00:59.585579"
+      }
+    },
+    "political_leaning": "自由意志主义/反建制",
+    "content_themes": [
+      "深度访谈",
+      "政治评论",
+      "UFC",
+      "科学探索"
+    ],
+    "last_full_update": "2026-02-12T10:00:59.585606"
+  }
+}

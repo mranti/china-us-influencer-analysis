@@ -1,0 +1,1091 @@
+{
+  "name": "Charli D'Amelio",
+  "real_name": "Charli Grace D'Amelio",
+  "handle": "@charlidamelio",
+  "country": "USA",
+  "city": "Los Angeles, California (原Connecticut)",
+  "age": 21,
+  "gender": "女",
+  "primary_platform": "TikTok",
+  "description": "TikTok第二大关注者，舞蹈视频创作者，被称'TikTok女王'",
+  "biography": "2019年在TikTok发布舞蹈视频走红，曾是TikTok粉丝最多用户。现居洛杉矶，活跃于百老汇表演。",
+  "website": "charlidamelio.com",
+  "email": "business@charlidamelio.com",
+  "cross_platform_total_followers": 215180000,
+  "cross_platform_total_views": 13606000000,
+  "overall_influence_score": 92.3,
+  "audience_demographics": {
+    "age_13_17": 35,
+    "age_18_24": 30,
+    "age_25_34": 20,
+    "age_35_44": 10,
+    "age_45_plus": 5,
+    "male": 35,
+    "female": 65,
+    "top_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "Brazil",
+      "Mexico"
+    ]
+  },
+  "estimated_earnings_per_post": {
+    "TikTok": 150000,
+    "YouTube": 35000,
+    "Instagram": 80000,
+    "Twitter/X": 15000,
+    "Facebook": 12000,
+    "Podcast": 25000
+  },
+  "platforms": {
+    "TikTok": {
+      "platform": "TikTok",
+      "handle": "@charlidamelio",
+      "followers": 156300000,
+      "following": 850,
+      "total_views": 12000000000,
+      "total_likes": 12000000000,
+      "total_posts": 3200,
+      "engagement_rate": 12.8,
+      "avg_views_per_post": 3750000,
+      "avg_likes_per_post": 3750000,
+      "avg_comments_per_post": 180000,
+      "account_created": "2019-05-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -3.0,
+      "content_direction": "舞蹈视频为主，生活方式分享，时尚美妆内容，展现Z世代偶像的日常生活",
+      "content_categories": [
+        "舞蹈",
+        "生活方式",
+        "时尚",
+        "美妆",
+        "娱乐"
+      ],
+      "brand_mentions": [
+        "Dunkin'",
+        "Prada",
+        "Kate Spade",
+        "Garnier",
+        "Hollister"
+      ],
+      "top_10_posts": [
+        {
+          "title": "视频1",
+          "content": "原创Renegade舞蹈",
+          "url": "https://tiktok.com/@charlidamelio/video/1",
+          "views": 200000000,
+          "likes": 18500000,
+          "comments": 950000,
+          "shares": 5200000,
+          "posted_date": "2020-09-15",
+          "sentiment": "正面",
+          "topics": [
+            "舞蹈",
+            "原创"
+          ]
+        },
+        {
+          "title": "视频2",
+          "content": "新舞蹈挑战",
+          "url": "https://tiktok.com/@charlidamelio/video/2",
+          "views": 125000000,
+          "likes": 12800000,
+          "comments": 620000,
+          "shares": 3800000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "舞蹈"
+          ]
+        },
+        {
+          "title": "视频3",
+          "content": "和妹妹Dixie的日常",
+          "url": "https://tiktok.com/@charlidamelio/video/3",
+          "views": 98000000,
+          "likes": 10500000,
+          "comments": 480000,
+          "shares": 3200000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "家庭",
+            "日常"
+          ]
+        },
+        {
+          "title": "视频4",
+          "content": "准备出门",
+          "url": "https://tiktok.com/@charlidamelio/video/4",
+          "views": 85000000,
+          "likes": 9200000,
+          "comments": 380000,
+          "shares": 2800000,
+          "posted_date": "2025-02-01",
+          "sentiment": "正面",
+          "topics": [
+            "时尚",
+            "GRWM"
+          ]
+        },
+        {
+          "title": "视频5",
+          "content": "合作舞蹈",
+          "url": "https://tiktok.com/@charlidamelio/video/5",
+          "views": 110000000,
+          "likes": 11500000,
+          "comments": 580000,
+          "shares": 3800000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "舞蹈",
+            "合作"
+          ]
+        },
+        {
+          "title": "视频6",
+          "content": "感谢1.5亿粉丝",
+          "url": "https://tiktok.com/@charlidamelio/video/6",
+          "views": 145000000,
+          "likes": 18500000,
+          "comments": 850000,
+          "shares": 5200000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "里程碑"
+          ]
+        },
+        {
+          "title": "视频7",
+          "content": "Broadway表演片段",
+          "url": "https://tiktok.com/@charlidamelio/video/7",
+          "views": 75000000,
+          "likes": 8800000,
+          "comments": 420000,
+          "shares": 2500000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "百老汇",
+            "表演"
+          ]
+        },
+        {
+          "title": "视频8",
+          "content": "品牌合作",
+          "url": "https://tiktok.com/@charlidamelio/video/8",
+          "views": 65000000,
+          "likes": 7200000,
+          "comments": 280000,
+          "shares": 1800000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "商业"
+          ]
+        },
+        {
+          "title": "视频9",
+          "content": "化妆教程",
+          "url": "https://tiktok.com/@charlidamelio/video/9",
+          "views": 72000000,
+          "likes": 7800000,
+          "comments": 320000,
+          "shares": 2100000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "美妆",
+            "教程"
+          ]
+        },
+        {
+          "title": "视频10",
+          "content": "2024年回顾",
+          "url": "https://tiktok.com/@charlidamelio/video/10",
+          "views": 88000000,
+          "likes": 9800000,
+          "comments": 450000,
+          "shares": 2800000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        }
+      ]
+    },
+    "YouTube": {
+      "platform": "YouTube",
+      "handle": "@charlidamelio",
+      "followers": 8980000,
+      "following": 0,
+      "total_views": 396000000,
+      "total_likes": 28000000,
+      "total_posts": 150,
+      "engagement_rate": 5.2,
+      "avg_views_per_post": 2640000,
+      "avg_likes_per_post": 186666,
+      "avg_comments_per_post": 12000,
+      "account_created": "2019-11-01",
+      "last_post_date": "2025-02-05",
+      "political_leaning": "中立 (Center)",
+      "political_score": -2.0,
+      "content_direction": "Vlog内容、舞蹈教学、美妆护肤分享，展现更生活化的一面",
+      "content_categories": [
+        "Vlog",
+        "舞蹈",
+        "美妆",
+        "生活方式"
+      ],
+      "brand_mentions": [
+        "Dunkin'",
+        "Morphe",
+        "Orosa Beauty"
+      ],
+      "top_10_posts": [
+        {
+          "title": "视频1",
+          "content": "我的日常生活Vlog",
+          "url": "https://youtube.com/watch?v=charli1",
+          "views": 8500000,
+          "likes": 420000,
+          "comments": 28000,
+          "shares": 8500,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "Vlog",
+            "日常"
+          ]
+        },
+        {
+          "title": "视频2",
+          "content": "和妹妹的问答",
+          "url": "https://youtube.com/watch?v=charli2",
+          "views": 6200000,
+          "likes": 380000,
+          "comments": 22000,
+          "shares": 6800,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "家庭",
+            "互动"
+          ]
+        },
+        {
+          "title": "视频3",
+          "content": "舞蹈教程：如何跳Renegade",
+          "url": "https://youtube.com/watch?v=charli3",
+          "views": 15000000,
+          "likes": 850000,
+          "comments": 52000,
+          "shares": 15000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "教学",
+            "舞蹈"
+          ]
+        },
+        {
+          "title": "视频4",
+          "content": "我的护肤日常",
+          "url": "https://youtube.com/watch?v=charli4",
+          "views": 7800000,
+          "likes": 520000,
+          "comments": 32000,
+          "shares": 9500,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "美妆",
+            "护肤"
+          ]
+        },
+        {
+          "title": "视频5",
+          "content": "Broadway首演幕后",
+          "url": "https://youtube.com/watch?v=charli5",
+          "views": 9200000,
+          "likes": 580000,
+          "comments": 38000,
+          "shares": 12000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "百老汇",
+            "幕后"
+          ]
+        },
+        {
+          "title": "视频6",
+          "content": "Room Tour",
+          "url": "https://youtube.com/watch?v=charli6",
+          "views": 11000000,
+          "likes": 680000,
+          "comments": 42000,
+          "shares": 14000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "家居",
+            "生活方式"
+          ]
+        },
+        {
+          "title": "视频7",
+          "content": "和我一起准备",
+          "url": "https://youtube.com/watch?v=charli7",
+          "views": 8500000,
+          "likes": 520000,
+          "comments": 28000,
+          "shares": 8800,
+          "posted_date": "2024-12-28",
+          "sentiment": "正面",
+          "topics": [
+            "GRWM",
+            "美妆"
+          ]
+        },
+        {
+          "title": "视频8",
+          "content": "2024年最喜欢的时刻",
+          "url": "https://youtube.com/watch?v=charli8",
+          "views": 7200000,
+          "likes": 450000,
+          "comments": 25000,
+          "shares": 7800,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        },
+        {
+          "title": "视频9",
+          "content": "跳舞With The Stars获胜庆祝",
+          "url": "https://youtube.com/watch?v=charli9",
+          "views": 12500000,
+          "likes": 780000,
+          "comments": 48000,
+          "shares": 16000,
+          "posted_date": "2024-12-15",
+          "sentiment": "正面",
+          "topics": [
+            "庆祝",
+            "舞蹈"
+          ]
+        },
+        {
+          "title": "视频10",
+          "content": "新书发布！",
+          "url": "https://youtube.com/watch?v=charli10",
+          "views": 5800000,
+          "likes": 380000,
+          "comments": 22000,
+          "shares": 6800,
+          "posted_date": "2024-12-01",
+          "sentiment": "正面",
+          "topics": [
+            "书籍",
+            "宣传"
+          ]
+        }
+      ]
+    },
+    "Instagram": {
+      "platform": "Instagram",
+      "handle": "@charlidamelio",
+      "followers": 41400000,
+      "following": 450,
+      "total_views": 980000000,
+      "total_likes": 245000000,
+      "total_posts": 1200,
+      "engagement_rate": 4.8,
+      "avg_views_per_post": 816666,
+      "avg_likes_per_post": 204166,
+      "avg_comments_per_post": 18500,
+      "account_created": "2016-08-15",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -3.0,
+      "content_direction": "时尚穿搭、品牌合作、百老汇表演宣传、生活方式分享，注重品牌形象",
+      "content_categories": [
+        "时尚",
+        "生活方式",
+        "商业合作",
+        "表演"
+      ],
+      "brand_mentions": [
+        "Prada",
+        "Kate Spade",
+        "Garnier",
+        "Hollister",
+        "Dunkin'"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "今天的穿搭 #OOTD",
+          "url": "https://instagram.com/charlidamelio/p/1",
+          "views": 5200000,
+          "likes": 1250000,
+          "comments": 18000,
+          "shares": 85000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "时尚"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "和Prada的合作",
+          "url": "https://instagram.com/charlidamelio/p/2",
+          "views": 3800000,
+          "likes": 950000,
+          "comments": 12000,
+          "shares": 52000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "商业",
+            "时尚"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "百老汇首演夜",
+          "url": "https://instagram.com/charlidamelio/p/3",
+          "views": 4500000,
+          "likes": 1150000,
+          "comments": 22000,
+          "shares": 95000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "表演",
+            "里程碑"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "感谢大家的支持",
+          "url": "https://instagram.com/charlidamelio/p/4",
+          "views": 6200000,
+          "likes": 1650000,
+          "comments": 28000,
+          "shares": 125000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "和妈妈的合照",
+          "url": "https://instagram.com/charlidamelio/p/5",
+          "views": 5800000,
+          "likes": 1450000,
+          "comments": 25000,
+          "shares": 110000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "家庭"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "Garnier新品牌大使",
+          "url": "https://instagram.com/charlidamelio/p/6",
+          "views": 4200000,
+          "likes": 980000,
+          "comments": 15000,
+          "shares": 68000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "商业"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "& Juliet backstage",
+          "url": "https://instagram.com/charlidamelio/p/7",
+          "views": 4800000,
+          "likes": 1150000,
+          "comments": 20000,
+          "shares": 88000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "百老汇",
+            "幕后"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "Kate Spade campaign",
+          "url": "https://instagram.com/charlidamelio/p/8",
+          "views": 3500000,
+          "likes": 820000,
+          "comments": 10000,
+          "shares": 48000,
+          "posted_date": "2024-12-28",
+          "sentiment": "正面",
+          "topics": [
+            "商业",
+            "时尚"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "2024 highlights",
+          "url": "https://instagram.com/charlidamelio/p/9",
+          "views": 5500000,
+          "likes": 1350000,
+          "comments": 22000,
+          "shares": 105000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "New Year new me",
+          "url": "https://instagram.com/charlidamelio/p/10",
+          "views": 4800000,
+          "likes": 1150000,
+          "comments": 18000,
+          "shares": 88000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "新年"
+          ]
+        }
+      ]
+    },
+    "Twitter/X": {
+      "platform": "Twitter/X",
+      "handle": "@charlidamelio",
+      "followers": 5000000,
+      "following": 280,
+      "total_views": 145000000,
+      "total_likes": 28000000,
+      "total_posts": 4500,
+      "engagement_rate": 3.5,
+      "avg_views_per_post": 32222,
+      "avg_likes_per_post": 6222,
+      "avg_comments_per_post": 1500,
+      "account_created": "2019-06-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -3.5,
+      "content_direction": "与粉丝互动、支持社会议题（LGBTQ+、心理健康、反霸凌）、商业推广",
+      "content_categories": [
+        "互动",
+        "社会议题",
+        "推广",
+        "个人"
+      ],
+      "brand_mentions": [
+        "Dunkin'",
+        "Prada",
+        "Hollister"
+      ],
+      "top_10_posts": [
+        {
+          "title": "推文1",
+          "content": "新TikTok视频上线！",
+          "url": "https://x.com/charlidamelio/status/1",
+          "views": 850000,
+          "likes": 125000,
+          "comments": 8500,
+          "shares": 28000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "推文2",
+          "content": "感谢大家的生日祝福",
+          "url": "https://x.com/charlidamelio/status/2",
+          "views": 1200000,
+          "likes": 280000,
+          "comments": 18000,
+          "shares": 52000,
+          "posted_date": "2025-05-01",
+          "sentiment": "正面",
+          "topics": [
+            "个人"
+          ]
+        },
+        {
+          "title": "推文3",
+          "content": "& Juliet 今晚演出",
+          "url": "https://x.com/charlidamelio/status/3",
+          "views": 680000,
+          "likes": 95000,
+          "comments": 6500,
+          "shares": 22000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "宣传"
+          ]
+        },
+        {
+          "title": "推文4",
+          "content": "支持LGBTQ+权利",
+          "url": "https://x.com/charlidamelio/status/4",
+          "views": 950000,
+          "likes": 185000,
+          "comments": 22000,
+          "shares": 48000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "推文5",
+          "content": "和Ice Spice合作很兴奋",
+          "url": "https://x.com/charlidamelio/status/5",
+          "views": 780000,
+          "likes": 125000,
+          "comments": 9500,
+          "shares": 32000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "合作"
+          ]
+        },
+        {
+          "title": "推文6",
+          "content": "心理健康很重要",
+          "url": "https://x.com/charlidamelio/status/6",
+          "views": 1100000,
+          "likes": 220000,
+          "comments": 28000,
+          "shares": 68000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "推文7",
+          "content": "新品牌合作预告",
+          "url": "https://x.com/charlidamelio/status/7",
+          "views": 650000,
+          "likes": 85000,
+          "comments": 5500,
+          "shares": 18000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "商业"
+          ]
+        },
+        {
+          "title": "推文8",
+          "content": "感谢Dancing With The Stars",
+          "url": "https://x.com/charlidamelio/status/8",
+          "views": 880000,
+          "likes": 145000,
+          "comments": 12000,
+          "shares": 38000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "推文9",
+          "content": "反对网络霸凌",
+          "url": "https://x.com/charlidamelio/status/9",
+          "views": 1250000,
+          "likes": 285000,
+          "comments": 32000,
+          "shares": 75000,
+          "posted_date": "2024-12-15",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "推文10",
+          "content": "2025年目标",
+          "url": "https://x.com/charlidamelio/status/10",
+          "views": 720000,
+          "likes": 115000,
+          "comments": 8500,
+          "shares": 28000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "目标"
+          ]
+        }
+      ]
+    },
+    "Facebook": {
+      "platform": "Facebook",
+      "handle": "@charlidamelio",
+      "followers": 3500000,
+      "following": 15,
+      "total_views": 85000000,
+      "total_likes": 15500000,
+      "total_posts": 280,
+      "engagement_rate": 3.2,
+      "avg_views_per_post": 303571,
+      "avg_likes_per_post": 55357,
+      "avg_comments_per_post": 20714,
+      "account_created": "2019-07-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -3.0,
+      "content_direction": "视频推广、家庭相关内容、社会议题支持（反霸凌、UNICEF合作）",
+      "content_categories": [
+        "推广",
+        "家庭",
+        "社会议题",
+        "表演"
+      ],
+      "brand_mentions": [
+        "UNICEF",
+        "Dunkin'"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "新TikTok舞蹈视频！",
+          "url": "https://facebook.com/charlidamelio/posts/1",
+          "views": 2200000,
+          "likes": 380000,
+          "comments": 18000,
+          "shares": 95000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "感谢大家的支持",
+          "url": "https://facebook.com/charlidamelio/posts/2",
+          "views": 3200000,
+          "likes": 580000,
+          "comments": 28000,
+          "shares": 145000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "百老汇演出",
+          "url": "https://facebook.com/charlidamelio/posts/3",
+          "views": 2800000,
+          "likes": 480000,
+          "comments": 22000,
+          "shares": 115000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "表演"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "新书Essentially Charli",
+          "url": "https://facebook.com/charlidamelio/posts/4",
+          "views": 1800000,
+          "likes": 320000,
+          "comments": 15000,
+          "shares": 75000,
+          "posted_date": "2024-12-01",
+          "sentiment": "正面",
+          "topics": [
+            "书籍"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "和家人的美好时光",
+          "url": "https://facebook.com/charlidamelio/posts/5",
+          "views": 2500000,
+          "likes": 420000,
+          "comments": 20000,
+          "shares": 105000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "家庭"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "品牌合作",
+          "url": "https://facebook.com/charlidamelio/posts/6",
+          "views": 1500000,
+          "likes": 250000,
+          "comments": 12000,
+          "shares": 55000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "商业"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "舞蹈比赛获胜",
+          "url": "https://facebook.com/charlidamelio/posts/7",
+          "views": 3800000,
+          "likes": 680000,
+          "comments": 35000,
+          "shares": 185000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "庆祝"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "支持反霸凌活动",
+          "url": "https://facebook.com/charlidamelio/posts/8",
+          "views": 2100000,
+          "likes": 380000,
+          "comments": 25000,
+          "shares": 95000,
+          "posted_date": "2024-12-15",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "UNICEF合作",
+          "url": "https://facebook.com/charlidamelio/posts/9",
+          "views": 1900000,
+          "likes": 320000,
+          "comments": 18000,
+          "shares": 85000,
+          "posted_date": "2024-12-10",
+          "sentiment": "正面",
+          "topics": [
+            "慈善"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "Happy New Year!",
+          "url": "https://facebook.com/charlidamelio/posts/10",
+          "views": 2800000,
+          "likes": 520000,
+          "comments": 22000,
+          "shares": 135000,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "新年"
+          ]
+        }
+      ]
+    },
+    "Podcast": {
+      "platform": "Podcast",
+      "handle": "Charli & Dixie: 2 Chix",
+      "followers": 2500000,
+      "following": 0,
+      "total_views": 8500000,
+      "total_likes": 850000,
+      "total_posts": 85,
+      "engagement_rate": 8.5,
+      "avg_views_per_post": 100000,
+      "avg_likes_per_post": 10000,
+      "avg_comments_per_post": 5000,
+      "account_created": "2020-05-01",
+      "last_post_date": "2025-02-05",
+      "political_leaning": "中立 (Center)",
+      "political_score": -2.0,
+      "content_direction": "和妹妹Dixie一起主持的播客，讨论日常生活、成名经历、姐妹关系",
+      "content_categories": [
+        "访谈",
+        "姐妹聊天",
+        "生活方式",
+        "个人经历"
+      ],
+      "brand_mentions": [
+        "Ramble",
+        "Cadence13"
+      ],
+      "top_10_posts": [
+        {
+          "title": "节目1",
+          "content": "和Ramble合作的播客第50集",
+          "url": "https://podcast/charli1",
+          "views": 850000,
+          "likes": 95000,
+          "comments": 8500,
+          "shares": 8500,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "播客"
+          ]
+        },
+        {
+          "title": "节目2",
+          "content": "和Dixie的姐妹聊天",
+          "url": "https://podcast/charli2",
+          "views": 720000,
+          "likes": 78000,
+          "comments": 6800,
+          "shares": 6800,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "家庭"
+          ]
+        },
+        {
+          "title": "节目3",
+          "content": "谈论成名后的生活",
+          "url": "https://podcast/charli3",
+          "views": 950000,
+          "likes": 105000,
+          "comments": 9500,
+          "shares": 9500,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "个人经历"
+          ]
+        },
+        {
+          "title": "节目4",
+          "content": "心理健康对话",
+          "url": "https://podcast/charli4",
+          "views": 880000,
+          "likes": 98000,
+          "comments": 8800,
+          "shares": 8800,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "心理健康"
+          ]
+        },
+        {
+          "title": "节目5",
+          "content": "和嘉宾的有趣对话",
+          "url": "https://podcast/charli5",
+          "views": 680000,
+          "likes": 72000,
+          "comments": 6500,
+          "shares": 6500,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "访谈"
+          ]
+        },
+        {
+          "title": "节目6",
+          "content": "2024年回顾",
+          "url": "https://podcast/charli6",
+          "views": 780000,
+          "likes": 85000,
+          "comments": 7800,
+          "shares": 7800,
+          "posted_date": "2024-12-28",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        },
+        {
+          "title": "节目7",
+          "content": "舞蹈生涯的开始",
+          "url": "https://podcast/charli7",
+          "views": 920000,
+          "likes": 102000,
+          "comments": 9200,
+          "shares": 9200,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "职业"
+          ]
+        },
+        {
+          "title": "节目8",
+          "content": "和粉丝互动",
+          "url": "https://podcast/charli8",
+          "views": 650000,
+          "likes": 68000,
+          "comments": 6200,
+          "shares": 6200,
+          "posted_date": "2024-12-15",
+          "sentiment": "正面",
+          "topics": [
+            "互动"
+          ]
+        },
+        {
+          "title": "节目9",
+          "content": "日常生活分享",
+          "url": "https://podcast/charli9",
+          "views": 720000,
+          "likes": 78000,
+          "comments": 7200,
+          "shares": 7200,
+          "posted_date": "2024-12-10",
+          "sentiment": "正面",
+          "topics": [
+            "日常"
+          ]
+        },
+        {
+          "title": "节目10",
+          "content": "新年计划",
+          "url": "https://podcast/charli10",
+          "views": 850000,
+          "likes": 92000,
+          "comments": 8500,
+          "shares": 8500,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "目标"
+          ]
+        }
+      ]
+    }
+  }
+}

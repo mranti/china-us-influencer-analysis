@@ -1,0 +1,60 @@
+{
+  "name": "Emma Chamberlain",
+  "real_name": "Emma Frances Chamberlain",
+  "handle": "@emmachamberlain",
+  "country": "US",
+  "category": [
+    "Lifestyle",
+    "Fashion",
+    "Vlog",
+    "Coffee",
+    "Mental Health"
+  ],
+  "political_leaning": "中间偏左",
+  "political_tags": [
+    "中间偏左",
+    "LGBTQ+支持者",
+    "心理健康倡导",
+    "时尚"
+  ],
+  "platforms": {
+    "youtube": {
+      "platform": "youtube",
+      "handle": "@emmachamberlain",
+      "followers": null,
+      "subscribers": 12000000,
+      "total_views": 1700000000,
+      "avg_engagement_rate": null,
+      "latest_post_date": null,
+      "verified": true
+    }
+  },
+  "top_content": [
+    {
+      "title": "Met Gala 2022 Interview with Jack Harlow",
+      "platform": "youtube",
+      "views": 5000000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "Anything Goes Podcast",
+      "platform": "podcast",
+      "views": null,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "positive"
+    }
+  ],
+  "last_updated": "2026-02-12T09:15:30",
+  "data_source": [
+    "Wikipedia",
+    "YouTube API",
+    "Forbes"
+  ]
+}

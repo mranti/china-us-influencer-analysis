@@ -1,0 +1,62 @@
+{
+  "key": "huxijin",
+  "name": "胡锡进",
+  "real_name": "胡锡进",
+  "category": "政治评论/媒体",
+  "overall_direction": "环球时报前总编，时事评论",
+  "political_stance": "官方立场/建制派",
+  "platforms": {
+    "bilibili": {
+      "platform": "bilibili",
+      "status": "success",
+      "followers": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [],
+      "error": ""
+    },
+    "weibo": {
+      "platform": "weibo",
+      "status": "success",
+      "followers": 24800000,
+      "views": 3910000,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "微博数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            2346000,
+            5474000
+          ]
+        }
+      ],
+      "error": ""
+    },
+    "douyin": {
+      "platform": "douyin",
+      "status": "success",
+      "followers": 12000000,
+      "views": 4433333,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "抖音数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            2659999,
+            6206666
+          ]
+        }
+      ],
+      "error": ""
+    }
+  },
+  "collected_at": "2026-02-14T17:07:11.540448"
+}

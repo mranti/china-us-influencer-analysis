@@ -1,0 +1,69 @@
+{
+  "name": "MrBeast",
+  "real_name": "Jimmy Donaldson",
+  "handle": "@MrBeast",
+  "country": "US",
+  "category": [
+    "Entertainment",
+    "Philanthropy",
+    "Challenge",
+    "Gaming"
+  ],
+  "political_leaning": "无政治倾向",
+  "political_tags": [
+    "慈善",
+    "环保",
+    "无党派",
+    "Elon Musk支持者"
+  ],
+  "platforms": {
+    "youtube": {
+      "platform": "youtube",
+      "handle": "@MrBeast",
+      "followers": null,
+      "subscribers": 466000000,
+      "total_views": 110000000000,
+      "avg_engagement_rate": null,
+      "latest_post_date": null,
+      "verified": true
+    }
+  },
+  "top_content": [
+    {
+      "title": "Would You Fly to Paris for a Baguette?",
+      "platform": "youtube",
+      "views": 1500000000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "50 YouTubers Fight for $1,000,000",
+      "platform": "youtube",
+      "views": 71000000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "positive"
+    },
+    {
+      "title": "$456,000 Squid Game in Real Life!",
+      "platform": "youtube",
+      "views": 130000000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "mixed"
+    }
+  ],
+  "last_updated": "2026-02-12T09:15:30",
+  "data_source": [
+    "Wikipedia",
+    "YouTube API",
+    "Social Blade"
+  ]
+}

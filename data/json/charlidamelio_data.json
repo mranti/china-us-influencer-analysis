@@ -1,0 +1,55 @@
+{
+  "name": "Charli D'Amelio",
+  "handle": "@charlidamelio",
+  "country": "USA",
+  "primary_platform": "TikTok",
+  "description": "TikTok第二大关注者，舞蹈视频创作者，被称'TikTok女王'",
+  "overall_influence_score": 92.3,
+  "platforms": {
+    "tiktok": {
+      "platform": "TikTok",
+      "followers": 156300000,
+      "total_views": 12000000000,
+      "total_likes": 12000000000,
+      "total_posts": 3200,
+      "engagement_rate": 12.8,
+      "top_posts": [
+        {
+          "title": "Renegade Dance",
+          "views": 200000000,
+          "type": "Dance"
+        }
+      ],
+      "recent_posts": [
+        {
+          "title": "日常舞蹈视频",
+          "views": 50000000
+        }
+      ],
+      "political_leaning": "中立偏自由派",
+      "content_categories": [
+        "舞蹈",
+        "生活方式",
+        "时尚",
+        "娱乐"
+      ],
+      "last_updated": "2026-02-09T14:19:59.972881"
+    },
+    "youtube": {
+      "platform": "YouTube",
+      "followers": 8980000,
+      "total_views": 396000000,
+      "total_likes": 0,
+      "total_posts": 150,
+      "engagement_rate": 5.2,
+      "top_posts": [],
+      "recent_posts": [],
+      "political_leaning": "中立",
+      "content_categories": [
+        "Vlog",
+        "舞蹈"
+      ],
+      "last_updated": "2026-02-09T14:19:59.972885"
+    }
+  }
+}

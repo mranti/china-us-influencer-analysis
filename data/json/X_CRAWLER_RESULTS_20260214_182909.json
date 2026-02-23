@@ -1,0 +1,26 @@
+[
+  {
+    "username": "MKBHD",
+    "result": {
+      "status": "failed",
+      "followers": 0,
+      "error": "All free methods failed. X/Twitter anti-scraping is too strong."
+    }
+  },
+  {
+    "username": "MrBeast",
+    "result": {
+      "status": "failed",
+      "followers": 0,
+      "error": "All free methods failed. X/Twitter anti-scraping is too strong."
+    }
+  },
+  {
+    "username": "joerogan",
+    "result": {
+      "status": "failed",
+      "followers": 0,
+      "error": "All free methods failed. X/Twitter anti-scraping is too strong."
+    }
+  }
+]

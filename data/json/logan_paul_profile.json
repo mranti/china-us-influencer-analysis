@@ -1,0 +1,70 @@
+{
+  "name": "Logan Paul",
+  "real_name": "Logan Alexander Paul",
+  "handle": "@loganpaulvlogs",
+  "country": "US",
+  "category": [
+    "Vlog",
+    "Boxing",
+    "WWE",
+    "Podcast",
+    "Comedy"
+  ],
+  "political_leaning": "中间偏右",
+  "political_tags": [
+    "中间偏右",
+    "与Trump合作",
+    "争议人物",
+    "CryptoZoo丑闻"
+  ],
+  "platforms": {
+    "youtube": {
+      "platform": "youtube",
+      "handle": "@loganpaulvlogs",
+      "followers": null,
+      "subscribers": 23600000,
+      "total_views": 6000000000,
+      "avg_engagement_rate": null,
+      "latest_post_date": null,
+      "verified": true
+    },
+    "podcast": {
+      "platform": "podcast",
+      "handle": "Impaulsive",
+      "followers": null,
+      "subscribers": 4000000,
+      "total_views": null,
+      "avg_engagement_rate": null,
+      "latest_post_date": null,
+      "verified": true
+    }
+  },
+  "top_content": [
+    {
+      "title": "KSI vs Logan Paul II",
+      "platform": "youtube",
+      "views": 1784000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "mixed"
+    },
+    {
+      "title": "Mayweather vs Paul",
+      "platform": "youtube",
+      "views": 1000000,
+      "likes": null,
+      "comments": null,
+      "publish_date": null,
+      "url": null,
+      "sentiment": "mixed"
+    }
+  ],
+  "last_updated": "2026-02-12T09:15:30",
+  "data_source": [
+    "Wikipedia",
+    "YouTube API",
+    "WWE资料"
+  ]
+}

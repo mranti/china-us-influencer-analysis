@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-02-14T17:38:55.211530",
+  "region": "CN",
+  "influencers": [
+    {
+      "name": "李子柒",
+      "handle": "liziqi",
+      "category": "传统文化/生活方式",
+      "political_leaning": "文化输出/中性",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 10339649,
+          "total_views": 0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "name": "李子柒",
+            "level": 6,
+            "likes": 0,
+            "description": "李家有女，人称子柒。 联系邮箱：loveliziqi777@163.com"
+          }
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 27500000,
+          "total_views": 5500000.0,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Weibo数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "2970459952",
+            "name": "李子柒",
+            "note": "Estimated data"
+          }
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 49000000,
+          "total_views": 490000000,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Douyin数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "name": "李子柒",
+            "note": "Estimated data"
+          }
+        }
+      },
+      "content_analysis": {},
+      "collected_at": "2026-02-14T17:38:52.381659"
+    },
+    {
+      "name": "司马南",
+      "handle": "simanan",
+      "category": "政治评论/时事",
+      "political_leaning": "民族主义/左派",
+      "platforms": {
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 2200000,
+          "total_views": 440000.0,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Weibo数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "1273590434",
+            "name": "司马南",
+            "note": "Estimated data"
+          }
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 8500000,
+          "total_views": 85000000,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Douyin数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "name": "司马南",
+            "note": "Estimated data"
+          }
+        }
+      },
+      "content_analysis": {},
+      "collected_at": "2026-02-14T17:38:52.381936"
+    },
+    {
+      "name": "胡锡进",
+      "handle": "huxijin",
+      "category": "政治评论/媒体",
+      "political_leaning": "官方立场/建制派",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "name": "bili_50341938471",
+            "level": 0,
+            "likes": 0,
+            "description": ""
+          }
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 24800000,
+          "total_views": 4960000.0,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Weibo数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "1989660417",
+            "name": "胡锡进",
+            "note": "Estimated data"
+          }
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 12000000,
+          "total_views": 120000000,
+          "posts_count": 0,
+          "recent_posts": [
+            {
+              "note": "Douyin数据基于公开信息估算"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "name": "胡锡进",
+            "note": "Estimated data"
+          }
+        }
+      },
+      "content_analysis": {},
+      "collected_at": "2026-02-14T17:38:55.210011"
+    }
+  ]
+}

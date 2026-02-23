@@ -1,0 +1,500 @@
+{
+  "generated_at": "2026-02-19T17:06:48.575556",
+  "influencers": [
+    {
+      "name": "MrBeast",
+      "full_name": "Jimmy Donaldson",
+      "category": "Entertainment",
+      "political_leaning": "商业中立",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "subscribers": 468000000,
+          "total_views": 112060550350,
+          "videos_count": 945,
+          "channel_title": "MrBeast",
+          "avg_video_views": 201926885,
+          "avg_video_likes": 4230781,
+          "recent_videos": [
+            {
+              "video_id": "hjkbqeWQAM8",
+              "title": "Every Step You Take, Win $1,000",
+              "published_at": "2026-02-18T20:00:03Z",
+              "thumbnail": "https://i.ytimg.com/vi/hjkbqeWQAM8/hqdefault.jpg",
+              "views": 38720178,
+              "likes": 660786,
+              "comments": 3679
+            },
+            {
+              "video_id": "XbaZ45LVzzM",
+              "title": "Surprising My Fiancée With A Chocolate Heart",
+              "published_at": "2026-02-12T17:00:01Z",
+              "thumbnail": "https://i.ytimg.com/vi/XbaZ45LVzzM/hqdefault.jpg",
+              "views": 56505375,
+              "likes": 1564367,
+              "comments": 13534
+            },
+            {
+              "video_id": "26QQE7EsnLA",
+              "title": "MrBeast Lab Disaster!",
+              "published_at": "2025-11-03T17:00:01Z",
+              "thumbnail": "https://i.ytimg.com/vi/26QQE7EsnLA/hqdefault.jpg",
+              "views": 33365816,
+              "likes": 1288231,
+              "comments": 16322
+            },
+            {
+              "video_id": "oiZvK6MY7tI",
+              "title": "Call Your Ex, Win $10,000",
+              "published_at": "2025-10-07T16:00:00Z",
+              "thumbnail": "https://i.ytimg.com/vi/oiZvK6MY7tI/hqdefault.jpg",
+              "views": 101617588,
+              "likes": 2661959,
+              "comments": 9774
+            },
+            {
+              "video_id": "R_BmT1OJw98",
+              "title": "Every YouTube Play Button I Have",
+              "published_at": "2025-08-15T16:00:01Z",
+              "thumbnail": "https://i.ytimg.com/vi/R_BmT1OJw98/hqdefault.jpg",
+              "views": 221744788,
+              "likes": 3348731,
+              "comments": 20121
+            }
+          ],
+          "url": "https://youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "followers": 84889433,
+          "following": 893,
+          "posts_count": 455,
+          "recent_posts": [
+            {
+              "caption": "We are both dropping big videos together November 30th 👀",
+              "likes": 19670553,
+              "comments": 182238,
+              "date": "2024-11-28 20:10:49"
+            },
+            {
+              "caption": "Would you lie to your best friend for a 1 in 6 chance to win $5 MILLION? 👀\n\nWatc",
+              "likes": 545957,
+              "comments": 6559,
+              "date": "2026-02-18 17:22:11"
+            },
+            {
+              "caption": "First person to NOT blink wins 💰 for their subscriber 👀 @mrbeast",
+              "likes": 259818,
+              "comments": 4298,
+              "date": "2026-02-15 18:30:00"
+            },
+            {
+              "caption": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+              "likes": 2433193,
+              "comments": 11208,
+              "date": "2026-02-14 14:28:13"
+            },
+            {
+              "caption": "Only the best chocolate for my Valentine @thea_booysen 💝",
+              "likes": 1173952,
+              "comments": 8402,
+              "date": "2026-02-12 17:17:42"
+            }
+          ],
+          "url": "https://instagram.com/mrbeast"
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 124700000,
+          "url": "https://www.tiktok.com/@mrbeast"
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "followers": 31000000,
+          "note": "X/Twitter已封锁所有免费抓取方法，使用估算值",
+          "url": "https://x.com/MrBeast"
+        }
+      },
+      "influence_score": 761515599,
+      "platform_breakdown": {
+        "youtube": {
+          "subscribers": 468000000,
+          "total_views": 112060550350,
+          "score_contribution": 684653770,
+          "details": "468,000,000 subscribers, 112,060,550,350 total views"
+        },
+        "instagram": {
+          "followers": 84889433,
+          "posts": 455,
+          "score_contribution": 25466829,
+          "details": "84,889,433 followers, 455 posts"
+        },
+        "tiktok": {
+          "followers": 124700000,
+          "score_contribution": 43645000,
+          "details": "124,700,000 followers"
+        },
+        "twitter": {
+          "followers": 31000000,
+          "score_contribution": 7750000,
+          "note": "使用估算值",
+          "details": "31,000,000 followers (estimated)"
+        }
+      }
+    },
+    {
+      "name": "Joe Rogan Experience",
+      "full_name": "Joe Rogan",
+      "category": "Podcast/Politics",
+      "political_leaning": "自由意志主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "subscribers": 20700000,
+          "total_views": 6424989640,
+          "videos_count": 3543,
+          "channel_title": "PowerfulJRE",
+          "avg_video_views": 588332,
+          "avg_video_likes": 11416,
+          "recent_videos": [
+            {
+              "video_id": "lin3c35IyB0",
+              "title": "Joe Rogan Experience #2457 - Michael Malice",
+              "published_at": "2026-02-19T18:01:01Z",
+              "thumbnail": "https://i.ytimg.com/vi/lin3c35IyB0/hqdefault.jpg",
+              "views": 125088,
+              "likes": 3981,
+              "comments": 1867
+            },
+            {
+              "video_id": "Sbh7ymCkjuM",
+              "title": "Joe Rogan Experience #2456 - Michael Jai White",
+              "published_at": "2026-02-18T18:00:35Z",
+              "thumbnail": "https://i.ytimg.com/vi/Sbh7ymCkjuM/hqdefault.jpg",
+              "views": 493373,
+              "likes": 13035,
+              "comments": 2638
+            },
+            {
+              "video_id": "f_neykptZPY",
+              "title": "Joe Rogan Experience #2455 - Donnell Rawlings",
+              "published_at": "2026-02-17T18:00:42Z",
+              "thumbnail": "https://i.ytimg.com/vi/f_neykptZPY/hqdefault.jpg",
+              "views": 409306,
+              "likes": 6913,
+              "comments": 3420
+            },
+            {
+              "video_id": "qFwiXyZHYbU",
+              "title": "Joe Rogan Experience #2454 - Robert Malone, MD",
+              "published_at": "2026-02-13T18:00:57Z",
+              "thumbnail": "https://i.ytimg.com/vi/qFwiXyZHYbU/hqdefault.jpg",
+              "views": 846261,
+              "likes": 19233,
+              "comments": 5167
+            },
+            {
+              "video_id": "y2SD_z61FRo",
+              "title": "Joe Rogan Experience #2453 - Evan Hafer",
+              "published_at": "2026-02-12T18:01:07Z",
+              "thumbnail": "https://i.ytimg.com/vi/y2SD_z61FRo/hqdefault.jpg",
+              "views": 607425,
+              "likes": 7513,
+              "comments": 2211
+            }
+          ],
+          "url": "https://youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ"
+        },
+        "podcast": {
+          "platform": "podcast",
+          "status": "estimated",
+          "title": "The Joe Rogan Experience",
+          "episodes_count": 2300,
+          "estimated_listeners": 11000000,
+          "avg_duration_minutes": 150,
+          "note": "Spotify独家数据，使用估算值",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "followers": 19973182,
+          "following": 5869,
+          "posts_count": 7380,
+          "recent_posts": [
+            {
+              "caption": "The podcast is now officially back on @apple\nWe should be back on @youtube with ",
+              "likes": 443733,
+              "comments": 27182,
+              "date": "2024-02-08 22:38:06"
+            },
+            {
+              "caption": "My @Spotify playlist “Green Room” is available to everyone.  It’s currently over",
+              "likes": 131123,
+              "comments": 5327,
+              "date": "2024-02-14 13:40:31"
+            },
+            {
+              "caption": "Time for the best job in the world! @ufc #ufc324 @carnivore.snax live on @paramo",
+              "likes": 91587,
+              "comments": 2272,
+              "date": "2026-01-24 22:36:46"
+            },
+            {
+              "caption": "LAS VEGAS — At long last, the UFC returns to action tonight! See you all 🔜! #UFC",
+              "likes": 13714,
+              "comments": 630,
+              "date": "2026-01-24 16:12:43"
+            },
+            {
+              "caption": "Backstage with an equipment box at the @ufc weigh ins that has the old school lo",
+              "likes": 133349,
+              "comments": 707,
+              "date": "2026-01-23 23:51:06"
+            }
+          ],
+          "url": "https://instagram.com/joerogan"
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 3,
+          "url": "https://www.tiktok.com/@joerogan"
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "followers": 14800000,
+          "note": "X/Twitter已封锁所有免费抓取方法，使用估算值",
+          "url": "https://x.com/joerogan"
+        }
+      },
+      "influence_score": 29888619,
+      "platform_breakdown": {
+        "youtube": {
+          "subscribers": 20700000,
+          "total_views": 6424989640,
+          "score_contribution": 13596664,
+          "details": "20,700,000 subscribers, 6,424,989,640 total views"
+        },
+        "podcast": {
+          "estimated_listeners": 11000000,
+          "episodes": 2300,
+          "score_contribution": 6600000,
+          "details": "~11,000,000 listeners per episode"
+        },
+        "instagram": {
+          "followers": 19973182,
+          "posts": 7380,
+          "score_contribution": 5991954,
+          "details": "19,973,182 followers, 7,380 posts"
+        },
+        "tiktok": {
+          "followers": 3,
+          "score_contribution": 1,
+          "details": "3 followers"
+        },
+        "twitter": {
+          "followers": 14800000,
+          "score_contribution": 3700000,
+          "note": "使用估算值",
+          "details": "14,800,000 followers (estimated)"
+        }
+      }
+    },
+    {
+      "name": "MKBHD",
+      "full_name": "Marques Brownlee",
+      "category": "Technology",
+      "political_leaning": "科技自由主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "subscribers": 20800000,
+          "total_views": 5249771249,
+          "videos_count": 1797,
+          "channel_title": "Marques Brownlee",
+          "avg_video_views": 4606396,
+          "avg_video_likes": 137689,
+          "recent_videos": [
+            {
+              "video_id": "iCSg_ul3G2w",
+              "title": "Google Pixel 10A Impressions: (Never) Seen This Before",
+              "published_at": "2026-02-18T15:00:48Z",
+              "thumbnail": "https://i.ytimg.com/vi/iCSg_ul3G2w/hqdefault.jpg",
+              "views": 2059795,
+              "likes": 71796,
+              "comments": 5102
+            },
+            {
+              "video_id": "zPAY2VxfFBk",
+              "title": "The Problem with these Smartphone Batteries",
+              "published_at": "2026-02-06T21:03:37Z",
+              "thumbnail": "https://i.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+              "views": 2015167,
+              "likes": 81527,
+              "comments": 6190
+            },
+            {
+              "video_id": "Qr4anBkL2_A",
+              "title": "This is NOT an iPhone",
+              "published_at": "2026-01-30T19:34:19Z",
+              "thumbnail": "https://i.ytimg.com/vi/Qr4anBkL2_A/hqdefault.jpg",
+              "views": 4390572,
+              "likes": 133740,
+              "comments": 3283
+            },
+            {
+              "video_id": "vZdbbN3FCzE",
+              "title": "The Downfall of OnePlus will be Studied",
+              "published_at": "2026-01-26T19:13:01Z",
+              "thumbnail": "https://i.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+              "views": 4385673,
+              "likes": 124338,
+              "comments": 12641
+            },
+            {
+              "video_id": "DqAKQwagCDg",
+              "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+              "published_at": "2026-01-22T19:45:23Z",
+              "thumbnail": "https://i.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+              "views": 3447707,
+              "likes": 91732,
+              "comments": 3604
+            }
+          ],
+          "url": "https://youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "followers": 5184656,
+          "following": 554,
+          "posts_count": 2088,
+          "recent_posts": [
+            {
+              "caption": "This is NOT an iPhone",
+              "likes": 51136,
+              "comments": 548,
+              "date": "2026-01-30 19:32:45"
+            },
+            {
+              "caption": "Incredibly niche PSA",
+              "likes": 33265,
+              "comments": 299,
+              "date": "2026-01-27 17:35:50"
+            },
+            {
+              "caption": "Sorry dinner is late, I had to charge my knife",
+              "likes": 134455,
+              "comments": 2392,
+              "date": "2026-01-16 21:57:49"
+            },
+            {
+              "caption": "2016. This was now a decade ago 👴🏾",
+              "likes": 365527,
+              "comments": 841,
+              "date": "2026-01-16 00:47:02"
+            },
+            {
+              "caption": "W R A P P E D",
+              "likes": 42682,
+              "comments": 170,
+              "date": "2025-12-28 21:30:29"
+            }
+          ],
+          "url": "https://instagram.com/mkbhd"
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 2300000,
+          "url": "https://www.tiktok.com/@mkbhd"
+        },
+        "twitter": {
+          "platform": "twitter",
+          "status": "estimated",
+          "followers": 3100000,
+          "note": "X/Twitter已封锁所有免费抓取方法，使用估算值",
+          "url": "https://x.com/MKBHD"
+        }
+      },
+      "influence_score": 24828188,
+      "platform_breakdown": {
+        "youtube": {
+          "subscribers": 20800000,
+          "total_views": 5249771249,
+          "score_contribution": 21692792,
+          "details": "20,800,000 subscribers, 5,249,771,249 total views"
+        },
+        "instagram": {
+          "followers": 5184656,
+          "posts": 2088,
+          "score_contribution": 1555396,
+          "details": "5,184,656 followers, 2,088 posts"
+        },
+        "tiktok": {
+          "followers": 2300000,
+          "score_contribution": 805000,
+          "details": "2,300,000 followers"
+        },
+        "twitter": {
+          "followers": 3100000,
+          "score_contribution": 775000,
+          "note": "使用估算值",
+          "details": "3,100,000 followers (estimated)"
+        }
+      }
+    }
+  ],
+  "platform_weights": {
+    "youtube": {
+      "weight": 1.0,
+      "engagement": 0.05,
+      "region": "US"
+    },
+    "podcast": {
+      "weight": 0.6,
+      "engagement": 0.08,
+      "region": "US"
+    },
+    "twitter": {
+      "weight": 0.25,
+      "engagement": 0.02,
+      "region": "US"
+    },
+    "tiktok": {
+      "weight": 0.35,
+      "engagement": 0.15,
+      "region": "US"
+    },
+    "instagram": {
+      "weight": 0.3,
+      "engagement": 0.03,
+      "region": "US"
+    }
+  },
+  "summary": {
+    "total_influencers": 3,
+    "platforms_covered": [
+      "youtube",
+      "podcast",
+      "twitter",
+      "tiktok",
+      "instagram"
+    ],
+    "data_quality": {
+      "youtube": "real_api",
+      "instagram": "real_scrape",
+      "tiktok": "real_scrape",
+      "podcast": "estimated",
+      "twitter": "estimated (blocked)"
+    }
+  }
+}

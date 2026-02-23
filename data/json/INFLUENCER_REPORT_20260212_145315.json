@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-02-12T14:53:15.833755",
+  "influencers": {
+    "MKBHD": {
+      "name": "Marques Brownlee (MKBHD)",
+      "category": "Technology",
+      "political_leaning": "科技自由主义",
+      "platforms": {}
+    },
+    "MrBeast": {
+      "name": "MrBeast",
+      "category": "Entertainment",
+      "political_leaning": "商业中立",
+      "platforms": {}
+    },
+    "JoeRogan": {
+      "name": "Joe Rogan Experience",
+      "category": "Podcast/Politics",
+      "political_leaning": "自由意志主义",
+      "platforms": {
+        "podcast": {
+          "platform": "Podcast",
+          "followers": 0,
+          "episodes_count": 0,
+          "recent_episodes": [],
+          "status": "success"
+        }
+      }
+    }
+  }
+}

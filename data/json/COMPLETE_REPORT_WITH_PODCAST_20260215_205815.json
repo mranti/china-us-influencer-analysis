@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-02-15T20:58:15.593597",
+  "influencers": [
+    {
+      "name": "Joe Rogan Experience",
+      "real_name": "Joe Rogan",
+      "category": "播客/时政",
+      "political_leaning": "自由意志主义 / 文化自由主义",
+      "direction": "长篇访谈播客，涵盖政治、文化、健康、UFO等多元话题，观点偏向反建制",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "type": "real_api",
+          "followers": 20700000,
+          "total_views": 6420078354,
+          "posts_count": 3540,
+          "recent_episodes": [
+            {
+              "title": "Joe Rogan Experience #2454 - Robert Malone, MD",
+              "views": 539930,
+              "likes": 14082,
+              "comments": 3879,
+              "published": "2026-02-13",
+              "url": "https://youtube.com/watch?v=qFwiXyZHYbU"
+            },
+            {
+              "title": "Joe Rogan Experience #2453 - Evan Hafer",
+              "views": 472597,
+              "likes": 6323,
+              "comments": 2068,
+              "published": "2026-02-12",
+              "url": "https://youtube.com/watch?v=y2SD_z61FRo"
+            },
+            {
+              "title": "Joe Rogan Experience #2452 - Roger Avary",
+              "views": 723540,
+              "likes": 13812,
+              "comments": 6277,
+              "published": "2026-02-11",
+              "url": "https://youtube.com/watch?v=CH5JoJ_-hic"
+            },
+            {
+              "title": "Joe Rogan Experience #2451 - Cheryl Hines",
+              "views": 672839,
+              "likes": 11776,
+              "comments": 4410,
+              "published": "2026-02-10",
+              "url": "https://youtube.com/watch?v=0sMrvv53e9Y"
+            },
+            {
+              "title": "Joe Rogan Experience #2450 - Tommy Wood",
+              "views": 521954,
+              "likes": 5765,
+              "comments": 2662,
+              "published": "2026-02-06",
+              "url": "https://youtube.com/watch?v=UPfN2G0RyQM"
+            },
+            {
+              "title": "Joe Rogan Experience #2449 - Raul Bilecky",
+              "views": 751229,
+              "likes": 12072,
+              "comments": 3145,
+              "published": "2026-02-05",
+              "url": "https://youtube.com/watch?v=BvhFuEp55X0"
+            },
+            {
+              "title": "Joe Rogan Experience #2448 - Andrew Doyle",
+              "views": 584000,
+              "likes": 8554,
+              "comments": 3359,
+              "published": "2026-02-04",
+              "url": "https://youtube.com/watch?v=Dnon-AsWnOQ"
+            },
+            {
+              "title": "Joe Rogan Experience #2447 - Mike Benz",
+              "views": 1121597,
+              "likes": 19985,
+              "comments": 9879,
+              "published": "2026-02-03",
+              "url": "https://youtube.com/watch?v=MkqDA9W4Vo0"
+            },
+            {
+              "title": "Joe Rogan Experience #2446 - Greg Fitzsimmons",
+              "views": 759042,
+              "likes": 9409,
+              "comments": 3307,
+              "published": "2026-01-31",
+              "url": "https://youtube.com/watch?v=IbhDeUcZ_iw"
+            },
+            {
+              "title": "Joe Rogan Experience #2445 - Bert Kreischer",
+              "views": 1165819,
+              "likes": 15377,
+              "comments": 5728,
+              "published": "2026-01-29",
+              "url": "https://youtube.com/watch?v=gYcuTY7tnvk"
+            }
+          ]
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 19982479,
+          "posts_count": 7380,
+          "recent_posts": [
+            {
+              "title": "The podcast is now officially back on @apple\nWe should be back on @youtube with full episodes in the",
+              "views": 443696,
+              "likes": 443696,
+              "comments": 27134,
+              "published": "2024-02-08"
+            },
+            {
+              "title": "My @Spotify playlist “Green Room” is available to everyone.  It’s currently over 18 hours long, and ",
+              "views": 131087,
+              "likes": 131087,
+              "comments": 5324,
+              "published": "2024-02-14"
+            },
+            {
+              "title": "Time for the best job in the world! @ufc #ufc324 @carnivore.snax live on @paramountplus",
+              "views": 91489,
+              "likes": 91489,
+              "comments": 2228,
+              "published": "2026-01-24"
+            },
+            {
+              "title": "LAS VEGAS — At long last, the UFC returns to action tonight! See you all 🔜! #UFC324 • @paramountufc ",
+              "views": 13635,
+              "likes": 13635,
+              "comments": 618,
+              "published": "2026-01-24"
+            },
+            {
+              "title": "Backstage with an equipment box at the @ufc weigh ins that has the old school logo.  This box has se",
+              "views": 133280,
+              "likes": 133280,
+              "comments": 704,
+              "published": "2026-01-23"
+            },
+            {
+              "title": "BIG thank you to to you @joerogan for being the GOAT — and for letting me play with Marshall ❤️ Frie",
+              "views": 70663,
+              "likes": 70663,
+              "comments": 1755,
+              "published": "2026-01-20"
+            },
+            {
+              "title": "Elk steaks for dinner. \nCovered them in olive oil and @traegergrills blackened Saskatchewan rub.  Co",
+              "views": 290315,
+              "likes": 290315,
+              "comments": 3713,
+              "published": "2026-01-13"
+            },
+            {
+              "title": "Start your year off with Joe Rogan and Friends next week!\n\nWe actually have 3 next week: \n\nTuesday 1",
+              "views": 8098,
+              "likes": 8098,
+              "comments": 7975,
+              "published": "2026-01-01"
+            },
+            {
+              "title": "The perfect woman doesn’t exist…",
+              "views": 55572,
+              "likes": 55572,
+              "comments": 2109,
+              "published": "2025-12-27"
+            },
+            {
+              "title": "Back again for your regular dose of meathead chemistry!\n\nAlways a great time chopping it up with @jo",
+              "views": 58047,
+              "likes": 58047,
+              "comments": 1117,
+              "published": "2025-12-02"
+            }
+          ]
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "type": "real_scrape",
+          "followers": 3
+        },
+        "podcast": {
+          "platform": "podcast",
+          "status": "success",
+          "type": "rss_feed",
+          "followers": 11000000,
+          "posts_count": 2639,
+          "avg_duration_minutes": 167.4,
+          "recent_episodes": [
+            {
+              "title": "#2454 - Robert Malone, MD",
+              "published": "Fri, 13 Feb 2026",
+              "description": "Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform ",
+              "duration_minutes": 158,
+              "link": "",
+              "guest": "Robert Malone, MD"
+            },
+            {
+              "title": "#2453 - Evan Hafer",
+              "published": "Thu, 12 Feb 2026",
+              "description": "Evan Hafer is a Special Forces veteran, founder, and executive chairman of Black Rifle Coffee Company, and one of the hosts of the “Black Rifle Coffee Podcast.”www.blackriflecoffee.comwww.youtube.com/",
+              "duration_minutes": 179,
+              "link": "",
+              "guest": "Evan Hafer"
+            },
+            {
+              "title": "#2452 - Roger Avary",
+              "published": "Wed, 11 Feb 2026",
+              "description": "Roger Avary is a director, producer, and Academy Award-winning screenwriter known for “Pulp Fiction,” which he co-wrote with Quentin Tarantino, as well as “The Rules of Attraction” and “Killing Zoe.” ",
+              "duration_minutes": 191,
+              "link": "",
+              "guest": "Roger Avary"
+            },
+            {
+              "title": "#2451 - Cheryl Hines",
+              "published": "Tue, 10 Feb 2026",
+              "description": "Cheryl Hines is an Emmy Award-nominated actress, director, producer, and comedian. While she is best known for her role as Cheryl David on the HBO series “Curb Your Enthusiasm,” Hines has appeared in ",
+              "duration_minutes": 190,
+              "link": "",
+              "guest": "Cheryl Hines"
+            },
+            {
+              "title": "#2450 - Tommy Wood",
+              "published": "Fri, 06 Feb 2026",
+              "description": "Tommy Wood, PhD, is a neuroscientist and athletic performance coach. He is a host of the “Better Brain Fitness” podcast and author of “The Stimulated Mind: Future-Proof Your Brain from Dementia and St",
+              "duration_minutes": 136,
+              "link": "",
+              "guest": "Tommy Wood"
+            },
+            {
+              "title": "#2449 - Raul Bilecky",
+              "published": "Thu, 05 Feb 2026",
+              "description": "Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”www.youtube.com/@PillarsofthePast101https://www.patreon.com/PillarsofthePastwww.pillarsofthepast.com\n\n\n",
+              "duration_minutes": 156,
+              "link": "",
+              "guest": "Raul Bilecky"
+            },
+            {
+              "title": "#2448 - Andrew Doyle",
+              "published": "Wed, 04 Feb 2026",
+              "description": "Andrew Doyle is a writer, broadcaster, and comedian. He is the author of several books, including his most recent, “The End of Woke: How the Culture War Went Too Far and What to Expect from the Counte",
+              "duration_minutes": 165,
+              "link": "",
+              "guest": "Andrew Doyle"
+            },
+            {
+              "title": "#2447 - Mike Benz",
+              "published": "Tue, 03 Feb 2026",
+              "description": "Mike Benz is the Executive Director of the Foundation for Freedom Online and a former official with the U.S. Department of State.www.youtube.com/@MikeBenzCyberOfficialwww.foundationforfreedomonline.co",
+              "duration_minutes": 164,
+              "link": "",
+              "guest": "Mike Benz"
+            },
+            {
+              "title": "#2446 - Greg Fitzsimmons",
+              "published": "Sat, 31 Jan 2026",
+              "description": "Greg Fitzsimmons is a comedian, actor, and writer, host of “Fitzdog Radio,” and co-host of “Sunday Papers” and “Childish.” He will be touring in 2026.www.youtube.com/@GregFitzsimmonsComedywww.sundaypa",
+              "duration_minutes": 163,
+              "link": "",
+              "guest": "Greg Fitzsimmons"
+            },
+            {
+              "title": "#2445 - Bert Kreischer",
+              "published": "Thu, 29 Jan 2026",
+              "description": "Bert Kreischer is a comedian, actor, host of “The Bertcast” and “Something’s Burning,” and co-host of “2 Bears, 1 Cave” with Tom Segura. His new show, “Free Bert,” is streaming on Netflix. He will be ",
+              "duration_minutes": 172,
+              "link": "",
+              "guest": "Bert Kreischer"
+            }
+          ],
+          "rss_url": "https://feeds.feedburner.com/JoeRoganExperience",
+          "note": "通过RSS Feed免费获取"
+        }
+      }
+    },
+    {
+      "name": "李子柒",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "type": "real_api",
+          "followers": 10339304
+        }
+      }
+    },
+    {
+      "name": "麻薯波比",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "type": "real_api",
+          "followers": 3163831
+        }
+      }
+    }
+  ]
+}

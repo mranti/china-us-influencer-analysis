@@ -1,0 +1,864 @@
+{
+  "generated_at": "2026-02-14T18:18:14.584642",
+  "influencers": [
+    {
+      "name": "MKBHD",
+      "handle": "mkbhd",
+      "category": "Technology",
+      "political_leaning": "科技自由主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 20700000,
+          "total_views": 5244415233,
+          "posts_count": 1796,
+          "recent_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "zPAY2VxfFBk",
+              "title": "The Problem with these Smartphone Batteries",
+              "description": "Silicon carbon batteries are kinda incredible, but for some reason aren't everywhere yet...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2026-02-06T21:03:37Z",
+              "view_count": 1937275,
+              "like_count": 79523,
+              "comment_count": 6067,
+              "url": "https://youtube.com/watch?v=zPAY2VxfFBk",
+              "thumbnail_url": "https://i.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+              "duration": "PT8M32S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "Qr4anBkL2_A",
+              "title": "This is NOT an iPhone",
+              "description": "But they sure tried to make it look like one",
+              "published_at": "2026-01-30T19:34:19Z",
+              "view_count": 4230093,
+              "like_count": 131446,
+              "comment_count": 3242,
+              "url": "https://youtube.com/watch?v=Qr4anBkL2_A",
+              "thumbnail_url": "https://i.ytimg.com/vi/Qr4anBkL2_A/hqdefault.jpg",
+              "duration": "PT1M8S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "LXmNeVLM4e4",
+              "title": "PSA: You look like this",
+              "description": "AR glasses at night",
+              "published_at": "2026-01-27T17:36:20Z",
+              "view_count": 2928481,
+              "like_count": 83111,
+              "comment_count": 1169,
+              "url": "https://youtube.com/watch?v=LXmNeVLM4e4",
+              "thumbnail_url": "https://i.ytimg.com/vi/LXmNeVLM4e4/hqdefault.jpg",
+              "duration": "PT28S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "vZdbbN3FCzE",
+              "title": "The Downfall of OnePlus will be Studied",
+              "description": "The enthusiast brand arc\n\nThat sweatshirt: http://shop.MKBHD.com\nWhy Enthusiast Brands will Betray You: https://youtu.be/FJgTKx-rg18?si=4pUmJhf5G6HZS3Cc\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 OnePlu",
+              "published_at": "2026-01-26T19:13:01Z",
+              "view_count": 4304298,
+              "like_count": 123023,
+              "comment_count": 12536,
+              "url": "https://youtube.com/watch?v=vZdbbN3FCzE",
+              "thumbnail_url": "https://i.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+              "duration": "PT15M4S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "DqAKQwagCDg",
+              "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+              "description": "All that Leica branding had me nervous...\n\nHead to https://www.rocketmoney.com/MKBHD and take control of your finances today with Rocket Money!\n\nModel Y Review shot on Xiaomi: https://youtu.be/MnjNgtPr3v0?si=RTW5JXr0N1k0aYeF\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https:/",
+              "published_at": "2026-01-22T19:45:23Z",
+              "view_count": 3398088,
+              "like_count": 90929,
+              "comment_count": 3576,
+              "url": "https://youtube.com/watch?v=DqAKQwagCDg",
+              "thumbnail_url": "https://i.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+              "duration": "PT12M5S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "PTd98UnJnnU",
+              "title": "This TECH Knife is Insane!",
+              "description": "Sorry dinner is late, I had to charge my knife",
+              "published_at": "2026-01-16T21:56:34Z",
+              "view_count": 23247606,
+              "like_count": 675792,
+              "comment_count": 21482,
+              "url": "https://youtube.com/watch?v=PTd98UnJnnU",
+              "thumbnail_url": "https://i.ytimg.com/vi/PTd98UnJnnU/hqdefault.jpg",
+              "duration": "PT1M53S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "TVsounscj4U",
+              "title": "The New Siri is... Google (Explained)",
+              "description": "Siri by Google. Makes you think.\n\nApple AI video: https://youtu.be/hz6oys4Eem4?si=v362Nuiwg8y_pPPL\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2026-01-13T00:26:17Z",
+              "view_count": 3877034,
+              "like_count": 112550,
+              "comment_count": 10208,
+              "url": "https://youtube.com/watch?v=TVsounscj4U",
+              "thumbnail_url": "https://i.ytimg.com/vi/TVsounscj4U/hqdefault.jpg",
+              "duration": "PT8M23S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "HLUamwXQ218",
+              "title": "The Problem with this “Ultra Luxury” Smartphone",
+              "description": "Do not buy this phone. And don’t fall for their website slop.\n\nMKBHD Merch: http://shop.MKBHD.com\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2026-01-09T23:21:29Z",
+              "view_count": 2551463,
+              "like_count": 78381,
+              "comment_count": 5703,
+              "url": "https://youtube.com/watch?v=HLUamwXQ218",
+              "thumbnail_url": "https://i.ytimg.com/vi/HLUamwXQ218/hqdefault.jpg",
+              "duration": "PT15M32S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "Jh9pFp1oM7E",
+              "title": "I shrunk down into an M5 chip",
+              "description": "I shrunk myself down to explore the scale of transistors.\n\nWatch the companion video from @EpicSpaceman \n\nMKBHD Merch: http://shop.MKBHD.com\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2025-12-26T15:00:12Z",
+              "view_count": 3237174,
+              "like_count": 239195,
+              "comment_count": 9594,
+              "url": "https://youtube.com/watch?v=Jh9pFp1oM7E",
+              "thumbnail_url": "https://i.ytimg.com/vi/Jh9pFp1oM7E/hqdefault.jpg",
+              "duration": "PT11M52S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "v-sCZN3FbR0",
+              "title": "Every Mistake I Made in 2025",
+              "description": "I miss annotations.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2025-12-23T00:51:58Z",
+              "view_count": 1260710,
+              "like_count": 55538,
+              "comment_count": 2487,
+              "url": "https://youtube.com/watch?v=v-sCZN3FbR0",
+              "thumbnail_url": "https://i.ytimg.com/vi/v-sCZN3FbR0/hqdefault.jpg",
+              "duration": "PT13M45S"
+            }
+          ],
+          "top_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "zPAY2VxfFBk",
+              "title": "The Problem with these Smartphone Batteries",
+              "description": "Silicon carbon batteries are kinda incredible, but for some reason aren't everywhere yet...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+              "published_at": "2026-02-06T21:03:37Z",
+              "view_count": 1937275,
+              "like_count": 79523,
+              "comment_count": 6067,
+              "url": "https://youtube.com/watch?v=zPAY2VxfFBk",
+              "thumbnail_url": "https://i.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg",
+              "duration": "PT8M32S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "Qr4anBkL2_A",
+              "title": "This is NOT an iPhone",
+              "description": "But they sure tried to make it look like one",
+              "published_at": "2026-01-30T19:34:19Z",
+              "view_count": 4230093,
+              "like_count": 131446,
+              "comment_count": 3242,
+              "url": "https://youtube.com/watch?v=Qr4anBkL2_A",
+              "thumbnail_url": "https://i.ytimg.com/vi/Qr4anBkL2_A/hqdefault.jpg",
+              "duration": "PT1M8S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "LXmNeVLM4e4",
+              "title": "PSA: You look like this",
+              "description": "AR glasses at night",
+              "published_at": "2026-01-27T17:36:20Z",
+              "view_count": 2928481,
+              "like_count": 83111,
+              "comment_count": 1169,
+              "url": "https://youtube.com/watch?v=LXmNeVLM4e4",
+              "thumbnail_url": "https://i.ytimg.com/vi/LXmNeVLM4e4/hqdefault.jpg",
+              "duration": "PT28S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "vZdbbN3FCzE",
+              "title": "The Downfall of OnePlus will be Studied",
+              "description": "The enthusiast brand arc\n\nThat sweatshirt: http://shop.MKBHD.com\nWhy Enthusiast Brands will Betray You: https://youtu.be/FJgTKx-rg18?si=4pUmJhf5G6HZS3Cc\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 OnePlu",
+              "published_at": "2026-01-26T19:13:01Z",
+              "view_count": 4304298,
+              "like_count": 123023,
+              "comment_count": 12536,
+              "url": "https://youtube.com/watch?v=vZdbbN3FCzE",
+              "thumbnail_url": "https://i.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg",
+              "duration": "PT15M4S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "DqAKQwagCDg",
+              "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+              "description": "All that Leica branding had me nervous...\n\nHead to https://www.rocketmoney.com/MKBHD and take control of your finances today with Rocket Money!\n\nModel Y Review shot on Xiaomi: https://youtu.be/MnjNgtPr3v0?si=RTW5JXr0N1k0aYeF\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https:/",
+              "published_at": "2026-01-22T19:45:23Z",
+              "view_count": 3398088,
+              "like_count": 90929,
+              "comment_count": 3576,
+              "url": "https://youtube.com/watch?v=DqAKQwagCDg",
+              "thumbnail_url": "https://i.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg",
+              "duration": "PT12M5S"
+            }
+          ],
+          "error_message": "",
+          "raw_data": {
+            "channel_name": "Marques Brownlee",
+            "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nbusiness@MKBHD.com\n\nNYC",
+            "thumbnail": "https://yt3.ggpht.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s800-c-k-c0x00ffffff-no-rj",
+            "custom_url": "@mkbhd"
+          }
+        },
+        "x": {
+          "platform": "x",
+          "status": "estimated",
+          "followers": 3100000,
+          "total_views": 310000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "MKBHD",
+            "url": "https://x.com/MKBHD",
+            "note": "Nitter被封，使用估算值。需要Twitter API获取准确数据"
+          }
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 2300000,
+          "total_views": 23000000,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "mkbhd",
+            "url": "https://www.tiktok.com/@mkbhd"
+          }
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "estimated",
+          "followers": 4200000,
+          "total_views": 210000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "mkbhd",
+            "url": "https://instagram.com/mkbhd",
+            "note": "Instagram反爬严格，使用估算值"
+          }
+        }
+      },
+      "content_analysis": {
+        "overall_leaning": "neutral/centrist",
+        "confidence": 0.3,
+        "sentiment_score": 0.67,
+        "keywords_found": [],
+        "detailed_scores": {
+          "left": 0,
+          "right": 0,
+          "libertarian": 0,
+          "nationalist": 0,
+          "populist": 0
+        },
+        "configured_leaning": "科技自由主义"
+      },
+      "collected_at": "2026-02-14T18:18:12.366195"
+    },
+    {
+      "name": "MrBeast",
+      "handle": "mrbeast",
+      "category": "Entertainment",
+      "political_leaning": "商业中立",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 467000000,
+          "total_views": 111488137313,
+          "posts_count": 944,
+          "recent_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "XbaZ45LVzzM",
+              "title": "Surprising My Fiancée With A Chocolate Heart",
+              "description": "",
+              "published_at": "2026-02-12T17:00:01Z",
+              "view_count": 43504994,
+              "like_count": 1272859,
+              "comment_count": 10411,
+              "url": "https://youtube.com/watch?v=XbaZ45LVzzM",
+              "thumbnail_url": "https://i.ytimg.com/vi/XbaZ45LVzzM/hqdefault.jpg",
+              "duration": "PT37S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "gar4U3n-ILY",
+              "title": "Guess What Age Punched You",
+              "description": "",
+              "published_at": "2026-02-09T17:00:00Z",
+              "view_count": 120150696,
+              "like_count": 2300315,
+              "comment_count": 16981,
+              "url": "https://youtube.com/watch?v=gar4U3n-ILY",
+              "thumbnail_url": "https://i.ytimg.com/vi/gar4U3n-ILY/hqdefault.jpg",
+              "duration": "PT37S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "9WEQts7b8Pw",
+              "title": "Ages 1 - 100 Race For $250,000!",
+              "description": "Watching 100 people from every age compete was absolute chaos lol\n\nThis Sunday you could win $1,000,000 worth of prizes on Whatnot. I'm going live this Sunday at 10 AM PT. Download Whatnot, follow me on the app, and I will see you there :) https://www.whatnot.com/user/mrbeast\n\nTerms and Conditions: ",
+              "published_at": "2026-02-07T17:00:01Z",
+              "view_count": 52935208,
+              "like_count": 1246904,
+              "comment_count": 63946,
+              "url": "https://youtube.com/watch?v=9WEQts7b8Pw",
+              "thumbnail_url": "https://i.ytimg.com/vi/9WEQts7b8Pw/hqdefault.jpg",
+              "duration": "PT23M31S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "_sBRk9ADpK8",
+              "title": "Flip a Coin, Win $30,000",
+              "description": "",
+              "published_at": "2026-01-27T17:00:03Z",
+              "view_count": 303322946,
+              "like_count": 4280270,
+              "comment_count": 23595,
+              "url": "https://youtube.com/watch?v=_sBRk9ADpK8",
+              "thumbnail_url": "https://i.ytimg.com/vi/_sBRk9ADpK8/hqdefault.jpg",
+              "duration": "PT47S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "kNLr-cduzuo",
+              "title": "Wait... Was He Famous?",
+              "description": "",
+              "published_at": "2026-01-25T20:00:01Z",
+              "view_count": 99635283,
+              "like_count": 2558457,
+              "comment_count": 24755,
+              "url": "https://youtube.com/watch?v=kNLr-cduzuo",
+              "thumbnail_url": "https://i.ytimg.com/vi/kNLr-cduzuo/hqdefault.jpg",
+              "duration": "PT14S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "pAnGwRiQ4-4",
+              "title": "$1 vs $1,000,000,000 Futuristic Tech!",
+              "description": "This video made me truly realize how awesome the future is going to be\n\nShopify technology made it possible for way more people to start businesses. Now it's your turn. Go to https://shopify.com/mrbeast to start your trial. ShopifyPartner\n\nWith Wing, Get food, groceries, and essentials in as little ",
+              "published_at": "2026-01-24T17:00:01Z",
+              "view_count": 100316723,
+              "like_count": 2608475,
+              "comment_count": 82382,
+              "url": "https://youtube.com/watch?v=pAnGwRiQ4-4",
+              "thumbnail_url": "https://i.ytimg.com/vi/pAnGwRiQ4-4/hqdefault.jpg",
+              "duration": "PT23M4S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "wSh8fAFWEWs",
+              "title": "Survivor vs Beast Games",
+              "description": "",
+              "published_at": "2026-01-16T19:00:01Z",
+              "view_count": 26106757,
+              "like_count": 713161,
+              "comment_count": 13024,
+              "url": "https://youtube.com/watch?v=wSh8fAFWEWs",
+              "thumbnail_url": "https://i.ytimg.com/vi/wSh8fAFWEWs/hqdefault.jpg",
+              "duration": "PT28S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "3GNyw4uaAqU",
+              "title": "Subscribe for an iPhone",
+              "description": "NO PURCHASE NECESSARY TO ENTER OR WIN. Takes place from 12:00 p.m. ET on January 13, 2026 through 11:59 a.m. ET on February 12, 2026.  See Official Rules at https://bit.ly/subthrow for eligibility requirements, individual entry periodsand complete details. Void where prohibited. Sponsor: MrBeastYouT",
+              "published_at": "2026-01-13T19:00:04Z",
+              "view_count": 855772047,
+              "like_count": 5227950,
+              "comment_count": 145942,
+              "url": "https://youtube.com/watch?v=3GNyw4uaAqU",
+              "thumbnail_url": "https://i.ytimg.com/vi/3GNyw4uaAqU/hqdefault.jpg",
+              "duration": "PT15S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "ywIcdSNJolo",
+              "title": "Pass the Phone",
+              "description": "",
+              "published_at": "2026-01-09T19:00:05Z",
+              "view_count": 66093895,
+              "like_count": 1606576,
+              "comment_count": 12109,
+              "url": "https://youtube.com/watch?v=ywIcdSNJolo",
+              "thumbnail_url": "https://i.ytimg.com/vi/ywIcdSNJolo/hqdefault.jpg",
+              "duration": "PT23S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "QJI0an6irrA",
+              "title": "30 Celebrities Fight For $1,000,000!",
+              "description": "I was not prepared for how intense that ending was\nBeast Games 2: Strong vs Smart is live now on Prime Video, go watch it right now for free: https://linktr.ee/beastgames\n\nSpecial thanks to Radford Studios—the absolute best place to shoot any production. https://radfordsc.com/stages/\n\nNew Merch - ht",
+              "published_at": "2026-01-07T20:00:09Z",
+              "view_count": 103518715,
+              "like_count": 2414773,
+              "comment_count": 114502,
+              "url": "https://youtube.com/watch?v=QJI0an6irrA",
+              "thumbnail_url": "https://i.ytimg.com/vi/QJI0an6irrA/hqdefault.jpg",
+              "duration": "PT41M58S"
+            }
+          ],
+          "top_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "XbaZ45LVzzM",
+              "title": "Surprising My Fiancée With A Chocolate Heart",
+              "description": "",
+              "published_at": "2026-02-12T17:00:01Z",
+              "view_count": 43504994,
+              "like_count": 1272859,
+              "comment_count": 10411,
+              "url": "https://youtube.com/watch?v=XbaZ45LVzzM",
+              "thumbnail_url": "https://i.ytimg.com/vi/XbaZ45LVzzM/hqdefault.jpg",
+              "duration": "PT37S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "gar4U3n-ILY",
+              "title": "Guess What Age Punched You",
+              "description": "",
+              "published_at": "2026-02-09T17:00:00Z",
+              "view_count": 120150696,
+              "like_count": 2300315,
+              "comment_count": 16981,
+              "url": "https://youtube.com/watch?v=gar4U3n-ILY",
+              "thumbnail_url": "https://i.ytimg.com/vi/gar4U3n-ILY/hqdefault.jpg",
+              "duration": "PT37S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "9WEQts7b8Pw",
+              "title": "Ages 1 - 100 Race For $250,000!",
+              "description": "Watching 100 people from every age compete was absolute chaos lol\n\nThis Sunday you could win $1,000,000 worth of prizes on Whatnot. I'm going live this Sunday at 10 AM PT. Download Whatnot, follow me on the app, and I will see you there :) https://www.whatnot.com/user/mrbeast\n\nTerms and Conditions: ",
+              "published_at": "2026-02-07T17:00:01Z",
+              "view_count": 52935208,
+              "like_count": 1246904,
+              "comment_count": 63946,
+              "url": "https://youtube.com/watch?v=9WEQts7b8Pw",
+              "thumbnail_url": "https://i.ytimg.com/vi/9WEQts7b8Pw/hqdefault.jpg",
+              "duration": "PT23M31S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "_sBRk9ADpK8",
+              "title": "Flip a Coin, Win $30,000",
+              "description": "",
+              "published_at": "2026-01-27T17:00:03Z",
+              "view_count": 303322946,
+              "like_count": 4280270,
+              "comment_count": 23595,
+              "url": "https://youtube.com/watch?v=_sBRk9ADpK8",
+              "thumbnail_url": "https://i.ytimg.com/vi/_sBRk9ADpK8/hqdefault.jpg",
+              "duration": "PT47S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "kNLr-cduzuo",
+              "title": "Wait... Was He Famous?",
+              "description": "",
+              "published_at": "2026-01-25T20:00:01Z",
+              "view_count": 99635283,
+              "like_count": 2558457,
+              "comment_count": 24755,
+              "url": "https://youtube.com/watch?v=kNLr-cduzuo",
+              "thumbnail_url": "https://i.ytimg.com/vi/kNLr-cduzuo/hqdefault.jpg",
+              "duration": "PT14S"
+            }
+          ],
+          "error_message": "",
+          "raw_data": {
+            "channel_name": "MrBeast",
+            "description": "SUBSCRIBE FOR A COOKIE!\nNew MrBeast or MrBeast Gaming video every single Saturday at noon eastern time!\nAccomplishments:\n- Raised $20,000,000 To Plant 20,000,000 Trees\n- Removed 30,000,000 pounds of t",
+            "thumbnail": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s800-c-k-c0x00ffffff-no-rj",
+            "custom_url": "@mrbeast"
+          }
+        },
+        "x": {
+          "platform": "x",
+          "status": "estimated",
+          "followers": 31000000,
+          "total_views": 3100000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "MrBeast",
+            "url": "https://x.com/MrBeast",
+            "note": "Nitter被封，使用估算值。需要Twitter API获取准确数据"
+          }
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 124700000,
+          "total_views": 1247000000,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "mrbeast",
+            "url": "https://www.tiktok.com/@mrbeast"
+          }
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "estimated",
+          "followers": 65000000,
+          "total_views": 3250000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "mrbeast",
+            "url": "https://instagram.com/mrbeast",
+            "note": "Instagram反爬严格，使用估算值"
+          }
+        }
+      },
+      "content_analysis": {
+        "overall_leaning": "民粹主义",
+        "confidence": 1.0,
+        "sentiment_score": 0.66,
+        "keywords_found": [
+          "people(1)"
+        ],
+        "detailed_scores": {
+          "left": 0,
+          "right": 0,
+          "libertarian": 0,
+          "nationalist": 0,
+          "populist": 1
+        },
+        "configured_leaning": "商业中立"
+      },
+      "collected_at": "2026-02-14T18:18:13.609372"
+    },
+    {
+      "name": "Joe Rogan",
+      "handle": "joerogan",
+      "category": "Podcast/Politics",
+      "political_leaning": "自由意志主义",
+      "platforms": {
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 20700000,
+          "total_views": 6418794764,
+          "posts_count": 3540,
+          "recent_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "qFwiXyZHYbU",
+              "title": "Joe Rogan Experience #2454 - Robert Malone, MD",
+              "description": "Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform delivery technologies. He serves on the Centers for Disease Control and Prevention’s Advisory Commit",
+              "published_at": "2026-02-13T18:00:57Z",
+              "view_count": 382708,
+              "like_count": 10969,
+              "comment_count": 3330,
+              "url": "https://youtube.com/watch?v=qFwiXyZHYbU",
+              "thumbnail_url": "https://i.ytimg.com/vi/qFwiXyZHYbU/hqdefault.jpg",
+              "duration": "PT2H33M23S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "y2SD_z61FRo",
+              "title": "Joe Rogan Experience #2453 - Evan Hafer",
+              "description": "Evan Hafer is a Special Forces veteran, founder, and executive chairman of Black Rifle Coffee Company, and one of the hosts of the “Black Rifle Coffee Podcast.”\n\nhttps://www.blackriflecoffee.com\nhttps://www.youtube.com/@BlackRifleCoffeeCompany\n\nPerplexity: Download the app or ask Perplexity anything",
+              "published_at": "2026-02-12T18:01:07Z",
+              "view_count": 412930,
+              "like_count": 5761,
+              "comment_count": 1934,
+              "url": "https://youtube.com/watch?v=y2SD_z61FRo",
+              "thumbnail_url": "https://i.ytimg.com/vi/y2SD_z61FRo/hqdefault.jpg",
+              "duration": "PT2H54M11S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "CH5JoJ_-hic",
+              "title": "Joe Rogan Experience #2452 - Roger Avary",
+              "description": "Roger Avary is a director, producer, and Academy Award-winning screenwriter known for “Pulp Fiction,” which he co-wrote with Quentin Tarantino, as well as “The Rules of Attraction” and “Killing Zoe.” He is the co-host, along with Tarantino, of “The Video Archives Podcast.”\n\nhttps://www.youtube.com/@",
+              "published_at": "2026-02-11T18:00:10Z",
+              "view_count": 650781,
+              "like_count": 12606,
+              "comment_count": 5714,
+              "url": "https://youtube.com/watch?v=CH5JoJ_-hic",
+              "thumbnail_url": "https://i.ytimg.com/vi/CH5JoJ_-hic/hqdefault.jpg",
+              "duration": "PT3H5M55S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "0sMrvv53e9Y",
+              "title": "Joe Rogan Experience #2451 - Cheryl Hines",
+              "description": "Cheryl Hines is an Emmy Award-nominated actress, director, producer, and comedian. While she is best known for her role as Cheryl David on the HBO series “Curb Your Enthusiasm,” Hines has appeared in numerous films and television series over a career spanning more than 30 years, and is married to U.",
+              "published_at": "2026-02-10T18:00:02Z",
+              "view_count": 646905,
+              "like_count": 11474,
+              "comment_count": 4345,
+              "url": "https://youtube.com/watch?v=0sMrvv53e9Y",
+              "thumbnail_url": "https://i.ytimg.com/vi/0sMrvv53e9Y/hqdefault.jpg",
+              "duration": "PT3H4M40S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "UPfN2G0RyQM",
+              "title": "Joe Rogan Experience #2450 - Tommy Wood",
+              "description": "Tommy Wood, PhD, is a neuroscientist and athletic performance coach. He is a host of the “Better Brain Fitness” podcast and author of “The Stimulated Mind: Future-Proof Your Brain from Dementia and Stay Sharp at Any Age,” which will be released March 24 and is available for preorder now.\n\nhttps://ww",
+              "published_at": "2026-02-06T18:00:29Z",
+              "view_count": 516071,
+              "like_count": 5721,
+              "comment_count": 2660,
+              "url": "https://youtube.com/watch?v=UPfN2G0RyQM",
+              "thumbnail_url": "https://i.ytimg.com/vi/UPfN2G0RyQM/hqdefault.jpg",
+              "duration": "PT2H11M8S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "BvhFuEp55X0",
+              "title": "Joe Rogan Experience #2449 - Raul Bilecky",
+              "description": "Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”\n\nhttps://www.youtube.com/@PillarsofthePast101\nhttps://www.patreon.com/PillarsofthePast\nhttps://www.pillarsofthepast.com\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.",
+              "published_at": "2026-02-05T18:00:11Z",
+              "view_count": 741446,
+              "like_count": 11947,
+              "comment_count": 3125,
+              "url": "https://youtube.com/watch?v=BvhFuEp55X0",
+              "thumbnail_url": "https://i.ytimg.com/vi/BvhFuEp55X0/hqdefault.jpg",
+              "duration": "PT2H31M10S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "Dnon-AsWnOQ",
+              "title": "Joe Rogan Experience #2448 - Andrew Doyle",
+              "description": "Andrew Doyle is a writer, broadcaster, and comedian. He is the author of several books, including his most recent, “The End of Woke: How the Culture War Went Too Far and What to Expect from the Counter-Revolution.”\nhttps://www.andrewdoyle.org\n\nPerplexity: Download the app or ask Perplexity anything ",
+              "published_at": "2026-02-04T18:00:15Z",
+              "view_count": 578538,
+              "like_count": 8500,
+              "comment_count": 3358,
+              "url": "https://youtube.com/watch?v=Dnon-AsWnOQ",
+              "thumbnail_url": "https://i.ytimg.com/vi/Dnon-AsWnOQ/hqdefault.jpg",
+              "duration": "PT2H39M42S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "MkqDA9W4Vo0",
+              "title": "Joe Rogan Experience #2447 - Mike Benz",
+              "description": "Mike Benz is the Executive Director of the Foundation for Freedom Online and a former official with the U.S. Department of State.\nhttps://www.youtube.com/@MikeBenzCyberOfficial\nhttps://www.foundationforfreedomonline.com\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/roga",
+              "published_at": "2026-02-03T18:00:31Z",
+              "view_count": 1111485,
+              "like_count": 19868,
+              "comment_count": 9829,
+              "url": "https://youtube.com/watch?v=MkqDA9W4Vo0",
+              "thumbnail_url": "https://i.ytimg.com/vi/MkqDA9W4Vo0/hqdefault.jpg",
+              "duration": "PT2H39M20S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "IbhDeUcZ_iw",
+              "title": "Joe Rogan Experience #2446 - Greg Fitzsimmons",
+              "description": "Greg Fitzsimmons is a comedian, actor, and writer, host of “Fitzdog Radio,” and co-host of “Sunday Papers” and “Childish.” He will be touring in 2026.\n\nhttps://www.youtube.com/@GregFitzsimmonsComedy\nhttps://www.sundaypapers.net\nhttps://www.childishpod.com\nhttps://www.gregfitzsimmons.com\n\nPerplexity:",
+              "published_at": "2026-01-31T19:00:25Z",
+              "view_count": 755954,
+              "like_count": 9373,
+              "comment_count": 3312,
+              "url": "https://youtube.com/watch?v=IbhDeUcZ_iw",
+              "thumbnail_url": "https://i.ytimg.com/vi/IbhDeUcZ_iw/hqdefault.jpg",
+              "duration": "PT2H37M49S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "gYcuTY7tnvk",
+              "title": "Joe Rogan Experience #2445 - Bert Kreischer",
+              "description": "Bert Kreischer is a comedian, actor, host of “The Bertcast” and “Something’s Burning,” and co-host of “2 Bears, 1 Cave” with Tom Segura. His new show, “Free Bert,” is streaming on Netflix. He will be touring in 2026 with the “Permission to Party” tour.\n\nhttps://www.netflix.com/title/81696123\nhttps:/",
+              "published_at": "2026-01-29T18:00:47Z",
+              "view_count": 1158875,
+              "like_count": 15318,
+              "comment_count": 5724,
+              "url": "https://youtube.com/watch?v=gYcuTY7tnvk",
+              "thumbnail_url": "https://i.ytimg.com/vi/gYcuTY7tnvk/hqdefault.jpg",
+              "duration": "PT2H47M16S"
+            }
+          ],
+          "top_posts": [
+            {
+              "platform": "youtube",
+              "video_id": "qFwiXyZHYbU",
+              "title": "Joe Rogan Experience #2454 - Robert Malone, MD",
+              "description": "Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform delivery technologies. He serves on the Centers for Disease Control and Prevention’s Advisory Commit",
+              "published_at": "2026-02-13T18:00:57Z",
+              "view_count": 382708,
+              "like_count": 10969,
+              "comment_count": 3330,
+              "url": "https://youtube.com/watch?v=qFwiXyZHYbU",
+              "thumbnail_url": "https://i.ytimg.com/vi/qFwiXyZHYbU/hqdefault.jpg",
+              "duration": "PT2H33M23S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "y2SD_z61FRo",
+              "title": "Joe Rogan Experience #2453 - Evan Hafer",
+              "description": "Evan Hafer is a Special Forces veteran, founder, and executive chairman of Black Rifle Coffee Company, and one of the hosts of the “Black Rifle Coffee Podcast.”\n\nhttps://www.blackriflecoffee.com\nhttps://www.youtube.com/@BlackRifleCoffeeCompany\n\nPerplexity: Download the app or ask Perplexity anything",
+              "published_at": "2026-02-12T18:01:07Z",
+              "view_count": 412930,
+              "like_count": 5761,
+              "comment_count": 1934,
+              "url": "https://youtube.com/watch?v=y2SD_z61FRo",
+              "thumbnail_url": "https://i.ytimg.com/vi/y2SD_z61FRo/hqdefault.jpg",
+              "duration": "PT2H54M11S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "CH5JoJ_-hic",
+              "title": "Joe Rogan Experience #2452 - Roger Avary",
+              "description": "Roger Avary is a director, producer, and Academy Award-winning screenwriter known for “Pulp Fiction,” which he co-wrote with Quentin Tarantino, as well as “The Rules of Attraction” and “Killing Zoe.” He is the co-host, along with Tarantino, of “The Video Archives Podcast.”\n\nhttps://www.youtube.com/@",
+              "published_at": "2026-02-11T18:00:10Z",
+              "view_count": 650781,
+              "like_count": 12606,
+              "comment_count": 5714,
+              "url": "https://youtube.com/watch?v=CH5JoJ_-hic",
+              "thumbnail_url": "https://i.ytimg.com/vi/CH5JoJ_-hic/hqdefault.jpg",
+              "duration": "PT3H5M55S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "0sMrvv53e9Y",
+              "title": "Joe Rogan Experience #2451 - Cheryl Hines",
+              "description": "Cheryl Hines is an Emmy Award-nominated actress, director, producer, and comedian. While she is best known for her role as Cheryl David on the HBO series “Curb Your Enthusiasm,” Hines has appeared in numerous films and television series over a career spanning more than 30 years, and is married to U.",
+              "published_at": "2026-02-10T18:00:02Z",
+              "view_count": 646905,
+              "like_count": 11474,
+              "comment_count": 4345,
+              "url": "https://youtube.com/watch?v=0sMrvv53e9Y",
+              "thumbnail_url": "https://i.ytimg.com/vi/0sMrvv53e9Y/hqdefault.jpg",
+              "duration": "PT3H4M40S"
+            },
+            {
+              "platform": "youtube",
+              "video_id": "UPfN2G0RyQM",
+              "title": "Joe Rogan Experience #2450 - Tommy Wood",
+              "description": "Tommy Wood, PhD, is a neuroscientist and athletic performance coach. He is a host of the “Better Brain Fitness” podcast and author of “The Stimulated Mind: Future-Proof Your Brain from Dementia and Stay Sharp at Any Age,” which will be released March 24 and is available for preorder now.\n\nhttps://ww",
+              "published_at": "2026-02-06T18:00:29Z",
+              "view_count": 516071,
+              "like_count": 5721,
+              "comment_count": 2660,
+              "url": "https://youtube.com/watch?v=UPfN2G0RyQM",
+              "thumbnail_url": "https://i.ytimg.com/vi/UPfN2G0RyQM/hqdefault.jpg",
+              "duration": "PT2H11M8S"
+            }
+          ],
+          "error_message": "",
+          "raw_data": {
+            "channel_name": "PowerfulJRE",
+            "description": "The Joe Rogan Experience podcast\n",
+            "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kIOv8XSayB3mVzdmGH6r6nOuncclc_QxWr7TYTXM4dFrs=s800-c-k-c0x00ffffff-no-rj",
+            "custom_url": "@joerogan"
+          }
+        },
+        "podcast": {
+          "platform": "podcast",
+          "status": "estimated",
+          "followers": 14000000,
+          "total_views": 24640000000.0,
+          "posts_count": 2200,
+          "recent_posts": [
+            {
+              "note": "Based on estimated data"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "note": "JRE Podcast estimated based on public data"
+          }
+        },
+        "x": {
+          "platform": "x",
+          "status": "estimated",
+          "followers": 14800000,
+          "total_views": 1480000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "joerogan",
+            "url": "https://x.com/joerogan",
+            "note": "Nitter被封，使用估算值。需要Twitter API获取准确数据"
+          }
+        },
+        "tiktok": {
+          "platform": "tiktok",
+          "status": "success",
+          "followers": 3,
+          "total_views": 30,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "joerogan",
+            "url": "https://www.tiktok.com/@joerogan"
+          }
+        },
+        "instagram": {
+          "platform": "instagram",
+          "status": "estimated",
+          "followers": 20000000,
+          "total_views": 1000000.0,
+          "posts_count": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "joerogan",
+            "url": "https://instagram.com/joerogan",
+            "note": "Instagram反爬严格，使用估算值"
+          }
+        }
+      },
+      "content_analysis": {
+        "overall_leaning": "neutral/centrist",
+        "confidence": 0.3,
+        "sentiment_score": 0.34,
+        "keywords_found": [],
+        "detailed_scores": {
+          "left": 0,
+          "right": 0,
+          "libertarian": 0,
+          "nationalist": 0,
+          "populist": 0
+        },
+        "configured_leaning": "自由意志主义"
+      },
+      "collected_at": "2026-02-14T18:18:14.584198"
+    }
+  ]
+}

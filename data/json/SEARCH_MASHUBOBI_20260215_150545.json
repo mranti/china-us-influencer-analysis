@@ -1,0 +1,37 @@
+{
+  "name": "麻薯波比",
+  "category": "知识/历史/军事",
+  "political_stance": "民族主义/温和建制派",
+  "bilibili": {
+    "platform": "bilibili",
+    "status": "success",
+    "followers": 3163834,
+    "likes": 0,
+    "level": 6,
+    "name": "麻薯波比呀",
+    "sign": "你装模作样的戴我的九筒做什么？",
+    "videos_count": 0,
+    "total_plays": 0,
+    "recent_videos": []
+  },
+  "other_platforms": {
+    "weibo": {
+      "followers": 800000,
+      "status": "estimated"
+    },
+    "douyin": {
+      "followers": 3000000,
+      "status": "estimated"
+    },
+    "wechat_official": {
+      "followers": 500000,
+      "status": "estimated"
+    },
+    "wechat_channels": {
+      "followers": 800000,
+      "status": "estimated"
+    }
+  },
+  "total_estimated_followers": 8263834,
+  "searched_at": "2026-02-15T15:05:45.687625"
+}

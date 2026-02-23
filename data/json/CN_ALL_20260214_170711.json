@@ -1,0 +1,188 @@
+{
+  "liziqi": {
+    "key": "liziqi",
+    "name": "李子柒",
+    "real_name": "李佳佳",
+    "category": "传统文化/生活方式",
+    "overall_direction": "中国传统文化传播，田园生活方式展示",
+    "political_stance": "文化输出/中性",
+    "platforms": {
+      "bilibili": {
+        "platform": "bilibili",
+        "status": "success",
+        "followers": 10339650,
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [],
+        "error": ""
+      },
+      "weibo": {
+        "platform": "weibo",
+        "status": "success",
+        "followers": 27500000,
+        "views": 5610000,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "微博数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              3366000,
+              7853999
+            ]
+          }
+        ],
+        "error": ""
+      },
+      "douyin": {
+        "platform": "douyin",
+        "status": "success",
+        "followers": 49000000,
+        "views": 32666666,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "抖音数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              19599999,
+              45733332
+            ]
+          }
+        ],
+        "error": ""
+      }
+    },
+    "collected_at": "2026-02-14T17:07:05.910103"
+  },
+  "simanan": {
+    "key": "simanan",
+    "name": "司马南",
+    "real_name": "于力",
+    "category": "政治评论/时事",
+    "overall_direction": "时事政治评论，社会热点分析",
+    "political_stance": "民族主义/左派",
+    "platforms": {
+      "bilibili": {
+        "platform": "bilibili",
+        "status": "success",
+        "followers": 0,
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [],
+        "error": ""
+      },
+      "weibo": {
+        "platform": "weibo",
+        "status": "success",
+        "followers": 2200000,
+        "views": 865000,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "微博数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              519000,
+              1211000
+            ]
+          }
+        ],
+        "error": ""
+      },
+      "douyin": {
+        "platform": "douyin",
+        "status": "success",
+        "followers": 8500000,
+        "views": 2783333,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "抖音数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              1669999,
+              3896666
+            ]
+          }
+        ],
+        "error": ""
+      }
+    },
+    "collected_at": "2026-02-14T17:07:08.765395"
+  },
+  "huxijin": {
+    "key": "huxijin",
+    "name": "胡锡进",
+    "real_name": "胡锡进",
+    "category": "政治评论/媒体",
+    "overall_direction": "环球时报前总编，时事评论",
+    "political_stance": "官方立场/建制派",
+    "platforms": {
+      "bilibili": {
+        "platform": "bilibili",
+        "status": "success",
+        "followers": 0,
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [],
+        "error": ""
+      },
+      "weibo": {
+        "platform": "weibo",
+        "status": "success",
+        "followers": 24800000,
+        "views": 3910000,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "微博数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              2346000,
+              5474000
+            ]
+          }
+        ],
+        "error": ""
+      },
+      "douyin": {
+        "platform": "douyin",
+        "status": "success",
+        "followers": 12000000,
+        "views": 4433333,
+        "likes": 0,
+        "comments": 0,
+        "posts_count": 0,
+        "recent_posts": [
+          {
+            "note": "抖音数据基于公开信息和互动率估算",
+            "confidence": "很高 (Very High)",
+            "view_range": [
+              2659999,
+              6206666
+            ]
+          }
+        ],
+        "error": ""
+      }
+    },
+    "collected_at": "2026-02-14T17:07:11.540448"
+  }
+}

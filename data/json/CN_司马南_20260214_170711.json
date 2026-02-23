@@ -1,0 +1,62 @@
+{
+  "key": "simanan",
+  "name": "司马南",
+  "real_name": "于力",
+  "category": "政治评论/时事",
+  "overall_direction": "时事政治评论，社会热点分析",
+  "political_stance": "民族主义/左派",
+  "platforms": {
+    "bilibili": {
+      "platform": "bilibili",
+      "status": "success",
+      "followers": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [],
+      "error": ""
+    },
+    "weibo": {
+      "platform": "weibo",
+      "status": "success",
+      "followers": 2200000,
+      "views": 865000,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "微博数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            519000,
+            1211000
+          ]
+        }
+      ],
+      "error": ""
+    },
+    "douyin": {
+      "platform": "douyin",
+      "status": "success",
+      "followers": 8500000,
+      "views": 2783333,
+      "likes": 0,
+      "comments": 0,
+      "posts_count": 0,
+      "recent_posts": [
+        {
+          "note": "抖音数据基于公开信息和互动率估算",
+          "confidence": "很高 (Very High)",
+          "view_range": [
+            1669999,
+            3896666
+          ]
+        }
+      ],
+      "error": ""
+    }
+  },
+  "collected_at": "2026-02-14T17:07:08.765395"
+}

@@ -1,0 +1,656 @@
+{
+  "generated_at": "2026-02-19T18:04:03.945641",
+  "region": "CN",
+  "influencers": [
+    {
+      "key": "liziqi",
+      "name": "李子柒",
+      "real_name": "李佳佳",
+      "category": "传统文化/生活方式",
+      "political_stance": "文化输出/中性",
+      "direction": "中国传统文化传播，田园生活方式展示",
+      "influence_score": 78000572,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 10338873,
+          "engagement_rate": 0,
+          "weight": 0.9,
+          "score_contribution": 4652492
+        },
+        "weibo": {
+          "followers": 27500000,
+          "engagement_rate": 0.23,
+          "weight": 0.7,
+          "score_contribution": 10574520
+        },
+        "douyin": {
+          "followers": 49000000,
+          "engagement_rate": 2.14,
+          "weight": 0.85,
+          "score_contribution": 58657900
+        },
+        "wechat_official": {
+          "followers": 5000000,
+          "engagement_rate": 0.1,
+          "weight": 0.6,
+          "score_contribution": 1560960
+        },
+        "wechat_channels": {
+          "followers": 8000000,
+          "engagement_rate": 0.38,
+          "weight": 0.5,
+          "score_contribution": 2554700
+        }
+      },
+      "collected_at": "2026-02-19T18:03:58.906090",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 10338873,
+          "views": 0,
+          "likes": 0,
+          "posts_count": 0,
+          "engagement_rate": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "19577966",
+            "name": "李子柒",
+            "level": 6,
+            "sign": "李家有女，人称子柒。 联系邮箱：loveliziqi777@163.com"
+          },
+          "note": ""
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 27500000,
+          "views": 5500000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 0.23,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "2970459952",
+            "avg_likes": 50000,
+            "avg_comments": 3000,
+            "avg_reposts": 10000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 49000000,
+          "views": 490000000,
+          "likes": 1000000,
+          "posts_count": 200,
+          "engagement_rate": 2.14,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 1000000,
+            "avg_comments": 50000,
+            "avg_shares": 30000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 5000000,
+          "views": 8000000,
+          "likes": 5000,
+          "posts_count": 100,
+          "engagement_rate": 0.1,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 80000,
+            "avg_likes": 5000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 8000000,
+          "views": 75000000,
+          "likes": 30000,
+          "posts_count": 150,
+          "engagement_rate": 0.38,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 500000,
+            "avg_likes": 30000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "huxijin",
+      "name": "胡锡进",
+      "real_name": "胡锡进",
+      "category": "政治评论/媒体",
+      "political_stance": "官方立场/建制派",
+      "direction": "环球时报前总编，时事评论",
+      "influence_score": 24187094,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 2000000,
+          "engagement_rate": 5.0,
+          "weight": 0.9,
+          "score_contribution": 3415200
+        },
+        "weibo": {
+          "followers": 24800000,
+          "engagement_rate": 0.17,
+          "weight": 0.7,
+          "score_contribution": 9313094
+        },
+        "douyin": {
+          "followers": 12000000,
+          "engagement_rate": 0.88,
+          "weight": 0.85,
+          "score_contribution": 8922000
+        },
+        "wechat_official": {
+          "followers": 3000000,
+          "engagement_rate": 0.27,
+          "weight": 0.6,
+          "score_contribution": 1006800
+        },
+        "wechat_channels": {
+          "followers": 5000000,
+          "engagement_rate": 0.3,
+          "weight": 0.5,
+          "score_contribution": 1530000
+        }
+      },
+      "collected_at": "2026-02-19T18:04:03.943478",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "estimated",
+          "followers": 2000000,
+          "views": 640000000,
+          "likes": 100000,
+          "posts_count": 800,
+          "engagement_rate": 5.0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "胡锡进",
+            "avg_plays": 800000
+          },
+          "note": "Bilibili UID未确认，数据基于公开信息估算"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 24800000,
+          "views": 4960000,
+          "likes": 30000,
+          "posts_count": 5000,
+          "engagement_rate": 0.17,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "1989660417",
+            "avg_likes": 30000,
+            "avg_comments": 8000,
+            "avg_reposts": 5000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 12000000,
+          "views": 120000000,
+          "likes": 80000,
+          "posts_count": 1000,
+          "engagement_rate": 0.88,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 80000,
+            "avg_comments": 25000,
+            "avg_shares": 15000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 3000000,
+          "views": 80000000,
+          "likes": 8000,
+          "posts_count": 800,
+          "engagement_rate": 0.27,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 100000,
+            "avg_likes": 8000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 5000000,
+          "views": 100000000,
+          "likes": 15000,
+          "posts_count": 500,
+          "engagement_rate": 0.3,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 200000,
+            "avg_likes": 15000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "simanan",
+      "name": "司马南",
+      "real_name": "于力",
+      "category": "政治评论/时事",
+      "political_stance": "民族主义/左派",
+      "direction": "时事政治评论，社会热点分析",
+      "influence_score": 10746311,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 1500000,
+          "engagement_rate": 5.0,
+          "weight": 0.9,
+          "score_contribution": 2520000
+        },
+        "weibo": {
+          "followers": 2200000,
+          "engagement_rate": 0.39,
+          "weight": 0.7,
+          "score_contribution": 898761
+        },
+        "douyin": {
+          "followers": 8500000,
+          "engagement_rate": 0.76,
+          "weight": 0.85,
+          "score_contribution": 5952550
+        },
+        "wechat_official": {
+          "followers": 1500000,
+          "engagement_rate": 0.13,
+          "weight": 0.6,
+          "score_contribution": 475200
+        },
+        "wechat_channels": {
+          "followers": 3000000,
+          "engagement_rate": 0.27,
+          "weight": 0.5,
+          "score_contribution": 899800
+        }
+      },
+      "collected_at": "2026-02-19T18:04:01.426554",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "estimated",
+          "followers": 1500000,
+          "views": 250000000,
+          "likes": 75000,
+          "posts_count": 500,
+          "engagement_rate": 5.0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "handle": "司马南",
+            "avg_plays": 500000
+          },
+          "note": "Bilibili UID未确认，数据基于公开信息估算"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 2200000,
+          "views": 440000,
+          "likes": 5000,
+          "posts_count": 3000,
+          "engagement_rate": 0.39,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "1273590434",
+            "avg_likes": 5000,
+            "avg_comments": 2000,
+            "avg_reposts": 1500
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 8500000,
+          "views": 85000000,
+          "likes": 50000,
+          "posts_count": 800,
+          "engagement_rate": 0.76,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 50000,
+            "avg_comments": 15000,
+            "avg_shares": 10000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 1500000,
+          "views": 15000000,
+          "likes": 2000,
+          "posts_count": 500,
+          "engagement_rate": 0.13,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 30000,
+            "avg_likes": 2000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 3000000,
+          "views": 40000000,
+          "likes": 8000,
+          "posts_count": 400,
+          "engagement_rate": 0.27,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 100000,
+            "avg_likes": 8000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "mashubobi",
+      "name": "麻薯波比",
+      "real_name": "未知",
+      "category": "知识/历史/军事",
+      "political_stance": "民族主义/温和建制派",
+      "direction": "历史知识科普，军事时政评论，国际局势分析",
+      "influence_score": 5821455,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 3165499,
+          "engagement_rate": 0.0,
+          "weight": 0.9,
+          "score_contribution": 1428452
+        },
+        "weibo": {
+          "followers": 800000,
+          "engagement_rate": 1.62,
+          "weight": 0.7,
+          "score_contribution": 474422
+        },
+        "douyin": {
+          "followers": 3000000,
+          "engagement_rate": 2.0,
+          "weight": 0.85,
+          "score_contribution": 3440100
+        },
+        "wechat_official": {
+          "followers": 500000,
+          "engagement_rate": 0.6,
+          "weight": 0.6,
+          "score_contribution": 187200
+        },
+        "wechat_channels": {
+          "followers": 800000,
+          "engagement_rate": 0.62,
+          "weight": 0.5,
+          "score_contribution": 291280
+        }
+      },
+      "collected_at": "2026-02-19T18:03:55.529030",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 3165499,
+          "views": 22100725,
+          "likes": 0,
+          "posts_count": 10,
+          "engagement_rate": 0.0,
+          "recent_posts": [
+            {
+              "bvid": "BV1x3ctzkEdf",
+              "title": "冬奥会和超级碗，为何让MAGA帝君破防？",
+              "plays": 1928735,
+              "likes": 0,
+              "comments": 2663,
+              "created": 1770803267,
+              "length": "16:24"
+            },
+            {
+              "bvid": "BV16mFpzUEcu",
+              "title": "爱泼斯坦带走的第一位竟然是他？！英国首相危了？",
+              "plays": 2127591,
+              "likes": 0,
+              "comments": 2021,
+              "created": 1770457678,
+              "length": "18:57"
+            },
+            {
+              "bvid": "BV1GEfZBYEas",
+              "title": "百万页爱泼斯坦案文件公开——鱼目混珠？顶级公关！",
+              "plays": 1900521,
+              "likes": 0,
+              "comments": 5359,
+              "created": 1770198387,
+              "length": "17:04"
+            },
+            {
+              "bvid": "BV1xL6CBYEMW",
+              "title": "欧盟找到靠山了！和神秘东大达成全面自贸协定",
+              "plays": 1922492,
+              "likes": 0,
+              "comments": 4162,
+              "created": 1769852223,
+              "length": "17:46"
+            },
+            {
+              "bvid": "BV1A3zYBaE1N",
+              "title": "特朗普私兵ICE再次当街行刑，明尼苏达两开花？",
+              "plays": 1937281,
+              "likes": 0,
+              "comments": 5003,
+              "created": 1769420684,
+              "length": "18:31"
+            }
+          ],
+          "top_posts": [
+            {
+              "bvid": "BV1QqrVBfE11",
+              "title": "特朗普“私兵”当街杀人，MAGA革命卫队今日成立？",
+              "plays": 3110353,
+              "likes": 0,
+              "comments": 5971,
+              "created": 1768016946,
+              "length": "20:07"
+            },
+            {
+              "bvid": "BV1QnzsBpESG",
+              "title": "万税爷大闹达沃斯论坛，怒喷欧洲不孝顺！",
+              "plays": 2607629,
+              "likes": 0,
+              "comments": 6437,
+              "created": 1769074856,
+              "length": "21:21"
+            },
+            {
+              "bvid": "BV1XorZB9E4T",
+              "title": "韩国检方要判尹锡悦死刑？牢尹：把我整乐了",
+              "plays": 2470650,
+              "likes": 0,
+              "comments": 4034,
+              "created": 1768470000,
+              "length": "19:31"
+            }
+          ],
+          "error_message": "",
+          "raw_data": {
+            "uid": "703186600",
+            "name": "麻薯波比呀",
+            "level": 6,
+            "sign": "你装模作样的戴我的九筒做什么？"
+          },
+          "note": ""
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 800000,
+          "views": 160000,
+          "likes": 10000,
+          "posts_count": 1000,
+          "engagement_rate": 1.62,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "",
+            "avg_likes": 10000,
+            "avg_comments": 1000,
+            "avg_reposts": 2000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 3000000,
+          "views": 30000000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 2.0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 50000,
+            "avg_comments": 10000,
+            "avg_shares": 5000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 500000,
+          "views": 10000000,
+          "likes": 3000,
+          "posts_count": 200,
+          "engagement_rate": 0.6,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 50000,
+            "avg_likes": 3000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 800000,
+          "views": 20000000,
+          "likes": 5000,
+          "posts_count": 200,
+          "engagement_rate": 0.62,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 100000,
+            "avg_likes": 5000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    }
+  ],
+  "platform_weights": {
+    "bilibili": {
+      "weight": 0.9,
+      "engagement": 0.08,
+      "region": "CN"
+    },
+    "weibo": {
+      "weight": 0.7,
+      "engagement": 0.05,
+      "region": "CN"
+    },
+    "douyin": {
+      "weight": 0.85,
+      "engagement": 0.12,
+      "region": "CN"
+    },
+    "wechat_official": {
+      "weight": 0.6,
+      "engagement": 0.04,
+      "region": "CN"
+    },
+    "wechat_channels": {
+      "weight": 0.5,
+      "engagement": 0.06,
+      "region": "CN"
+    }
+  },
+  "summary": {
+    "total_influencers": 4,
+    "platforms_covered": [
+      "bilibili",
+      "weibo",
+      "douyin",
+      "wechat_official",
+      "wechat_channels"
+    ],
+    "data_quality": {
+      "bilibili": "real_api",
+      "weibo": "estimated",
+      "douyin": "estimated",
+      "wechat_official": "estimated",
+      "wechat_channels": "estimated"
+    }
+  }
+}

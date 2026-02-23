@@ -1,0 +1,282 @@
+{
+  "generated_at": "2026-02-12T14:55:46.249275",
+  "influencers": {
+    "Joe Rogan": {
+      "name": "Joe Rogan",
+      "handle": {
+        "youtube": "powerfuljre",
+        "x": "joerogan",
+        "tiktok": "joerogan",
+        "instagram": "joerogan"
+      },
+      "category": "Podcast/Politics",
+      "description": "去中心化舆论掮客，美国反建制话语的主要阵地",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "handle": "powerfuljre",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:34.240545"
+        },
+        "x": {
+          "platform": "X",
+          "handle": "joerogan",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:36.422511"
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "handle": "joerogan",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:36.873311"
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "handle": "joerogan",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:37.193605"
+        }
+      },
+      "political_leaning": "Libertarian/反建制",
+      "content_themes": [
+        "政治评论",
+        "深度访谈",
+        "UFC体育",
+        "健康养生",
+        "科学探索"
+      ],
+      "last_full_update": "2026-02-12T14:55:37.193624"
+    },
+    "MrBeast": {
+      "name": "MrBeast",
+      "handle": {
+        "youtube": "MrBeast6000",
+        "x": "MrBeast",
+        "tiktok": "mrbeast",
+        "instagram": "mrbeast"
+      },
+      "category": "Entertainment/Business",
+      "description": "算法工业家，跨越流媒体和快消品的商业帝国",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "handle": "MrBeast6000",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:37.289578"
+        },
+        "x": {
+          "platform": "X",
+          "handle": "MrBeast",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:39.083518"
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "handle": "mrbeast",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:39.410000"
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "handle": "mrbeast",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:39.681211"
+        }
+      },
+      "political_leaning": "商业中立",
+      "content_themes": [
+        "极限挑战",
+        "慈善活动",
+        "商业投资",
+        "科技实验",
+        "娱乐综艺"
+      ],
+      "last_full_update": "2026-02-12T14:55:39.681273"
+    },
+    "MKBHD": {
+      "name": "MKBHD",
+      "handle": {
+        "youtube": "mkbhd",
+        "x": "MKBHD",
+        "tiktok": "mkbhd",
+        "instagram": "mkbhd"
+      },
+      "category": "Technology/Review",
+      "description": "科技现实的仲裁者，消费电子深度评测的权威声音",
+      "platforms": {
+        "youtube": {
+          "platform": "YouTube",
+          "handle": "mkbhd",
+          "followers": 20700000,
+          "total_views": 586848750,
+          "posts_count": 15,
+          "avg_engagement": 0.0,
+          "recent_posts": [
+            {
+              "title": "The Problem with these Smartphone Batteries",
+              "video_id": "zPAY2VxfFBk",
+              "url": "https://youtube.com/watch?v=zPAY2VxfFBk",
+              "views": 1886032,
+              "published_time": "5 days ago",
+              "duration": "8:32",
+              "thumbnail": "https://i.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAP5jqN41lp5RSbYXaZaimsKEKGow"
+            },
+            {
+              "title": "The Downfall of OnePlus will be Studied",
+              "video_id": "vZdbbN3FCzE",
+              "url": "https://youtube.com/watch?v=vZdbbN3FCzE",
+              "views": 4262805,
+              "published_time": "2 weeks ago",
+              "duration": "15:04",
+              "thumbnail": "https://i.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXpDlw9a2-1kKd3KG0ls0nC_ZPlg"
+            },
+            {
+              "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+              "video_id": "DqAKQwagCDg",
+              "url": "https://youtube.com/watch?v=DqAKQwagCDg",
+              "views": 3377859,
+              "published_time": "3 weeks ago",
+              "duration": "12:05",
+              "thumbnail": "https://i.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4_6Egf3dXOr-mlSYy-irk4GSYfA"
+            },
+            {
+              "title": "The New Siri is... Google (Explained)",
+              "video_id": "TVsounscj4U",
+              "url": "https://youtube.com/watch?v=TVsounscj4U",
+              "views": 3870156,
+              "published_time": "4 weeks ago",
+              "duration": "8:23",
+              "thumbnail": "https://i.ytimg.com/vi/TVsounscj4U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh-gJG4BqNxQZwQQabWxETMCIfuQ"
+            },
+            {
+              "title": "The Problem with this “Ultra Luxury” Smartphone",
+              "video_id": "HLUamwXQ218",
+              "url": "https://youtube.com/watch?v=HLUamwXQ218",
+              "views": 2526429,
+              "published_time": "1 month ago",
+              "duration": "15:32",
+              "thumbnail": "https://i.ytimg.com/vi/HLUamwXQ218/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqFjnh_Z7BHpyLjNW3tX0hoKTJPw"
+            },
+            {
+              "title": "I shrunk down into an M5 chip",
+              "video_id": "Jh9pFp1oM7E",
+              "url": "https://youtube.com/watch?v=Jh9pFp1oM7E",
+              "views": 3224030,
+              "published_time": "1 month ago",
+              "duration": "11:52",
+              "thumbnail": "https://i.ytimg.com/vi/Jh9pFp1oM7E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1KcNmwSIRHSbtE9T224Pej2U2lA"
+            },
+            {
+              "title": "Every Mistake I Made in 2025",
+              "video_id": "v-sCZN3FbR0",
+              "url": "https://youtube.com/watch?v=v-sCZN3FbR0",
+              "views": 1259187,
+              "published_time": "1 month ago",
+              "duration": "13:45",
+              "thumbnail": "https://i.ytimg.com/vi/v-sCZN3FbR0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8MSa8O1miFl3r--z46Bhq9mRUiA"
+            },
+            {
+              "title": "Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense!",
+              "video_id": "trsHTKqmZOk",
+              "url": "https://youtube.com/watch?v=trsHTKqmZOk",
+              "views": 4135371,
+              "published_time": "1 month ago",
+              "duration": "13:05",
+              "thumbnail": "https://i.ytimg.com/vi/trsHTKqmZOk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCZZX_XDQ3jWZ_tBq7nl1r80mxxg"
+            },
+            {
+              "title": "Smartphone Awards 2025!",
+              "video_id": "sfyL4BswUeE",
+              "url": "https://youtube.com/watch?v=sfyL4BswUeE",
+              "views": 4999042,
+              "published_time": "2 months ago",
+              "duration": "32:38",
+              "thumbnail": "https://i.ytimg.com/vi/sfyL4BswUeE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_SC-kYQONKEx7d6FeuACQliCriQ"
+            },
+            {
+              "title": "Driving Xiaomi's Electric Car: Are we Cooked?",
+              "video_id": "Mb6H7trzMfI",
+              "url": "https://youtube.com/watch?v=Mb6H7trzMfI",
+              "views": 9486814,
+              "published_time": "2 months ago",
+              "duration": "17:25",
+              "thumbnail": "https://i.ytimg.com/vi/Mb6H7trzMfI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2S3a2I69sj4vI4zkHMiIzYYzF3A"
+            }
+          ],
+          "last_updated": "2026-02-12T14:55:41.643685"
+        },
+        "x": {
+          "platform": "X",
+          "handle": "MKBHD",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:45.490598"
+        },
+        "tiktok": {
+          "platform": "TikTok",
+          "handle": "mkbhd",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:45.995936"
+        },
+        "instagram": {
+          "platform": "Instagram",
+          "handle": "mkbhd",
+          "followers": 0,
+          "total_views": 0,
+          "posts_count": 0,
+          "avg_engagement": 0.0,
+          "recent_posts": [],
+          "last_updated": "2026-02-12T14:55:46.246898"
+        }
+      },
+      "political_leaning": "科技自由主义",
+      "content_themes": [
+        "科技评测",
+        "消费电子",
+        "AI硬件",
+        "电动车",
+        "摄影创作"
+      ],
+      "last_full_update": "2026-02-12T14:55:46.246965"
+    }
+  }
+}

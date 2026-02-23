@@ -1,0 +1,1015 @@
+{
+  "generated_at": "2026-02-19T18:13:44.122516",
+  "region": "CN",
+  "influencers": [
+    {
+      "key": "liziqi",
+      "name": "李子柒",
+      "real_name": "李佳佳",
+      "category": "传统文化/生活方式",
+      "political_stance": "文化输出/中性",
+      "direction": "中国传统文化传播，田园生活方式展示",
+      "influence_score": 106838871,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 10338872,
+          "engagement_rate": 0,
+          "weight": 0.9,
+          "score_contribution": 4652492
+        },
+        "youtube": {
+          "followers": 30300000,
+          "engagement_rate": 2.53,
+          "weight": 0.95,
+          "score_contribution": 28838299
+        },
+        "weibo": {
+          "followers": 27500000,
+          "engagement_rate": 0.23,
+          "weight": 0.7,
+          "score_contribution": 10574520
+        },
+        "douyin": {
+          "followers": 49000000,
+          "engagement_rate": 2.14,
+          "weight": 0.85,
+          "score_contribution": 58657900
+        },
+        "wechat_official": {
+          "followers": 5000000,
+          "engagement_rate": 0.1,
+          "weight": 0.6,
+          "score_contribution": 1560960
+        },
+        "wechat_channels": {
+          "followers": 8000000,
+          "engagement_rate": 0.38,
+          "weight": 0.5,
+          "score_contribution": 2554700
+        }
+      },
+      "collected_at": "2026-02-19T18:13:34.687863",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 10338872,
+          "views": 0,
+          "likes": 0,
+          "posts_count": 0,
+          "engagement_rate": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "19577966",
+            "name": "李子柒",
+            "level": 6,
+            "sign": "李家有女，人称子柒。 联系邮箱：loveliziqi777@163.com"
+          },
+          "note": ""
+        },
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 30300000,
+          "views": 3406208101,
+          "likes": 0,
+          "posts_count": 131,
+          "engagement_rate": 2.53,
+          "recent_posts": [
+            {
+              "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
+              "published_at": "2024-11-13",
+              "views": 31365456,
+              "likes": 960055,
+              "comments": 67740,
+              "url": "https://youtube.com/watch?v=8Cg3p9K0il4"
+            },
+            {
+              "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
+              "published_at": "2024-11-12",
+              "views": 27964336,
+              "likes": 957420,
+              "comments": 40687,
+              "url": "https://youtube.com/watch?v=JJL3ZKrHeKM"
+            },
+            {
+              "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
+              "published_at": "2024-11-12",
+              "views": 31553522,
+              "likes": 953091,
+              "comments": 66451,
+              "url": "https://youtube.com/watch?v=IrXjnw8BpM0"
+            },
+            {
+              "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
+              "published_at": "2021-07-14",
+              "views": 35136258,
+              "likes": 642720,
+              "comments": 57125,
+              "url": "https://youtube.com/watch?v=u-xS-dkz3a0"
+            },
+            {
+              "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
+              "published_at": "2021-06-05",
+              "views": 20425106,
+              "likes": 518590,
+              "comments": 24932,
+              "url": "https://youtube.com/watch?v=RagTZHPrn_o"
+            },
+            {
+              "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
+              "published_at": "2021-05-27",
+              "views": 22012065,
+              "likes": 615042,
+              "comments": 29920,
+              "url": "https://youtube.com/watch?v=3KfvUCKxCts"
+            },
+            {
+              "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
+              "published_at": "2021-04-06",
+              "views": 27300186,
+              "likes": 631391,
+              "comments": 39192,
+              "url": "https://youtube.com/watch?v=J4Y12QLEaXs"
+            },
+            {
+              "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
+              "published_at": "2021-02-10",
+              "views": 24274363,
+              "likes": 533287,
+              "comments": 38560,
+              "url": "https://youtube.com/watch?v=sGOTCCVDLtQ"
+            },
+            {
+              "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
+              "published_at": "2021-01-09",
+              "views": 21776998,
+              "likes": 499809,
+              "comments": 269332,
+              "url": "https://youtube.com/watch?v=B6bJ_vTslyo"
+            },
+            {
+              "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
+              "published_at": "2020-12-09",
+              "views": 27471875,
+              "likes": 514232,
+              "comments": 26647,
+              "url": "https://youtube.com/watch?v=YKIXHn3kDL0"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "channel_title": "李子柒 Liziqi",
+            "description": "这里是李子柒YouTube官方频道哦～欢迎订阅：https://goo.gl/nkjpSx \nPlease  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos\n本人未在中国大陆以外开设任何销售渠道\nSo far Liziqi has not set up any distribution channe",
+            "published_at": "2017-08-22T06:21:56Z",
+            "country": "CN"
+          },
+          "note": "YouTube Data API v3实时数据"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 27500000,
+          "views": 5500000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 0.23,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "2970459952",
+            "avg_likes": 50000,
+            "avg_comments": 3000,
+            "avg_reposts": 10000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 49000000,
+          "views": 490000000,
+          "likes": 1000000,
+          "posts_count": 200,
+          "engagement_rate": 2.14,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 1000000,
+            "avg_comments": 50000,
+            "avg_shares": 30000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 5000000,
+          "views": 8000000,
+          "likes": 5000,
+          "posts_count": 100,
+          "engagement_rate": 0.1,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 80000,
+            "avg_likes": 5000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 8000000,
+          "views": 75000000,
+          "likes": 30000,
+          "posts_count": 150,
+          "engagement_rate": 0.38,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 500000,
+            "avg_likes": 30000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "xiaolinshuo",
+      "name": "小Lin说",
+      "real_name": "未知",
+      "category": "知识/财经/科普",
+      "political_stance": "中性/知识型",
+      "direction": "财经知识科普，商业分析，经济趋势解读",
+      "influence_score": 11614534,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 6948915,
+          "engagement_rate": 0,
+          "weight": 0.9,
+          "score_contribution": 3127011
+        },
+        "youtube": {
+          "followers": 2690000,
+          "engagement_rate": 2.05,
+          "weight": 0.95,
+          "score_contribution": 2316130
+        },
+        "weibo": {
+          "followers": 1500000,
+          "engagement_rate": 0.87,
+          "weight": 0.7,
+          "score_contribution": 720792
+        },
+        "douyin": {
+          "followers": 5000000,
+          "engagement_rate": 1.2,
+          "weight": 0.85,
+          "score_contribution": 4293500
+        },
+        "wechat_official": {
+          "followers": 2000000,
+          "engagement_rate": 0.15,
+          "weight": 0.6,
+          "score_contribution": 637200
+        },
+        "wechat_channels": {
+          "followers": 1500000,
+          "engagement_rate": 0.53,
+          "weight": 0.5,
+          "score_contribution": 519900
+        }
+      },
+      "collected_at": "2026-02-19T18:13:39.414896",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 6948915,
+          "views": 0,
+          "likes": 0,
+          "posts_count": 0,
+          "engagement_rate": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "520819684",
+            "name": "小Lin说",
+            "level": 6,
+            "sign": "Whaat?! 人世间竟有如此有趣又有料的天仙!!\n北大->哥大->摩根大通->创业\n合作xiao_lin_shuo@163.com"
+          },
+          "note": ""
+        },
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 2690000,
+          "views": 240899696,
+          "likes": 0,
+          "posts_count": 147,
+          "engagement_rate": 2.05,
+          "recent_posts": [
+            {
+              "title": "坐拥金山，却变成人间炼狱，委内瑞拉到底经历了什么?",
+              "published_at": "2026-02-01",
+              "views": 843227,
+              "likes": 16369,
+              "comments": 1687,
+              "url": "https://youtube.com/watch?v=Hbu1xkXcPNU"
+            },
+            {
+              "title": "【年度总结】一口气了解过去一年的全球经济｜关税战新格局",
+              "published_at": "2025-12-29",
+              "views": 1579761,
+              "likes": 46786,
+              "comments": 3101,
+              "url": "https://youtube.com/watch?v=gFtlAMEVmcs"
+            },
+            {
+              "title": "一口气了解赌球",
+              "published_at": "2025-12-12",
+              "views": 848590,
+              "likes": 14234,
+              "comments": 982,
+              "url": "https://youtube.com/watch?v=hhtMlRZLJ0g"
+            },
+            {
+              "title": "GDP是会骗人的 | 一口气了解GDP",
+              "published_at": "2025-11-15",
+              "views": 850376,
+              "likes": 16641,
+              "comments": 2016,
+              "url": "https://youtube.com/watch?v=P-NmMX9rlYQ"
+            },
+            {
+              "title": "那些被制裁最最严重的国家，都怎么样了?",
+              "published_at": "2025-10-25",
+              "views": 1826574,
+              "likes": 31467,
+              "comments": 3896,
+              "url": "https://youtube.com/watch?v=zsFTTKNLcXM"
+            },
+            {
+              "title": "美元暴跌的背后...",
+              "published_at": "2025-10-12",
+              "views": 1319690,
+              "likes": 34157,
+              "comments": 1451,
+              "url": "https://youtube.com/watch?v=SdZ-hvVdFTk"
+            },
+            {
+              "title": "挑战最快速度带你了解伊朗经济~~~",
+              "published_at": "2025-09-24",
+              "views": 119310,
+              "likes": 3275,
+              "comments": 101,
+              "url": "https://youtube.com/watch?v=ze0Mw2Xa8jk"
+            },
+            {
+              "title": "【vlog】我去慕尼黑参加了一个闭门会议~ （这个形式大家喜欢吗?）",
+              "published_at": "2025-09-21",
+              "views": 241443,
+              "likes": 9279,
+              "comments": 394,
+              "url": "https://youtube.com/watch?v=EdhQWH3E7X8"
+            },
+            {
+              "title": "一口气了解伊朗经济",
+              "published_at": "2025-09-16",
+              "views": 1966903,
+              "likes": 27484,
+              "comments": 2086,
+              "url": "https://youtube.com/watch?v=uQJF5fcjFbg"
+            },
+            {
+              "title": "机器人时代，真的来了吗?",
+              "published_at": "2025-09-07",
+              "views": 926381,
+              "likes": 16430,
+              "comments": 1338,
+              "url": "https://youtube.com/watch?v=HTa1uc_kmHQ"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "channel_title": "小Lin说",
+            "description": "Hi~ 我是Lindsay，欢迎来到我的频道！希望能跟大家一起乐乐呵呵涨点知识~~\n简单介绍一下我自己：北大本科 - 哥大研究生 - JP Morgan- 创业\nB站、抖音、视频号、知乎、小红书、头条同名“小Lin说”\n\n!!没有Facebook，没有Telegram，没有Whatsapp，没有粉丝群，这些平台所有账号都是骗子!!\n不会以任何方式主动要求私信，请大家谨防受骗!!\n\n商务合作: xi",
+            "published_at": "2013-01-27T07:38:51Z",
+            "country": "US"
+          },
+          "note": "YouTube Data API v3实时数据"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 1500000,
+          "views": 300000,
+          "likes": 10000,
+          "posts_count": 1000,
+          "engagement_rate": 0.87,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "",
+            "avg_likes": 10000,
+            "avg_comments": 1000,
+            "avg_reposts": 2000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 5000000,
+          "views": 50000000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 1.2,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 50000,
+            "avg_comments": 10000,
+            "avg_shares": 5000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 2000000,
+          "views": 10000000,
+          "likes": 3000,
+          "posts_count": 200,
+          "engagement_rate": 0.15,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 50000,
+            "avg_likes": 3000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 1500000,
+          "views": 18000000,
+          "likes": 8000,
+          "posts_count": 120,
+          "engagement_rate": 0.53,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 150000,
+            "avg_likes": 8000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "mashubobi",
+      "name": "麻薯波比",
+      "real_name": "未知",
+      "category": "知识/历史/军事",
+      "political_stance": "民族主义/温和建制派",
+      "direction": "历史知识科普，军事时政评论，国际局势分析",
+      "influence_score": 5806280,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 3165500,
+          "engagement_rate": 0,
+          "weight": 0.9,
+          "score_contribution": 1424475
+        },
+        "youtube": {
+          "followers": 7180,
+          "engagement_rate": 2.87,
+          "weight": 0.95,
+          "score_contribution": 7283
+        },
+        "weibo": {
+          "followers": 800000,
+          "engagement_rate": 1.62,
+          "weight": 0.7,
+          "score_contribution": 474422
+        },
+        "douyin": {
+          "followers": 3000000,
+          "engagement_rate": 2.0,
+          "weight": 0.85,
+          "score_contribution": 3440100
+        },
+        "wechat_official": {
+          "followers": 500000,
+          "engagement_rate": 0.6,
+          "weight": 0.6,
+          "score_contribution": 187200
+        },
+        "wechat_channels": {
+          "followers": 800000,
+          "engagement_rate": 0.5,
+          "weight": 0.5,
+          "score_contribution": 272800
+        }
+      },
+      "collected_at": "2026-02-19T18:13:29.722667",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 3165500,
+          "views": 0,
+          "likes": 0,
+          "posts_count": 0,
+          "engagement_rate": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "703186600",
+            "name": "麻薯波比呀",
+            "level": 6,
+            "sign": "你装模作样的戴我的九筒做什么？"
+          },
+          "note": ""
+        },
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 7180,
+          "views": 862264,
+          "likes": 0,
+          "posts_count": 56,
+          "engagement_rate": 2.87,
+          "recent_posts": [
+            {
+              "title": "冬奥会和超级碗，为何让MAGA帝君破防？| 麻薯波比呀",
+              "published_at": "2026-02-12",
+              "views": 18128,
+              "likes": 540,
+              "comments": 32,
+              "url": "https://youtube.com/watch?v=ZbeuZIVX6Gg"
+            },
+            {
+              "title": "爱泼斯坦带走的第一位竟然是他？！英国首相危了？| 麻薯波比呀",
+              "published_at": "2026-02-08",
+              "views": 15169,
+              "likes": 455,
+              "comments": 30,
+              "url": "https://youtube.com/watch?v=r7eGatGBd-8"
+            },
+            {
+              "title": "百万页爱泼斯坦案文件公开——鱼目混珠？顶级公关！| 麻薯波比呀",
+              "published_at": "2026-02-05",
+              "views": 33432,
+              "likes": 587,
+              "comments": 123,
+              "url": "https://youtube.com/watch?v=FzN-KXxGiVM"
+            },
+            {
+              "title": "印欧达成全面自贸协定！究竟是互相拉一把还是互相拉一身？| 麻薯波比呀",
+              "published_at": "2026-02-02",
+              "views": 6260,
+              "likes": 336,
+              "comments": 31,
+              "url": "https://youtube.com/watch?v=UxG_K2HAg_E"
+            },
+            {
+              "title": "川皇西厂再造惨案,美国内战会在明州点燃吗？| 麻薯波比呀",
+              "published_at": "2026-01-27",
+              "views": 11443,
+              "likes": 423,
+              "comments": 73,
+              "url": "https://youtube.com/watch?v=EeelkXhvHw8"
+            },
+            {
+              "title": "万税爷大闹达沃斯论坛，怒喷欧洲不孝顺！| 麻薯波比呀",
+              "published_at": "2026-01-23",
+              "views": 28016,
+              "likes": 670,
+              "comments": 55,
+              "url": "https://youtube.com/watch?v=wdy-59sqn5k"
+            },
+            {
+              "title": "七国三十七勇士驰援丹麦，川普关税大棒直接打跑一半| 麻薯波比呀",
+              "published_at": "2026-01-20",
+              "views": 11793,
+              "likes": 450,
+              "comments": 48,
+              "url": "https://youtube.com/watch?v=FIyRaCxXOT8"
+            },
+            {
+              "title": "韩国检方要判尹锡悦死刑？牢尹当场万字演说表达求生欲！| 麻薯波比呀",
+              "published_at": "2026-01-17",
+              "views": 14924,
+              "likes": 392,
+              "comments": 38,
+              "url": "https://youtube.com/watch?v=ZNZ5T4GHuTw"
+            },
+            {
+              "title": "抢劫变成扶贫，委内瑞拉代总统，美利坚现总统川普拿鲍威尔出气| 麻薯波比呀",
+              "published_at": "2026-01-15",
+              "views": 14184,
+              "likes": 435,
+              "comments": 37,
+              "url": "https://youtube.com/watch?v=yOv-AawFSL0"
+            },
+            {
+              "title": "特朗普“私兵”当街杀人，MAGA革命卫队今日成立？| 麻薯波比呀",
+              "published_at": "2026-01-12",
+              "views": 9802,
+              "likes": 388,
+              "comments": 58,
+              "url": "https://youtube.com/watch?v=uqPppooVOHk"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "channel_title": "麻薯波比呀Official",
+            "description": "生活很苦，来点麻薯！\n咱们之前的账号因为莫名其妙的原因被油管封了，麻薯在尝试申诉拿回原号，也做了最坏的打算——重开新号！\n麻薯官方号，再战油管！各位一根筋不两头堵的家人们，快来支持麻薯，找回你们最爱的下饭搭子！\n",
+            "published_at": "2025-08-01T07:57:35.51609Z",
+            "country": "NL"
+          },
+          "note": "YouTube Data API v3实时数据"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 800000,
+          "views": 160000,
+          "likes": 10000,
+          "posts_count": 1000,
+          "engagement_rate": 1.62,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "",
+            "avg_likes": 10000,
+            "avg_comments": 1000,
+            "avg_reposts": 2000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 3000000,
+          "views": 30000000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 2.0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 50000,
+            "avg_comments": 10000,
+            "avg_shares": 5000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 500000,
+          "views": 10000000,
+          "likes": 3000,
+          "posts_count": 200,
+          "engagement_rate": 0.6,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 50000,
+            "avg_likes": 3000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 800000,
+          "views": 8000000,
+          "likes": 4000,
+          "posts_count": 100,
+          "engagement_rate": 0.5,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 80000,
+            "avg_likes": 4000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    },
+    {
+      "key": "shuiqianxiaoxi",
+      "name": "睡前消息",
+      "real_name": "马前卒/马督工",
+      "category": "时政/新闻/评论",
+      "political_stance": "建制派/工业党",
+      "direction": "每日新闻资讯解读，社会热点分析，工业政策评论",
+      "influence_score": 5315051,
+      "platform_breakdown": {
+        "bilibili": {
+          "followers": 2174972,
+          "engagement_rate": 0,
+          "weight": 0.9,
+          "score_contribution": 978737
+        },
+        "youtube": {
+          "followers": 137000,
+          "engagement_rate": 1.45,
+          "weight": 0.95,
+          "score_contribution": 104100
+        },
+        "weibo": {
+          "followers": 500000,
+          "engagement_rate": 2.6,
+          "weight": 0.7,
+          "score_contribution": 370014
+        },
+        "douyin": {
+          "followers": 2000000,
+          "engagement_rate": 3.0,
+          "weight": 0.85,
+          "score_contribution": 3013400
+        },
+        "wechat_official": {
+          "followers": 1500000,
+          "engagement_rate": 0.2,
+          "weight": 0.6,
+          "score_contribution": 487200
+        },
+        "wechat_channels": {
+          "followers": 1000000,
+          "engagement_rate": 0.6,
+          "weight": 0.5,
+          "score_contribution": 361600
+        }
+      },
+      "collected_at": "2026-02-19T18:13:44.120182",
+      "platforms": {
+        "bilibili": {
+          "platform": "bilibili",
+          "status": "success",
+          "followers": 2174972,
+          "views": 0,
+          "likes": 0,
+          "posts_count": 0,
+          "engagement_rate": 0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "316568752",
+            "name": "马督工",
+            "level": 6,
+            "sign": "热河省蛮子，刘亦菲粉丝。商务合作微信：MQZ998888"
+          },
+          "note": ""
+        },
+        "youtube": {
+          "platform": "youtube",
+          "status": "success",
+          "followers": 137000,
+          "views": 17201689,
+          "likes": 0,
+          "posts_count": 1033,
+          "engagement_rate": 1.45,
+          "recent_posts": [
+            {
+              "title": "【参考信息第567期】春晚扎堆机器人；师范转型新工科",
+              "published_at": "2026-02-19",
+              "views": 2453,
+              "likes": 43,
+              "comments": 14,
+              "url": "https://youtube.com/watch?v=h8a9RXDzrmg"
+            },
+            {
+              "title": "【睡前消息1019】第五现代化 还是AI后现代？",
+              "published_at": "2026-02-19",
+              "views": 6302,
+              "likes": 143,
+              "comments": 64,
+              "url": "https://youtube.com/watch?v=1iqq1BNj1RQ"
+            },
+            {
+              "title": "【参考信息第566期】分段旅游过年；大事正在发生",
+              "published_at": "2026-02-14",
+              "views": 6076,
+              "likes": 62,
+              "comments": 12,
+              "url": "https://youtube.com/watch?v=vjtufIwxbaQ"
+            },
+            {
+              "title": "【睡前消息1018】摇摆县买百强榜 正处级一步副厅",
+              "published_at": "2026-02-13",
+              "views": 9760,
+              "likes": 125,
+              "comments": 22,
+              "url": "https://youtube.com/watch?v=cov22eadx2A"
+            },
+            {
+              "title": "【参考信息第565期】天涯回归；南博通报；副县长不代表政府？",
+              "published_at": "2026-02-12",
+              "views": 7193,
+              "likes": 85,
+              "comments": 19,
+              "url": "https://youtube.com/watch?v=NU4ByEKx45g"
+            },
+            {
+              "title": "【睡前消息1017】18层楼锁电梯 柳州逼社区自治",
+              "published_at": "2026-02-10",
+              "views": 11346,
+              "likes": 179,
+              "comments": 66,
+              "url": "https://youtube.com/watch?v=u_XsxTbe89A"
+            },
+            {
+              "title": "【参考信息第564期】乡村振兴重点帮扶县；物价低水平运行",
+              "published_at": "2026-02-09",
+              "views": 6897,
+              "likes": 78,
+              "comments": 33,
+              "url": "https://youtube.com/watch?v=KaUZGx4gFHI"
+            },
+            {
+              "title": "【睡前消息1016】半月谈 中国新闻周刊 要看实体版",
+              "published_at": "2026-02-08",
+              "views": 7148,
+              "likes": 105,
+              "comments": 19,
+              "url": "https://youtube.com/watch?v=UdKPdWabD6s"
+            },
+            {
+              "title": "【参考信息第563期】飞饼师傅外籍专家；老外扎堆就医来华",
+              "published_at": "2026-02-07",
+              "views": 4711,
+              "likes": 63,
+              "comments": 13,
+              "url": "https://youtube.com/watch?v=ShseTbmi7hg"
+            },
+            {
+              "title": "【睡前消息1015】国家房改课题组长：注意法拍房",
+              "published_at": "2026-02-06",
+              "views": 10252,
+              "likes": 163,
+              "comments": 53,
+              "url": "https://youtube.com/watch?v=jQDl_vVx2G0"
+            }
+          ],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "channel_title": "睡前消息",
+            "description": "",
+            "published_at": "2022-01-12T03:14:15.616065Z",
+            "country": "未知"
+          },
+          "note": "YouTube Data API v3实时数据"
+        },
+        "weibo": {
+          "platform": "weibo",
+          "status": "estimated",
+          "followers": 500000,
+          "views": 100000,
+          "likes": 10000,
+          "posts_count": 1000,
+          "engagement_rate": 2.6,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "uid": "",
+            "avg_likes": 10000,
+            "avg_comments": 1000,
+            "avg_reposts": 2000
+          },
+          "note": "微博需要登录，数据基于公开信息估算"
+        },
+        "douyin": {
+          "platform": "douyin",
+          "status": "estimated",
+          "followers": 2000000,
+          "views": 20000000,
+          "likes": 50000,
+          "posts_count": 500,
+          "engagement_rate": 3.0,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_likes": 50000,
+            "avg_comments": 10000,
+            "avg_shares": 5000
+          },
+          "note": "抖音需要签名算法，数据基于公开信息估算"
+        },
+        "wechat_official": {
+          "platform": "wechat_official",
+          "status": "estimated",
+          "followers": 1500000,
+          "views": 10000000,
+          "likes": 3000,
+          "posts_count": 200,
+          "engagement_rate": 0.2,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_reads": 50000,
+            "avg_likes": 3000
+          },
+          "note": "微信公众号无公开API，数据基于行业估算"
+        },
+        "wechat_channels": {
+          "platform": "wechat_channels",
+          "status": "estimated",
+          "followers": 1000000,
+          "views": 36000000,
+          "likes": 6000,
+          "posts_count": 300,
+          "engagement_rate": 0.6,
+          "recent_posts": [],
+          "top_posts": [],
+          "error_message": "",
+          "raw_data": {
+            "avg_plays": 120000,
+            "avg_likes": 6000
+          },
+          "note": "微信视频号无公开API，数据基于行业估算"
+        }
+      }
+    }
+  ],
+  "platform_weights": {
+    "bilibili": {
+      "weight": 0.9,
+      "engagement": 0.08,
+      "region": "CN"
+    },
+    "youtube": {
+      "weight": 0.95,
+      "engagement": 0.06,
+      "region": "GLOBAL"
+    },
+    "weibo": {
+      "weight": 0.7,
+      "engagement": 0.05,
+      "region": "CN"
+    },
+    "douyin": {
+      "weight": 0.85,
+      "engagement": 0.12,
+      "region": "CN"
+    },
+    "wechat_official": {
+      "weight": 0.6,
+      "engagement": 0.04,
+      "region": "CN"
+    },
+    "wechat_channels": {
+      "weight": 0.5,
+      "engagement": 0.06,
+      "region": "CN"
+    }
+  },
+  "summary": {
+    "total_influencers": 4,
+    "platforms_covered": [
+      "bilibili",
+      "weibo",
+      "douyin",
+      "wechat_official",
+      "wechat_channels"
+    ],
+    "data_quality": {
+      "bilibili": "real_api",
+      "weibo": "estimated",
+      "douyin": "estimated",
+      "wechat_official": "estimated",
+      "wechat_channels": "estimated"
+    }
+  }
+}

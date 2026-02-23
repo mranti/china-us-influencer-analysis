@@ -1,0 +1,64 @@
+{
+  "name": "MrBeast (Jimmy Donaldson)",
+  "handle": "@MrBeast",
+  "country": "USA",
+  "primary_platform": "YouTube",
+  "description": "YouTube订阅最多的创作者，以慈善挑战和高制作价值视频闻名",
+  "overall_influence_score": 98.5,
+  "platforms": {
+    "youtube": {
+      "platform": "YouTube",
+      "followers": 466000000,
+      "total_views": 110000000000,
+      "total_likes": 0,
+      "total_posts": 800,
+      "engagement_rate": 8.5,
+      "top_posts": [
+        {
+          "title": "Would You Fly to Paris for a Baguette?",
+          "views": 1500000000,
+          "type": "Shorts"
+        },
+        {
+          "title": "$456,000 Squid Game in Real Life!",
+          "views": 600000000,
+          "type": "Video"
+        }
+      ],
+      "recent_posts": [
+        {
+          "title": "50 YouTubers Fight for $1,000,000",
+          "views": 71000000
+        },
+        {
+          "title": "Beat Ronaldo, Win $1,000,000",
+          "views": 45000000
+        }
+      ],
+      "political_leaning": "中立偏自由派",
+      "content_categories": [
+        "娱乐",
+        "慈善",
+        "挑战",
+        "公益"
+      ],
+      "last_updated": "2026-02-09T14:19:59.971906"
+    },
+    "twitter": {
+      "platform": "Twitter/X",
+      "followers": 28000000,
+      "total_views": 0,
+      "total_likes": 0,
+      "total_posts": 5200,
+      "engagement_rate": 4.2,
+      "top_posts": [],
+      "recent_posts": [],
+      "political_leaning": "中立",
+      "content_categories": [
+        "互动",
+        "推广"
+      ],
+      "last_updated": "2026-02-09T14:19:59.971921"
+    }
+  }
+}

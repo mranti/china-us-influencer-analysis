@@ -1,0 +1,972 @@
+{
+  "name": "MrBeast",
+  "real_name": "Jimmy Donaldson",
+  "handle": "@MrBeast",
+  "country": "USA",
+  "city": "Greenville, North Carolina",
+  "age": 27,
+  "gender": "男",
+  "primary_platform": "YouTube",
+  "description": "YouTube订阅最多的创作者，以慈善挑战和高制作价值视频闻名",
+  "biography": "从2012年开始上传视频，2017年因'数到10万'视频走红。以高预算慈善挑战闻名，拥有多个业务品牌。",
+  "website": "mrbeast.store",
+  "email": "business@mrbeast.com",
+  "cross_platform_total_followers": 679000000,
+  "cross_platform_total_views": 122600000000,
+  "overall_influence_score": 98.5,
+  "audience_demographics": {
+    "age_13_17": 25,
+    "age_18_24": 35,
+    "age_25_34": 25,
+    "age_35_44": 10,
+    "age_45_plus": 5,
+    "male": 55,
+    "female": 45,
+    "top_countries": [
+      "USA",
+      "UK",
+      "Canada",
+      "India",
+      "Australia"
+    ]
+  },
+  "estimated_earnings_per_post": {
+    "YouTube": 500000,
+    "Twitter/X": 50000,
+    "Facebook": 30000,
+    "Instagram": 150000,
+    "TikTok": 80000
+  },
+  "platforms": {
+    "YouTube": {
+      "platform": "YouTube",
+      "handle": "@MrBeast",
+      "followers": 466000000,
+      "following": 0,
+      "total_views": 110000000000,
+      "total_likes": 8500000000,
+      "total_posts": 800,
+      "engagement_rate": 8.5,
+      "avg_views_per_post": 137500000,
+      "avg_likes_per_post": 10625000,
+      "avg_comments_per_post": 450000,
+      "account_created": "2012-02-20",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -2.5,
+      "content_direction": "高预算娱乐内容，大型慈善活动，病毒式挑战视频，注重正面社会影响力",
+      "content_categories": [
+        "娱乐",
+        "慈善",
+        "挑战",
+        "公益",
+        "高制作"
+      ],
+      "brand_mentions": [
+        "Feastables",
+        "Lunchly",
+        "MrBeast Burger",
+        "Current",
+        "Honey"
+      ],
+      "top_10_posts": [
+        {
+          "title": "Would You Fly to Paris for a Baguette?",
+          "content": "Shorts视频，挑战观众飞行去巴黎",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 1500000000,
+          "likes": 56000000,
+          "comments": 250000,
+          "shares": 1200000,
+          "posted_date": "2023-10-15",
+          "sentiment": "正面",
+          "topics": [
+            "挑战",
+            "旅行",
+            "娱乐"
+          ]
+        },
+        {
+          "title": "$456,000 Squid Game in Real Life!",
+          "content": "现实中的鱿鱼游戏，456人竞争45.6万美元",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 600000000,
+          "likes": 22000000,
+          "comments": 850000,
+          "shares": 950000,
+          "posted_date": "2021-11-24",
+          "sentiment": "正面",
+          "topics": [
+            "挑战",
+            "游戏",
+            "巨额奖金"
+          ]
+        },
+        {
+          "title": "50 YouTubers Fight for $1,000,000",
+          "content": "50位YouTuber争夺100万美元",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 71000000,
+          "likes": 3200000,
+          "comments": 180000,
+          "shares": 280000,
+          "posted_date": "2024-07-13",
+          "sentiment": "正面",
+          "topics": [
+            "合作",
+            "竞争",
+            "巨额奖金"
+          ]
+        },
+        {
+          "title": "Beat Ronaldo, Win $1,000,000",
+          "content": "击败罗纳尔多赢得100万美元",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 45000000,
+          "likes": 2100000,
+          "comments": 120000,
+          "shares": 180000,
+          "posted_date": "2024-08-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育",
+            "名人",
+            "挑战"
+          ]
+        },
+        {
+          "title": "$1 vs $1,000,000,000 Yacht!",
+          "content": "1美元游艇 vs 10亿美元游艇对比",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 38000000,
+          "likes": 1800000,
+          "comments": 95000,
+          "shares": 150000,
+          "posted_date": "2024-06-10",
+          "sentiment": "正面",
+          "topics": [
+            "奢华",
+            "对比",
+            "生活方式"
+          ]
+        },
+        {
+          "title": "I Bought the NFL",
+          "content": "为推广YouTube NFL直播制作的视频",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 32000000,
+          "likes": 1500000,
+          "comments": 85000,
+          "shares": 120000,
+          "posted_date": "2025-09-15",
+          "sentiment": "正面",
+          "topics": [
+            "体育",
+            "营销",
+            "NFL"
+          ]
+        },
+        {
+          "title": "Last to Leave Circle Wins $500,000",
+          "content": "留在圈内最后的人赢得50万美元",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 28000000,
+          "likes": 1200000,
+          "comments": 72000,
+          "shares": 95000,
+          "posted_date": "2024-05-08",
+          "sentiment": "正面",
+          "topics": [
+            "耐力",
+            "挑战",
+            "奖金"
+          ]
+        },
+        {
+          "title": "$1 vs $100,000,000 House!",
+          "content": "1美元房子 vs 1亿美元房子",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 25000000,
+          "likes": 1100000,
+          "comments": 65000,
+          "shares": 88000,
+          "posted_date": "2024-04-22",
+          "sentiment": "正面",
+          "topics": [
+            "房地产",
+            "对比",
+            "生活方式"
+          ]
+        },
+        {
+          "title": "I Survived 50 Hours in Antarctica",
+          "content": "在南极洲生存50小时",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 22000000,
+          "likes": 950000,
+          "comments": 58000,
+          "shares": 75000,
+          "posted_date": "2024-03-18",
+          "sentiment": "正面",
+          "topics": [
+            "生存",
+            "极限",
+            "旅行"
+          ]
+        },
+        {
+          "title": "Every Country on Earth Fights for $250,000",
+          "content": "每个国家代表争夺25万美元",
+          "url": "https://youtube.com/watch?v=xxx",
+          "views": 19000000,
+          "likes": 820000,
+          "comments": 48000,
+          "shares": 62000,
+          "posted_date": "2024-02-14",
+          "sentiment": "正面",
+          "topics": [
+            "国际",
+            "竞争",
+            "文化"
+          ]
+        }
+      ]
+    },
+    "Twitter/X": {
+      "platform": "Twitter/X",
+      "handle": "@MrBeast",
+      "followers": 28000000,
+      "following": 285,
+      "total_views": 850000000,
+      "total_likes": 42000000,
+      "total_posts": 5200,
+      "engagement_rate": 4.2,
+      "avg_views_per_post": 163461,
+      "avg_likes_per_post": 8076,
+      "avg_comments_per_post": 850,
+      "account_created": "2014-03-15",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立 (Center)",
+      "political_score": -1.0,
+      "content_direction": "主要用于YouTube视频推广，与粉丝互动，商业产品宣传，偶尔表达对社会议题的支持",
+      "content_categories": [
+        "互动",
+        "推广",
+        "励志",
+        "商业"
+      ],
+      "brand_mentions": [
+        "Feastables",
+        "Lunchly",
+        "X Premium",
+        "Twitter"
+      ],
+      "top_10_posts": [
+        {
+          "title": "推文1",
+          "content": "刚发布了新视频！去看看吧",
+          "url": "https://x.com/MrBeast/status/1",
+          "views": 2500000,
+          "likes": 180000,
+          "comments": 12000,
+          "shares": 45000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "推文2",
+          "content": "感谢大家的支持，我们刚刚种了第1000万棵树！",
+          "url": "https://x.com/MrBeast/status/2",
+          "views": 1800000,
+          "likes": 220000,
+          "comments": 8500,
+          "shares": 38000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "环保",
+            "TeamTrees"
+          ]
+        },
+        {
+          "title": "推文3",
+          "content": "下一个视频将会改变某人的生活",
+          "url": "https://x.com/MrBeast/status/3",
+          "views": 1500000,
+          "likes": 95000,
+          "comments": 6200,
+          "shares": 28000,
+          "posted_date": "2025-02-03",
+          "sentiment": "正面",
+          "topics": [
+            "预告"
+          ]
+        },
+        {
+          "title": "推文4",
+          "content": "谁能想到数数视频会让我走到今天这一步",
+          "url": "https://x.com/MrBeast/status/4",
+          "views": 1200000,
+          "likes": 180000,
+          "comments": 10500,
+          "shares": 22000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        },
+        {
+          "title": "推文5",
+          "content": "Elon Musk 是个天才，很高兴能在X上分享内容",
+          "url": "https://x.com/MrBeast/status/5",
+          "views": 2100000,
+          "likes": 320000,
+          "comments": 28000,
+          "shares": 65000,
+          "posted_date": "2025-01-25",
+          "sentiment": "正面",
+          "topics": [
+            "名人",
+            "商业"
+          ]
+        },
+        {
+          "title": "推文6",
+          "content": "Feastables 巧克力现在全球发售！",
+          "url": "https://x.com/MrBeast/status/6",
+          "views": 980000,
+          "likes": 75000,
+          "comments": 4200,
+          "shares": 18000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "商业",
+            "产品"
+          ]
+        },
+        {
+          "title": "推文7",
+          "content": "我们的新工厂雇佣了500人，创造就业机会",
+          "url": "https://x.com/MrBeast/status/7",
+          "views": 1100000,
+          "likes": 145000,
+          "comments": 8900,
+          "shares": 32000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "商业",
+            "就业"
+          ]
+        },
+        {
+          "title": "推文8",
+          "content": "免费送出1000万美元，只需订阅我的频道",
+          "url": "https://x.com/MrBeast/status/8",
+          "views": 3200000,
+          "likes": 450000,
+          "comments": 52000,
+          "shares": 125000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "推广",
+            "赠品"
+          ]
+        },
+        {
+          "title": "推文9",
+          "content": "不要让任何人告诉你做不到",
+          "url": "https://x.com/MrBeast/status/9",
+          "views": 850000,
+          "likes": 210000,
+          "comments": 15000,
+          "shares": 28000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "励志"
+          ]
+        },
+        {
+          "title": "推文10",
+          "content": "感谢4.66亿订阅者，你们是最棒的",
+          "url": "https://x.com/MrBeast/status/10",
+          "views": 4500000,
+          "likes": 890000,
+          "comments": 68000,
+          "shares": 220000,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "感谢",
+            "里程碑"
+          ]
+        }
+      ]
+    },
+    "Facebook": {
+      "platform": "Facebook",
+      "handle": "@MrBeast",
+      "followers": 15000000,
+      "following": 12,
+      "total_views": 450000000,
+      "total_likes": 68000000,
+      "total_posts": 450,
+      "engagement_rate": 3.8,
+      "avg_views_per_post": 1000000,
+      "avg_likes_per_post": 151111,
+      "avg_comments_per_post": 8500,
+      "account_created": "2013-06-10",
+      "last_post_date": "2025-02-07",
+      "political_leaning": "中立偏自由派 (Center-Left)",
+      "political_score": -2.0,
+      "content_direction": "主要用于视频推广、产品营销、慈善活动宣传，受众年龄偏大的Facebook用户群体",
+      "content_categories": [
+        "视频推广",
+        "产品营销",
+        "慈善",
+        "互动"
+      ],
+      "brand_mentions": [
+        "Feastables",
+        "Lunchly",
+        "MrBeast Burger",
+        "Walmart"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "全新视频上线！50位YouTuber争夺100万美元！",
+          "url": "https://facebook.com/MrBeast/posts/1",
+          "views": 8500000,
+          "likes": 1200000,
+          "comments": 95000,
+          "shares": 580000,
+          "posted_date": "2024-07-13",
+          "sentiment": "正面",
+          "topics": [
+            "视频推广"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "Feastables巧克力棒现在可以在沃尔玛购买！",
+          "url": "https://facebook.com/MrBeast/posts/2",
+          "views": 3200000,
+          "likes": 450000,
+          "comments": 38000,
+          "shares": 125000,
+          "posted_date": "2024-08-01",
+          "sentiment": "正面",
+          "topics": [
+            "产品发布"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "TeamTrees里程碑：2400万棵树已种植！",
+          "url": "https://facebook.com/MrBeast/posts/3",
+          "views": 5800000,
+          "likes": 920000,
+          "comments": 78000,
+          "shares": 420000,
+          "posted_date": "2024-09-15",
+          "sentiment": "正面",
+          "topics": [
+            "环保",
+            "慈善"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "从0到4.66亿订阅者，感谢每一个人的支持",
+          "url": "https://facebook.com/MrBeast/posts/4",
+          "views": 12000000,
+          "likes": 2100000,
+          "comments": 185000,
+          "shares": 980000,
+          "posted_date": "2024-12-01",
+          "sentiment": "正面",
+          "topics": [
+            "里程碑"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "MrBeast Burger新菜单上线！",
+          "url": "https://facebook.com/MrBeast/posts/5",
+          "views": 2100000,
+          "likes": 280000,
+          "comments": 22000,
+          "shares": 65000,
+          "posted_date": "2024-06-20",
+          "sentiment": "正面",
+          "topics": [
+            "餐饮",
+            "商业"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "猜猜我们下一个视频要花多少钱？",
+          "url": "https://facebook.com/MrBeast/posts/6",
+          "views": 4500000,
+          "likes": 680000,
+          "comments": 125000,
+          "shares": 280000,
+          "posted_date": "2024-10-10",
+          "sentiment": "正面",
+          "topics": [
+            "互动",
+            "预告"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "Lunchly现在全国有售！",
+          "url": "https://facebook.com/MrBeast/posts/7",
+          "views": 1800000,
+          "likes": 220000,
+          "comments": 18000,
+          "shares": 48000,
+          "posted_date": "2024-09-01",
+          "sentiment": "正面",
+          "topics": [
+            "产品",
+            "零售"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "我们能一起改变世界，一次一个善举",
+          "url": "https://facebook.com/MrBeast/posts/8",
+          "views": 7200000,
+          "likes": 1450000,
+          "comments": 125000,
+          "shares": 720000,
+          "posted_date": "2024-11-22",
+          "sentiment": "正面",
+          "topics": [
+            "励志",
+            "慈善"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "和Cristiano Ronaldo一起拍摄太棒了",
+          "url": "https://facebook.com/MrBeast/posts/9",
+          "views": 9800000,
+          "likes": 1800000,
+          "comments": 145000,
+          "shares": 880000,
+          "posted_date": "2024-08-25",
+          "sentiment": "正面",
+          "topics": [
+            "名人",
+            "合作"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "今年目标：帮助100万人",
+          "url": "https://facebook.com/MrBeast/posts/10",
+          "views": 6500000,
+          "likes": 980000,
+          "comments": 85000,
+          "shares": 520000,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "目标",
+            "慈善"
+          ]
+        }
+      ]
+    },
+    "Instagram": {
+      "platform": "Instagram",
+      "handle": "@mrbeast",
+      "followers": 65000000,
+      "following": 145,
+      "total_views": 2800000000,
+      "total_likes": 450000000,
+      "total_posts": 850,
+      "engagement_rate": 6.2,
+      "avg_views_per_post": 3294117,
+      "avg_likes_per_post": 529411,
+      "avg_comments_per_post": 38000,
+      "account_created": "2013-08-15",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立 (Center)",
+      "political_score": -1.5,
+      "content_direction": "个人生活分享、视频幕后花絮、产品推广、与名人合影，展现更个人化的一面",
+      "content_categories": [
+        "生活方式",
+        "幕后",
+        "产品",
+        "团队"
+      ],
+      "brand_mentions": [
+        "Feastables",
+        "Lunchly",
+        "Instagram",
+        "Nike",
+        "Adidas"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "新视频截图 #MrBeast",
+          "url": "https://instagram.com/MrBeast/p/1",
+          "views": 12500000,
+          "likes": 2850000,
+          "comments": 45000,
+          "shares": 125000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "生活方式"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "Feastables新口味发布！",
+          "url": "https://instagram.com/MrBeast/p/2",
+          "views": 5200000,
+          "likes": 980000,
+          "comments": 18000,
+          "shares": 45000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "产品"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "和团队在一起",
+          "url": "https://instagram.com/MrBeast/p/3",
+          "views": 8800000,
+          "likes": 1650000,
+          "comments": 28000,
+          "shares": 75000,
+          "posted_date": "2025-02-01",
+          "sentiment": "正面",
+          "topics": [
+            "团队"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "感谢大家的支持",
+          "url": "https://instagram.com/MrBeast/p/4",
+          "views": 15000000,
+          "likes": 3200000,
+          "comments": 52000,
+          "shares": 145000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "拍摄现场幕后",
+          "url": "https://instagram.com/MrBeast/p/5",
+          "views": 7200000,
+          "likes": 1380000,
+          "comments": 22000,
+          "shares": 58000,
+          "posted_date": "2025-01-25",
+          "sentiment": "正面",
+          "topics": [
+            "幕后"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "新挑战预告",
+          "url": "https://instagram.com/MrBeast/p/6",
+          "views": 9500000,
+          "likes": 2100000,
+          "comments": 38000,
+          "shares": 95000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "预告"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "帮助他人的感觉真好",
+          "url": "https://instagram.com/MrBeast/p/7",
+          "views": 11000000,
+          "likes": 2850000,
+          "comments": 45000,
+          "shares": 125000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "慈善"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "和Elon Musk合影",
+          "url": "https://instagram.com/MrBeast/p/8",
+          "views": 18500000,
+          "likes": 4500000,
+          "comments": 85000,
+          "shares": 280000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "名人"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "生日快乐Thea！",
+          "url": "https://instagram.com/MrBeast/p/9",
+          "views": 14000000,
+          "likes": 3800000,
+          "comments": 62000,
+          "shares": 185000,
+          "posted_date": "2025-01-08",
+          "sentiment": "正面",
+          "topics": [
+            "个人生活"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "2024年回顾",
+          "url": "https://instagram.com/MrBeast/p/10",
+          "views": 16500000,
+          "likes": 4200000,
+          "comments": 75000,
+          "shares": 220000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        }
+      ]
+    },
+    "TikTok": {
+      "platform": "TikTok",
+      "handle": "@mrbeast",
+      "followers": 105000000,
+      "following": 0,
+      "total_views": 8500000000,
+      "total_likes": 1250000000,
+      "total_posts": 450,
+      "engagement_rate": 12.5,
+      "avg_views_per_post": 18888888,
+      "avg_likes_per_post": 2777777,
+      "avg_comments_per_post": 695000,
+      "account_created": "2019-06-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "中立 (Center)",
+      "political_score": -1.0,
+      "content_direction": "短视频内容、搞笑片段、慈善活动快剪、幕后花絮，迎合TikTok年轻用户口味",
+      "content_categories": [
+        "短视频",
+        "搞笑",
+        "慈善",
+        "挑战",
+        "幕后"
+      ],
+      "brand_mentions": [
+        "Feastables",
+        "TikTok",
+        "Walmart"
+      ],
+      "top_10_posts": [
+        {
+          "title": "视频1",
+          "content": "When you realize you have 4.66亿 subscribers",
+          "url": "https://tiktok.com/@mrbeast/video/1",
+          "views": 125000000,
+          "likes": 18500000,
+          "comments": 850000,
+          "shares": 5200000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "搞笑",
+            "反应"
+          ]
+        },
+        {
+          "title": "视频2",
+          "content": "Giving strangers $10,000 #shorts",
+          "url": "https://tiktok.com/@mrbeast/video/2",
+          "views": 98000000,
+          "likes": 15200000,
+          "comments": 720000,
+          "shares": 4100000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "慈善",
+            "街头"
+          ]
+        },
+        {
+          "title": "视频3",
+          "content": "Try not to laugh challenge",
+          "url": "https://tiktok.com/@mrbeast/video/3",
+          "views": 85000000,
+          "likes": 12800000,
+          "comments": 580000,
+          "shares": 3500000,
+          "posted_date": "2025-02-01",
+          "sentiment": "正面",
+          "topics": [
+            "挑战",
+            "娱乐"
+          ]
+        },
+        {
+          "title": "视频4",
+          "content": "POV: You're in a MrBeast video",
+          "url": "https://tiktok.com/@mrbeast/video/4",
+          "views": 145000000,
+          "likes": 22000000,
+          "comments": 1050000,
+          "shares": 6800000,
+          "posted_date": "2025-01-28",
+          "sentiment": "正面",
+          "topics": [
+            "POV",
+            "搞笑"
+          ]
+        },
+        {
+          "title": "视频5",
+          "content": "How we film our videos #behindthescenes",
+          "url": "https://tiktok.com/@mrbeast/video/5",
+          "views": 72000000,
+          "likes": 9800000,
+          "comments": 380000,
+          "shares": 2800000,
+          "posted_date": "2025-01-25",
+          "sentiment": "正面",
+          "topics": [
+            "幕后",
+            "教学"
+          ]
+        },
+        {
+          "title": "视频6",
+          "content": "Giving my editor a house",
+          "url": "https://tiktok.com/@mrbeast/video/6",
+          "views": 110000000,
+          "likes": 18500000,
+          "comments": 920000,
+          "shares": 5200000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "慈善",
+            "员工福利"
+          ]
+        },
+        {
+          "title": "视频7",
+          "content": "Surprising fans at Walmart",
+          "url": "https://tiktok.com/@mrbeast/video/7",
+          "views": 88000000,
+          "likes": 13800000,
+          "comments": 650000,
+          "shares": 3800000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "惊喜",
+            "粉丝互动"
+          ]
+        },
+        {
+          "title": "视频8",
+          "content": "The making of Beast Games",
+          "url": "https://tiktok.com/@mrbeast/video/8",
+          "views": 65000000,
+          "likes": 8500000,
+          "comments": 280000,
+          "shares": 2100000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "幕后",
+            "制作"
+          ]
+        },
+        {
+          "title": "视频9",
+          "content": "Day in the life of MrBeast",
+          "url": "https://tiktok.com/@mrbeast/video/9",
+          "views": 95000000,
+          "likes": 14200000,
+          "comments": 580000,
+          "shares": 3600000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "日常",
+            "生活方式"
+          ]
+        },
+        {
+          "title": "视频10",
+          "content": "Thank you for 100M on TikTok!",
+          "url": "https://tiktok.com/@mrbeast/video/10",
+          "views": 165000000,
+          "likes": 28500000,
+          "comments": 1450000,
+          "shares": 8500000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "里程碑",
+            "感谢"
+          ]
+        }
+      ]
+    },
+    "Podcast": {
+      "platform": "Podcast",
+      "handle": "N/A (Guest only)",
+      "followers": 0,
+      "following": 0,
+      "total_views": 0,
+      "total_likes": 0,
+      "total_posts": 0,
+      "engagement_rate": 0,
+      "avg_views_per_post": 0,
+      "avg_likes_per_post": 0,
+      "avg_comments_per_post": 0,
+      "account_created": "N/A",
+      "last_post_date": "N/A",
+      "political_leaning": "N/A",
+      "political_score": 0,
+      "content_direction": "作为嘉宾出现在其他播客，如The Joe Rogan Experience、Flagrant等",
+      "content_categories": [
+        "访谈",
+        "嘉宾"
+      ],
+      "brand_mentions": [],
+      "top_10_posts": []
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Joe Rogan",
+  "handle": "@joerogan",
+  "country": "USA",
+  "primary_platform": "Podcast",
+  "description": "The Joe Rogan Experience主持人，美国最受欢迎播客主持人之一",
+  "overall_influence_score": 95.0,
+  "platforms": {
+    "podcast": {
+      "platform": "Podcast",
+      "followers": 11000000,
+      "total_views": 6360000000,
+      "total_likes": 0,
+      "total_posts": 2200,
+      "engagement_rate": 15.5,
+      "top_posts": [
+        {
+          "title": "Elon Musk访谈",
+          "views": 50000000,
+          "type": "Interview"
+        },
+        {
+          "title": "Donald Trump竞选背书",
+          "views": 35000000,
+          "type": "Political"
+        }
+      ],
+      "recent_posts": [
+        {
+          "title": "James Talarico访谈",
+          "views": 8000000
+        }
+      ],
+      "political_leaning": "自由意志主义/中立",
+      "content_categories": [
+        "访谈",
+        "政治",
+        "健康",
+        "喜剧",
+        "体育"
+      ],
+      "last_updated": "2026-02-09T14:19:59.973674"
+    },
+    "youtube": {
+      "platform": "YouTube",
+      "followers": 20600000,
+      "total_views": 6360000000,
+      "total_likes": 0,
+      "total_posts": 2200,
+      "engagement_rate": 6.5,
+      "top_posts": [],
+      "recent_posts": [],
+      "political_leaning": "自由意志主义",
+      "content_categories": [
+        "访谈",
+        "政治",
+        "健康"
+      ],
+      "last_updated": "2026-02-09T14:19:59.973678"
+    }
+  }
+}

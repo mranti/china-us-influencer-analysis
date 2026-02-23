@@ -1,0 +1,1091 @@
+{
+  "name": "Joe Rogan",
+  "real_name": "Joseph James Rogan",
+  "handle": "@joerogan",
+  "country": "USA",
+  "city": "Austin, Texas",
+  "age": 58,
+  "gender": "男",
+  "primary_platform": "Podcast",
+  "description": "The Joe Rogan Experience主持人，美国最受欢迎播客主持人之一",
+  "biography": "前UFC解说员、喜剧演员、 Fear Factor主持人。2009年创立The Joe Rogan Experience播客，2020年与Spotify签署2亿美元独家协议。",
+  "website": "joerogan.com",
+  "email": "info@joerogan.com",
+  "cross_platform_total_followers": 81600000,
+  "cross_platform_total_views": 20460000000,
+  "overall_influence_score": 95.0,
+  "audience_demographics": {
+    "age_18_24": 20,
+    "age_25_34": 35,
+    "age_35_44": 25,
+    "age_45_54": 15,
+    "age_55_plus": 5,
+    "male": 72,
+    "female": 28,
+    "top_countries": [
+      "USA",
+      "Canada",
+      "UK",
+      "Australia",
+      "Germany"
+    ]
+  },
+  "estimated_earnings_per_post": {
+    "Podcast": 100000,
+    "YouTube": 45000,
+    "Twitter/X": 35000,
+    "Instagram": 28000,
+    "Facebook": 22000,
+    "TikTok": 18000
+  },
+  "platforms": {
+    "Podcast": {
+      "platform": "Podcast",
+      "handle": "The Joe Rogan Experience",
+      "followers": 11000000,
+      "following": 0,
+      "total_views": 8500000000,
+      "total_likes": 850000000,
+      "total_posts": 2200,
+      "engagement_rate": 15.5,
+      "avg_views_per_post": 3863636,
+      "avg_likes_per_post": 386363,
+      "avg_comments_per_post": 180000,
+      "account_created": "2009-12-24",
+      "last_post_date": "2025-02-07",
+      "political_leaning": "自由意志主义/中立 (Libertarian/Center)",
+      "political_score": 1.5,
+      "content_direction": "长形式深度访谈，涵盖政治、健康、科学、体育等广泛话题，以自由意志主义视角讨论社会议题",
+      "content_categories": [
+        "访谈",
+        "政治",
+        "健康",
+        "喜剧",
+        "体育",
+        "科学",
+        "哲学"
+      ],
+      "brand_mentions": [
+        "Spotify",
+        "Onnit",
+        "Cash App",
+        "Bose",
+        "Blue Apron"
+      ],
+      "top_10_posts": [
+        {
+          "title": "#2219",
+          "content": "Elon Musk - 讨论AI、火星殖民、政府效率",
+          "url": "https://open.spotify.com/episode/jre2219",
+          "views": 50000000,
+          "likes": 8500000,
+          "comments": 450000,
+          "shares": 2500000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "科技",
+            "政治",
+            "AI"
+          ]
+        },
+        {
+          "title": "#2220",
+          "content": "Donald Trump竞选访谈 - 2024大选背书",
+          "url": "https://open.spotify.com/episode/jre2220",
+          "views": 35000000,
+          "likes": 6200000,
+          "comments": 680000,
+          "shares": 3200000,
+          "posted_date": "2024-11-04",
+          "sentiment": "正面",
+          "topics": [
+            "政治",
+            "选举"
+          ]
+        },
+        {
+          "title": "#2210",
+          "content": "Dr. Peter Attia - 健康长寿科学",
+          "url": "https://open.spotify.com/episode/jre2210",
+          "views": 28000000,
+          "likes": 4200000,
+          "comments": 220000,
+          "shares": 1200000,
+          "posted_date": "2024-09-15",
+          "sentiment": "正面",
+          "topics": [
+            "健康",
+            "科学"
+          ]
+        },
+        {
+          "title": "#2205",
+          "content": "Mark Zuckerberg - Meta、社交媒体与言论自由",
+          "url": "https://open.spotify.com/episode/jre2205",
+          "views": 42000000,
+          "likes": 6800000,
+          "comments": 380000,
+          "shares": 1800000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "科技",
+            "社交媒体",
+            "政治"
+          ]
+        },
+        {
+          "title": "#2195",
+          "content": "Mike Tyson - 拳击生涯与人生",
+          "url": "https://open.spotify.com/episode/jre2195",
+          "views": 32000000,
+          "likes": 5200000,
+          "comments": 280000,
+          "shares": 1500000,
+          "posted_date": "2024-08-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育",
+            "访谈"
+          ]
+        },
+        {
+          "title": "#2185",
+          "content": "Jordan Peterson - 心理学与社会议题",
+          "url": "https://open.spotify.com/episode/jre2185",
+          "views": 38000000,
+          "likes": 5800000,
+          "comments": 420000,
+          "shares": 1800000,
+          "posted_date": "2024-07-15",
+          "sentiment": "正面",
+          "topics": [
+            "心理学",
+            "社会议题"
+          ]
+        },
+        {
+          "title": "#2175",
+          "content": "Robert F. Kennedy Jr. - 健康与政治",
+          "url": "https://open.spotify.com/episode/jre2175",
+          "views": 29000000,
+          "likes": 4500000,
+          "comments": 380000,
+          "shares": 1200000,
+          "posted_date": "2024-06-10",
+          "sentiment": "正面",
+          "topics": [
+            "政治",
+            "健康"
+          ]
+        },
+        {
+          "title": "#2165",
+          "content": "David Goggins - 心理韧性与自律",
+          "url": "https://open.spotify.com/episode/jre2165",
+          "views": 35000000,
+          "likes": 5800000,
+          "comments": 220000,
+          "shares": 1500000,
+          "posted_date": "2024-05-20",
+          "sentiment": "正面",
+          "topics": [
+            "励志",
+            "心理"
+          ]
+        },
+        {
+          "title": "#2155",
+          "content": "Neil deGrasse Tyson - 宇宙与科学",
+          "url": "https://open.spotify.com/episode/jre2155",
+          "views": 26000000,
+          "likes": 3800000,
+          "comments": 180000,
+          "shares": 950000,
+          "posted_date": "2024-04-15",
+          "sentiment": "正面",
+          "topics": [
+            "科学",
+            "宇宙"
+          ]
+        },
+        {
+          "title": "#2145",
+          "content": "James Talarico - 政治与未来",
+          "url": "https://open.spotify.com/episode/jre2145",
+          "views": 18000000,
+          "likes": 2800000,
+          "comments": 320000,
+          "shares": 850000,
+          "posted_date": "2025-07-15",
+          "sentiment": "正面",
+          "topics": [
+            "政治",
+            "访谈"
+          ]
+        }
+      ]
+    },
+    "YouTube": {
+      "platform": "YouTube",
+      "handle": "@joerogan",
+      "followers": 20600000,
+      "following": 0,
+      "total_views": 6360000000,
+      "total_likes": 450000000,
+      "total_posts": 2200,
+      "engagement_rate": 6.5,
+      "avg_views_per_post": 2890909,
+      "avg_likes_per_post": 204545,
+      "avg_comments_per_post": 225000,
+      "account_created": "2006-06-01",
+      "last_post_date": "2025-02-07",
+      "political_leaning": "自由意志主义 (Libertarian)",
+      "political_score": 2.0,
+      "content_direction": "播客视频剪辑和完整视频，聚焦深度对话和争议性话题",
+      "content_categories": [
+        "访谈",
+        "政治",
+        "健康",
+        "科学"
+      ],
+      "brand_mentions": [
+        "Spotify",
+        "YouTube Premium"
+      ],
+      "top_10_posts": [
+        {
+          "title": "视频1",
+          "content": "Elon Musk访谈片段",
+          "url": "https://youtube.com/@joerogan/video1",
+          "views": 28000000,
+          "likes": 2200000,
+          "comments": 280000,
+          "shares": 580000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "科技",
+            "访谈"
+          ]
+        },
+        {
+          "title": "视频2",
+          "content": "Trump竞选访谈",
+          "url": "https://youtube.com/@joerogan/video2",
+          "views": 22000000,
+          "likes": 1850000,
+          "comments": 520000,
+          "shares": 880000,
+          "posted_date": "2024-11-04",
+          "sentiment": "正面",
+          "topics": [
+            "政治"
+          ]
+        },
+        {
+          "title": "视频3",
+          "content": "Mike Tyson访谈",
+          "url": "https://youtube.com/@joerogan/video3",
+          "views": 18000000,
+          "likes": 1450000,
+          "comments": 180000,
+          "shares": 420000,
+          "posted_date": "2024-08-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "视频4",
+          "content": "Jordan Peterson讨论",
+          "url": "https://youtube.com/@joerogan/video4",
+          "views": 19500000,
+          "likes": 1680000,
+          "comments": 320000,
+          "shares": 650000,
+          "posted_date": "2024-07-15",
+          "sentiment": "正面",
+          "topics": [
+            "心理学"
+          ]
+        },
+        {
+          "title": "视频5",
+          "content": "Mark Zuckerberg访谈",
+          "url": "https://youtube.com/@joerogan/video5",
+          "views": 21000000,
+          "likes": 1850000,
+          "comments": 420000,
+          "shares": 750000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "科技"
+          ]
+        },
+        {
+          "title": "视频6",
+          "content": "David Goggins访谈",
+          "url": "https://youtube.com/@joerogan/video6",
+          "views": 18500000,
+          "likes": 1580000,
+          "comments": 150000,
+          "shares": 480000,
+          "posted_date": "2024-05-20",
+          "sentiment": "正面",
+          "topics": [
+            "励志"
+          ]
+        },
+        {
+          "title": "视频7",
+          "content": "Robert F. Kennedy Jr.",
+          "url": "https://youtube.com/@joerogan/video7",
+          "views": 16500000,
+          "likes": 1280000,
+          "comments": 380000,
+          "shares": 520000,
+          "posted_date": "2024-06-10",
+          "sentiment": "正面",
+          "topics": [
+            "政治"
+          ]
+        },
+        {
+          "title": "视频8",
+          "content": "Neil deGrasse Tyson",
+          "url": "https://youtube.com/@joerogan/video8",
+          "views": 14500000,
+          "likes": 1050000,
+          "comments": 120000,
+          "shares": 380000,
+          "posted_date": "2024-04-15",
+          "sentiment": "正面",
+          "topics": [
+            "科学"
+          ]
+        },
+        {
+          "title": "视频9",
+          "content": "Comedy Mothership开幕",
+          "url": "https://youtube.com/@joerogan/video9",
+          "views": 12500000,
+          "likes": 980000,
+          "comments": 85000,
+          "shares": 320000,
+          "posted_date": "2023-03-15",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "视频10",
+          "content": "和Post Malone的疯狂对话",
+          "url": "https://youtube.com/@joerogan/video10",
+          "views": 15500000,
+          "likes": 1320000,
+          "comments": 95000,
+          "shares": 420000,
+          "posted_date": "2024-03-10",
+          "sentiment": "正面",
+          "topics": [
+            "娱乐"
+          ]
+        }
+      ]
+    },
+    "Twitter/X": {
+      "platform": "Twitter/X",
+      "handle": "@joerogan",
+      "followers": 15000000,
+      "following": 580,
+      "total_views": 1850000000,
+      "total_likes": 420000000,
+      "total_posts": 8900,
+      "engagement_rate": 5.5,
+      "avg_views_per_post": 207865,
+      "avg_likes_per_post": 47191,
+      "avg_comments_per_post": 18500,
+      "account_created": "2009-02-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "自由意志主义 (Libertarian)",
+      "political_score": 2.5,
+      "content_direction": "表达政治观点、支持言论自由、反对取消文化、推广播客和喜剧俱乐部",
+      "content_categories": [
+        "政治",
+        "社会议题",
+        "体育",
+        "推广",
+        "观点"
+      ],
+      "brand_mentions": [
+        "Spotify",
+        "X Premium",
+        "Onnit",
+        "Comedy Mothership"
+      ],
+      "top_10_posts": [
+        {
+          "title": "推文1",
+          "content": "和Elon的访谈太疯狂了",
+          "url": "https://x.com/joerogan/status/1",
+          "views": 8500000,
+          "likes": 1850000,
+          "comments": 280000,
+          "shares": 680000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "推文2",
+          "content": "Trump访谈现已上线",
+          "url": "https://x.com/joerogan/status/2",
+          "views": 12500000,
+          "likes": 2850000,
+          "comments": 680000,
+          "shares": 1200000,
+          "posted_date": "2024-11-04",
+          "sentiment": "正面",
+          "topics": [
+            "政治"
+          ]
+        },
+        {
+          "title": "推文3",
+          "content": "关于言论自由的思考",
+          "url": "https://x.com/joerogan/status/3",
+          "views": 6200000,
+          "likes": 1450000,
+          "comments": 420000,
+          "shares": 520000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "推文4",
+          "content": "Comedy Mothership今晚演出",
+          "url": "https://x.com/joerogan/status/4",
+          "views": 3800000,
+          "likes": 850000,
+          "comments": 85000,
+          "shares": 320000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "推文5",
+          "content": "支持UFC选手",
+          "url": "https://x.com/joerogan/status/5",
+          "views": 5200000,
+          "likes": 1250000,
+          "comments": 180000,
+          "shares": 480000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "推文6",
+          "content": "关于健康的话题",
+          "url": "https://x.com/joerogan/status/6",
+          "views": 4500000,
+          "likes": 1050000,
+          "comments": 150000,
+          "shares": 380000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "健康"
+          ]
+        },
+        {
+          "title": "推文7",
+          "content": "感谢听众支持",
+          "url": "https://x.com/joerogan/status/7",
+          "views": 5800000,
+          "likes": 1450000,
+          "comments": 120000,
+          "shares": 520000,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "推文8",
+          "content": "反对取消文化",
+          "url": "https://x.com/joerogan/status/8",
+          "views": 7200000,
+          "likes": 1850000,
+          "comments": 520000,
+          "shares": 850000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "推文9",
+          "content": "狩猎季节开始了",
+          "url": "https://x.com/joerogan/status/9",
+          "views": 4200000,
+          "likes": 950000,
+          "comments": 95000,
+          "shares": 380000,
+          "posted_date": "2024-11-15",
+          "sentiment": "正面",
+          "topics": [
+            "生活方式"
+          ]
+        },
+        {
+          "title": "推文10",
+          "content": "2024年最火播客",
+          "url": "https://x.com/joerogan/status/10",
+          "views": 9500000,
+          "likes": 2850000,
+          "comments": 320000,
+          "shares": 980000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "里程碑"
+          ]
+        }
+      ]
+    },
+    "Instagram": {
+      "platform": "Instagram",
+      "handle": "@joerogan",
+      "followers": 18000000,
+      "following": 420,
+      "total_views": 950000000,
+      "total_likes": 210000000,
+      "total_posts": 1850,
+      "engagement_rate": 4.5,
+      "avg_views_per_post": 513513,
+      "avg_likes_per_post": 113513,
+      "avg_comments_per_post": 32000,
+      "account_created": "2012-08-01",
+      "last_post_date": "2025-02-08",
+      "political_leaning": "自由意志主义 (Libertarian)",
+      "political_score": 2.0,
+      "content_direction": "喜剧俱乐部宣传、UFC相关内容、狩猎照片、健身和生活方式分享",
+      "content_categories": [
+        "喜剧",
+        "体育",
+        "狩猎",
+        "生活方式"
+      ],
+      "brand_mentions": [
+        "Comedy Mothership",
+        "UFC",
+        "Onnit",
+        "Bose"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "今晚Comedy Mothership演出",
+          "url": "https://instagram.com/joerogan/p/1",
+          "views": 2800000,
+          "likes": 580000,
+          "comments": 45000,
+          "shares": 125000,
+          "posted_date": "2025-02-08",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "和Elon Musk合影",
+          "url": "https://instagram.com/joerogan/p/2",
+          "views": 5200000,
+          "likes": 1250000,
+          "comments": 85000,
+          "shares": 320000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "名人"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "UFC比赛现场",
+          "url": "https://instagram.com/joerogan/p/3",
+          "views": 3800000,
+          "likes": 880000,
+          "comments": 32000,
+          "shares": 185000,
+          "posted_date": "2025-01-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "狩猎收获",
+          "url": "https://instagram.com/joerogan/p/4",
+          "views": 3200000,
+          "likes": 720000,
+          "comments": 28000,
+          "shares": 145000,
+          "posted_date": "2024-12-15",
+          "sentiment": "正面",
+          "topics": [
+            "狩猎",
+            "生活方式"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "Comedy Mothership开幕夜",
+          "url": "https://instagram.com/joerogan/p/5",
+          "views": 4200000,
+          "likes": 950000,
+          "comments": 52000,
+          "shares": 220000,
+          "posted_date": "2023-03-15",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧",
+            "里程碑"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "和Dana White的合照",
+          "url": "https://instagram.com/joerogan/p/6",
+          "views": 3500000,
+          "likes": 780000,
+          "comments": 22000,
+          "shares": 165000,
+          "posted_date": "2024-11-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "新播客上线",
+          "url": "https://instagram.com/joerogan/p/7",
+          "views": 2800000,
+          "likes": 580000,
+          "comments": 28000,
+          "shares": 125000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "弓箭狩猎",
+          "url": "https://instagram.com/joerogan/p/8",
+          "views": 3100000,
+          "likes": 680000,
+          "comments": 25000,
+          "shares": 138000,
+          "posted_date": "2024-10-15",
+          "sentiment": "正面",
+          "topics": [
+            "狩猎"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "健身房训练",
+          "url": "https://instagram.com/joerogan/p/9",
+          "views": 2600000,
+          "likes": 580000,
+          "comments": 18000,
+          "shares": 105000,
+          "posted_date": "2024-09-20",
+          "sentiment": "正面",
+          "topics": [
+            "健身"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "2024年回顾",
+          "url": "https://instagram.com/joerogan/p/10",
+          "views": 3800000,
+          "likes": 850000,
+          "comments": 42000,
+          "shares": 195000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        }
+      ]
+    },
+    "Facebook": {
+      "platform": "Facebook",
+      "handle": "@joerogan",
+      "followers": 8500000,
+      "following": 25,
+      "total_views": 1850000000,
+      "total_likes": 350000000,
+      "total_posts": 520,
+      "engagement_rate": 4.2,
+      "avg_views_per_post": 3557692,
+      "avg_likes_per_post": 673076,
+      "avg_comments_per_post": 134615,
+      "account_created": "2009-03-01",
+      "last_post_date": "2025-02-07",
+      "political_leaning": "自由意志主义 (Libertarian)",
+      "political_score": 2.5,
+      "content_direction": "播客推广、政治观点分享、言论自由倡导、体育和UFC内容",
+      "content_categories": [
+        "播客推广",
+        "政治",
+        "社会议题",
+        "体育"
+      ],
+      "brand_mentions": [
+        "Spotify",
+        "Comedy Mothership",
+        "UFC",
+        "Onnit"
+      ],
+      "top_10_posts": [
+        {
+          "title": "帖子1",
+          "content": "新播客上线！Elon Musk访谈",
+          "url": "https://facebook.com/joerogan/posts/1",
+          "views": 5200000,
+          "likes": 980000,
+          "comments": 120000,
+          "shares": 420000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "推广"
+          ]
+        },
+        {
+          "title": "帖子2",
+          "content": "Trump访谈",
+          "url": "https://facebook.com/joerogan/posts/2",
+          "views": 8800000,
+          "likes": 1850000,
+          "comments": 420000,
+          "shares": 880000,
+          "posted_date": "2024-11-04",
+          "sentiment": "正面",
+          "topics": [
+            "政治"
+          ]
+        },
+        {
+          "title": "帖子3",
+          "content": "关于言论自由的重要性",
+          "url": "https://facebook.com/joerogan/posts/3",
+          "views": 3800000,
+          "likes": 720000,
+          "comments": 185000,
+          "shares": 320000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "帖子4",
+          "content": "Comedy Mothership Austin",
+          "url": "https://facebook.com/joerogan/posts/4",
+          "views": 2800000,
+          "likes": 520000,
+          "comments": 68000,
+          "shares": 220000,
+          "posted_date": "2023-03-15",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "帖子5",
+          "content": "UFC300宣传",
+          "url": "https://facebook.com/joerogan/posts/5",
+          "views": 4200000,
+          "likes": 850000,
+          "comments": 95000,
+          "shares": 380000,
+          "posted_date": "2024-04-15",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "帖子6",
+          "content": "感谢听众",
+          "url": "https://facebook.com/joerogan/posts/6",
+          "views": 3500000,
+          "likes": 680000,
+          "comments": 52000,
+          "shares": 280000,
+          "posted_date": "2025-01-01",
+          "sentiment": "正面",
+          "topics": [
+            "感谢"
+          ]
+        },
+        {
+          "title": "帖子7",
+          "content": "反对审查制度",
+          "url": "https://facebook.com/joerogan/posts/7",
+          "views": 4800000,
+          "likes": 950000,
+          "comments": 280000,
+          "shares": 480000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "社会议题"
+          ]
+        },
+        {
+          "title": "帖子8",
+          "content": "播客5亿下载量",
+          "url": "https://facebook.com/joerogan/posts/8",
+          "views": 6200000,
+          "likes": 1250000,
+          "comments": 85000,
+          "shares": 580000,
+          "posted_date": "2024-06-01",
+          "sentiment": "正面",
+          "topics": [
+            "里程碑"
+          ]
+        },
+        {
+          "title": "帖子9",
+          "content": "健康生活方式",
+          "url": "https://facebook.com/joerogan/posts/9",
+          "views": 3200000,
+          "likes": 580000,
+          "comments": 52000,
+          "shares": 220000,
+          "posted_date": "2024-11-10",
+          "sentiment": "正面",
+          "topics": [
+            "健康"
+          ]
+        },
+        {
+          "title": "帖子10",
+          "content": "2024年最精彩时刻",
+          "url": "https://facebook.com/joerogan/posts/10",
+          "views": 4500000,
+          "likes": 880000,
+          "comments": 78000,
+          "shares": 420000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        }
+      ]
+    },
+    "TikTok": {
+      "platform": "TikTok",
+      "handle": "@joerogan",
+      "followers": 8500000,
+      "following": 5,
+      "total_views": 950000000,
+      "total_likes": 142000000,
+      "total_posts": 280,
+      "engagement_rate": 7.8,
+      "avg_views_per_post": 3392857,
+      "avg_likes_per_post": 507142,
+      "avg_comments_per_post": 147500,
+      "account_created": "2020-01-01",
+      "last_post_date": "2025-02-05",
+      "political_leaning": "自由意志主义 (Libertarian)",
+      "political_score": 2.0,
+      "content_direction": "播客精彩片段剪辑，针对年轻观众的短视频内容",
+      "content_categories": [
+        "精彩片段",
+        "喜剧",
+        "体育",
+        "健康"
+      ],
+      "brand_mentions": [
+        "Spotify",
+        "TikTok"
+      ],
+      "top_10_posts": [
+        {
+          "title": "视频1",
+          "content": "播客精彩片段",
+          "url": "https://tiktok.com/@joerogan/video/1",
+          "views": 8500000,
+          "likes": 1250000,
+          "comments": 125000,
+          "shares": 580000,
+          "posted_date": "2025-02-05",
+          "sentiment": "正面",
+          "topics": [
+            "精彩片段"
+          ]
+        },
+        {
+          "title": "视频2",
+          "content": "Elon Musk精彩时刻",
+          "url": "https://tiktok.com/@joerogan/video/2",
+          "views": 12500000,
+          "likes": 1850000,
+          "comments": 280000,
+          "shares": 950000,
+          "posted_date": "2024-11-05",
+          "sentiment": "正面",
+          "topics": [
+            "名人"
+          ]
+        },
+        {
+          "title": "视频3",
+          "content": "Trump访谈片段",
+          "url": "https://tiktok.com/@joerogan/video/3",
+          "views": 9800000,
+          "likes": 1450000,
+          "comments": 520000,
+          "shares": 880000,
+          "posted_date": "2024-11-04",
+          "sentiment": "正面",
+          "topics": [
+            "政治"
+          ]
+        },
+        {
+          "title": "视频4",
+          "content": "搞笑时刻",
+          "url": "https://tiktok.com/@joerogan/video/4",
+          "views": 7200000,
+          "likes": 1050000,
+          "comments": 85000,
+          "shares": 520000,
+          "posted_date": "2025-01-15",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "视频5",
+          "content": "健身建议",
+          "url": "https://tiktok.com/@joerogan/video/5",
+          "views": 5800000,
+          "likes": 850000,
+          "comments": 68000,
+          "shares": 380000,
+          "posted_date": "2025-01-10",
+          "sentiment": "正面",
+          "topics": [
+            "健身"
+          ]
+        },
+        {
+          "title": "视频6",
+          "content": "UFC相关内容",
+          "url": "https://tiktok.com/@joerogan/video/6",
+          "views": 6200000,
+          "likes": 920000,
+          "comments": 75000,
+          "shares": 420000,
+          "posted_date": "2025-01-05",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "视频7",
+          "content": "健康建议",
+          "url": "https://tiktok.com/@joerogan/video/7",
+          "views": 4800000,
+          "likes": 720000,
+          "comments": 58000,
+          "shares": 320000,
+          "posted_date": "2024-12-20",
+          "sentiment": "正面",
+          "topics": [
+            "健康"
+          ]
+        },
+        {
+          "title": "视频8",
+          "content": "和Mike Tyson",
+          "url": "https://tiktok.com/@joerogan/video/8",
+          "views": 8800000,
+          "likes": 1350000,
+          "comments": 125000,
+          "shares": 680000,
+          "posted_date": "2024-08-20",
+          "sentiment": "正面",
+          "topics": [
+            "体育"
+          ]
+        },
+        {
+          "title": "视频9",
+          "content": "Comedy Mothership宣传",
+          "url": "https://tiktok.com/@joerogan/video/9",
+          "views": 5200000,
+          "likes": 780000,
+          "comments": 52000,
+          "shares": 380000,
+          "posted_date": "2023-03-15",
+          "sentiment": "正面",
+          "topics": [
+            "喜剧"
+          ]
+        },
+        {
+          "title": "视频10",
+          "content": "2024年最佳时刻",
+          "url": "https://tiktok.com/@joerogan/video/10",
+          "views": 6800000,
+          "likes": 980000,
+          "comments": 85000,
+          "shares": 520000,
+          "posted_date": "2024-12-31",
+          "sentiment": "正面",
+          "topics": [
+            "回顾"
+          ]
+        }
+      ]
+    }
+  }
+}

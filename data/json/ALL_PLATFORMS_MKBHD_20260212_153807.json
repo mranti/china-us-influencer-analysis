@@ -1,0 +1,74 @@
+{
+  "name": "Marques Brownlee (MKBHD)",
+  "category": "Technology",
+  "political_leaning": "科技自由主义",
+  "platforms": {
+    "youtube": {
+      "status": "success",
+      "subscriber_count": 20700000,
+      "total_views": 5242902786,
+      "video_count": 1796,
+      "recent_videos": [
+        {
+          "title": "The Problem with these Smartphone Batteries",
+          "url": "https://youtube.com/watch?v=zPAY2VxfFBk"
+        },
+        {
+          "title": "This is NOT an iPhone",
+          "url": "https://youtube.com/watch?v=Qr4anBkL2_A"
+        },
+        {
+          "title": "PSA: You look like this",
+          "url": "https://youtube.com/watch?v=LXmNeVLM4e4"
+        },
+        {
+          "title": "The Downfall of OnePlus will be Studied",
+          "url": "https://youtube.com/watch?v=vZdbbN3FCzE"
+        },
+        {
+          "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+          "url": "https://youtube.com/watch?v=DqAKQwagCDg"
+        },
+        {
+          "title": "This TECH Knife is Insane!",
+          "url": "https://youtube.com/watch?v=PTd98UnJnnU"
+        },
+        {
+          "title": "The New Siri is... Google (Explained)",
+          "url": "https://youtube.com/watch?v=TVsounscj4U"
+        },
+        {
+          "title": "The Problem with this “Ultra Luxury” Smartphone",
+          "url": "https://youtube.com/watch?v=HLUamwXQ218"
+        },
+        {
+          "title": "I shrunk down into an M5 chip",
+          "url": "https://youtube.com/watch?v=Jh9pFp1oM7E"
+        },
+        {
+          "title": "Every Mistake I Made in 2025",
+          "url": "https://youtube.com/watch?v=v-sCZN3FbR0"
+        }
+      ]
+    },
+    "x": {
+      "platform": "X/Twitter",
+      "status": "failed",
+      "error": "All Nitter instances failed or blocked",
+      "followers": 0,
+      "recent_tweets": []
+    },
+    "tiktok": {
+      "platform": "TikTok",
+      "status": "failed",
+      "error": "All methods failed. TikTok may require US IP or login.",
+      "followers": 0,
+      "total_likes": 0
+    },
+    "podcast": {
+      "status": "success",
+      "podcast_name": "Waveform: The MKBHD Podcast",
+      "total_episodes": 336
+    }
+  }
+}

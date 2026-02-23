@@ -1,0 +1,163 @@
+{
+  "MKBHD": {
+    "name": "Marques Brownlee",
+    "real_name": "Marques Brownlee",
+    "region": "US",
+    "category": "Technology",
+    "political_leaning": "科技自由主义",
+    "platforms": {
+      "youtube": {
+        "status": "success",
+        "followers": 20700000,
+        "views": 5245313278
+      },
+      "twitter": {
+        "status": "estimated",
+        "followers": 3100000,
+        "views": 0
+      },
+      "tiktok": {
+        "status": "estimated",
+        "followers": 4700000,
+        "views": 0
+      },
+      "instagram": {
+        "status": "estimated",
+        "followers": 4200000,
+        "views": 0
+      }
+    }
+  },
+  "MrBeast": {
+    "name": "MrBeast",
+    "real_name": "Jimmy Donaldson",
+    "region": "US",
+    "category": "Entertainment",
+    "political_leaning": "商业中立",
+    "platforms": {
+      "youtube": {
+        "status": "success",
+        "followers": 467000000,
+        "views": 111616822820
+      },
+      "twitter": {
+        "status": "estimated",
+        "followers": 31000000,
+        "views": 0
+      },
+      "tiktok": {
+        "status": "estimated",
+        "followers": 96000000,
+        "views": 0
+      },
+      "instagram": {
+        "status": "estimated",
+        "followers": 65000000,
+        "views": 0
+      }
+    }
+  },
+  "JoeRogan": {
+    "name": "Joe Rogan Experience",
+    "real_name": "Joe Rogan",
+    "region": "US",
+    "category": "Podcast/Politics",
+    "political_leaning": "自由意志主义",
+    "platforms": {
+      "youtube": {
+        "status": "success",
+        "followers": 20700000,
+        "views": 6419917985
+      },
+      "twitter": {
+        "status": "estimated",
+        "followers": 14800000,
+        "views": 0
+      },
+      "tiktok": {
+        "status": "estimated",
+        "followers": 8500000,
+        "views": 0
+      },
+      "podcast": {
+        "status": "estimated",
+        "followers": 14000000,
+        "views": 0
+      }
+    }
+  },
+  "liziqi": {
+    "name": "李子柒",
+    "real_name": "李佳佳",
+    "region": "CN",
+    "category": "传统文化/生活方式",
+    "political_leaning": "文化输出/中性",
+    "platforms": {
+      "bilibili": {
+        "status": "success",
+        "followers": 10339330,
+        "views": 0,
+        "likes": 0
+      },
+      "weibo": {
+        "status": "estimated",
+        "followers": 27500000,
+        "views": 0
+      },
+      "douyin": {
+        "status": "estimated",
+        "followers": 49000000,
+        "views": 0
+      },
+      "youtube": {
+        "status": "success",
+        "followers": 30200000,
+        "views": 3405114528
+      }
+    }
+  },
+  "simanan": {
+    "name": "司马南",
+    "real_name": "于力",
+    "region": "CN",
+    "category": "政治评论/时事",
+    "political_leaning": "民族主义/左派",
+    "platforms": {
+      "weibo": {
+        "status": "estimated",
+        "followers": 2200000,
+        "views": 0
+      },
+      "douyin": {
+        "status": "estimated",
+        "followers": 8500000,
+        "views": 0
+      }
+    }
+  },
+  "huxijin": {
+    "name": "胡锡进",
+    "real_name": "胡锡进",
+    "region": "CN",
+    "category": "政治评论/媒体",
+    "political_leaning": "官方立场/建制派",
+    "platforms": {
+      "bilibili": {
+        "status": "success",
+        "followers": 0,
+        "views": 0,
+        "likes": 0
+      },
+      "weibo": {
+        "status": "estimated",
+        "followers": 24800000,
+        "views": 0
+      },
+      "douyin": {
+        "status": "estimated",
+        "followers": 12000000,
+        "views": 0
+      }
+    }
+  }
+}

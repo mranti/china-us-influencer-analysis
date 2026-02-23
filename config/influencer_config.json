@@ -1,0 +1,63 @@
+{
+  "influencers": [
+    {
+      "name": "Joe Rogan",
+      "handles": {
+        "youtube": "powerfuljre",
+        "x": "joerogan",
+        "tiktok": "joerogan",
+        "instagram": "joerogan",
+        "facebook": "JOE ROGAN"
+      },
+      "category": "Podcast/Politics",
+      "description": "去中心化舆论掮客，美国反建制话语的主要阵地",
+      "political_leaning": "Libertarian/反建制",
+      "content_themes": ["政治评论", "深度访谈", "UFC体育", "健康养生", "科学探索"],
+      "priority": "high"
+    },
+    {
+      "name": "MrBeast",
+      "handles": {
+        "youtube": "MrBeast6000",
+        "x": "MrBeast",
+        "tiktok": "mrbeast",
+        "instagram": "mrbeast"
+      },
+      "category": "Entertainment/Business",
+      "description": "算法工业家，跨越流媒体和快消品的商业帝国",
+      "political_leaning": "商业中立",
+      "content_themes": ["极限挑战", "慈善活动", "商业投资", "科技实验", "娱乐综艺"],
+      "priority": "high"
+    },
+    {
+      "name": "MKBHD",
+      "handles": {
+        "youtube": "mkbhd",
+        "x": "MKBHD",
+        "tiktok": "mkbhd",
+        "instagram": "mkbhd"
+      },
+      "category": "Technology/Review",
+      "description": "科技现实的仲裁者，消费电子深度评测的权威声音",
+      "political_leaning": "科技自由主义",
+      "content_themes": ["科技评测", "消费电子", "AI硬件", "电动车", "摄影创作"],
+      "priority": "high"
+    }
+  ],
+  "scraping_settings": {
+    "delay_between_requests": 2.0,
+    "cache_duration_hours": 1,
+    "max_retries": 3,
+    "timeout_seconds": 10
+  },
+  "output_settings": {
+    "save_history": true,
+    "generate_charts": false,
+    "export_formats": ["json", "csv"]
+  },
+  "monitoring": {
+    "check_frequency": "daily",
+    "alert_on_big_changes": true,
+    "change_threshold_percent": 10
+  }
+}
