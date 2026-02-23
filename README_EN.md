@@ -1,5 +1,7 @@
 # China-US Influencer Social Media Data Analysis System
 
+English | [简体中文](README.md)
+
 A Python project for scraping and analyzing multi-platform social media data of top influencers (KOLs) from China and the United States.
 
 ## 📋 Project Overview
